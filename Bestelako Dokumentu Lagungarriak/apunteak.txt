@@ -1,0 +1,437 @@
+##############################
+#			     #
+#     Eduki Kontzeptualak    #
+#			     #
+##############################
+
+  - Chatbot bat osatzeko hurbilketarik erabilienak: Arau multzoa EDO egoera makina
+
+
+##############################
+#			     #
+#    Aurkitutako Erroreak    #
+#			     #
+##############################
+
+  - GraphComponentException: Error running graph component for node train_UnexpecTEDIntentPolicy2. --> We think this is due to intent not in domain file.
+
+
+##############################
+#			     #
+#    Rasa Agindu kontsola    #
+#			     #
+##############################
+
+  - rasa init --> Proiektu berria sortu (beharrezko fitxategien egitura sortzen da automatikoki)
+  - "config.yml" fitxategian pipeline-a hautatu + rasa train nlu --> eredua pipeline-arekin eta "nlu.yml" fitxategiko datuekin entrenatu
+  - rasa shell nlu --> Eredua frogatu (idatzitako mezuaren arabera iragarriko dena ikusi "intent" eta "entity"-ak erauzi)
+  - rasa train --> NLU eredua eta "Dialogue Management" eredua batera entrenatu
+  - rasa run actions --> "actions.py" fitxategiko "custom actions" erabili ahal izateko
+  - rasa shell --> "chatbot"-a frogatzeko
+
+
+##############################
+#			     #
+#         Pipelines          #
+#			     #
+##############################
+
+  - "pretrained_embeddings_spacy" --> Hasierarako egokia datu gutxi ditugulako
+  ABANTAILAK:
+     + Better model performance with less training data required
+     + Faster training and iteration times
+
+  DESABANTAILAK:
+     + You are limited to languages which have pre-trained word embeddings (english, ...)
+     + Pre-trained word embeddings do not cover specific domain words (not product names, acronyms, ...)
+  
+  - "supervised_embeddings pipeline" --> Malgutasun handiago eskaintzen du
+  ABANTAILAK:
+     + The models will pick up domain specific vocabulary
+     + You can build assistants in any language that can be tokenized
+     + It allows you to handle more advanced cases like messages with multiple intents
+
+
+NOLA AUKERATU:
+  - Are there pretrained word embeddings available for your bot's language?
+     - YES --> Do you need support for multiple intents per message?
+        - YES --> SUPERVISED
+        - NO --> Do you have many domain specific terms / acronyms?
+           - YES --> Do you have a lot of training data?
+              - YES --> SUPERVISED
+              - NO --> PRETRAINED
+           - NO --> PRETRAINED
+     - NO --> SUPERVISED
+
+
+##############################
+#			     #
+#          Domeinua          #
+#			     #
+##############################
+
+  - Gure chatbot-aren unibertsoa.
+     + What the user means
+     + What info to remember
+     + What to say next
+     + Responses
+
+
+##############################
+#			     #
+#      Training Policies     # 
+#			     #
+##############################
+
+  - "chatbot"-ak nola erantzun behar duen erabakitzen du ("config.yml" fitxategian konfiguratu)
+  - 2 hiperparametro:
+     + max_history: defines how many conversational turns an assistant looks at when learning to make the
+		    prediction for the next action
+     + data augmentation: an amount of new stories to create from the existing stories
+			  (datu kopurua areagotzen da -> entrenamendu denbora ere areagotu ->
+			   datu asko izanda hobeto desgaitzea)
+        * rasa train --augmentation 20 (200 augmented stories) 
+	* rasa train --augmentation 0 (DESGAITUTA)
+
+
+##############################
+#			     #
+#           Rasa X           # 
+#			     #
+##############################
+
+  - "chatbot"-ak benetako erabiltzaileengandik ikas dezan erabiltzen den tresna. Zerbitzari bat behar da
+    egikaritzeko (Google Cloud, AWS, ...)
+  - 
+
+
+##############################
+#			     #
+#        Fitxategiak         #
+#			     #
+##############################
+
+
+  - config.yml: (bertsio batetik bestera gauzak aldatuta daude. Baliteke ezaugarri batzuk ez existitzea)
+
+	* NLU ereduak 2 elementu behar ditu "intent"-ak sailkatzeko: 
+	   - "Featurizer": Token-etatik ezaugarriak erauzi (sailkatzaileak dauden patroiak ikusi eta hauetatik ikasi)
+	   - "Classifier": Esaldiak sailkatu "intent"-aren arabera
+
+	* Ordena garrantzitsua:
+	- Tokenizer
+	- Featurizer (Token-ak erabili ezaugarriak antzemateko)
+	- Classifier (Ezaugarriak erabili patroiak antzemateko eta iragarpenak egiteko)
+
+	ADBZ. 1:
+	language: en
+	pipeline: supervised_embeddings
+
+			|||
+
+	language: en
+	pipeline:
+	- name: "WhitespaceTokenizer" --> Esaldia hitzetan banatu (hutsune zuriak kenduta)
+	- name: "RegexFeaturizer"
+	- name: "CRFEntityExtractor" --> Esaldietatik "entity"-ak erauzi (+ aurre-ondoetako hitzei erreparatu)
+	- name: "EntitySynonymMapper"
+	- name: "CountVectorsFeaturizer" --> BoW adierazpena (SUPERVISED-erako bereziki)
+	- name: "CountVectorsFeaturizer" --> Aurrekoaren antzekoa, baina hitz gehiago -> Entrenamendu denbora areagotu
+	  analyzer:"char_wb"
+	  min_ngram: 1
+	  max_ngram: 4
+	- name: "EmbeddingIntentClassifier" --> "CountVectorsFeaturizer"-ekin batera erabiltzeko egokia
+
+	EDO
+
+	ADBZ. 2:
+	language: en
+	pipeline: pretrained_embeddings_spacy
+
+			|||
+
+	language: en
+	pipeline:
+	- name: "SpacyNLP" --> Hainbat iturritatik hartutako datu-multzoak kargatzeko (bakarrik PRETRAINED erabiltzeko)
+	- name: "SpacyTokenizer" --> "spacy" hitz bektoreak aztertu eta patroien antzematea ahalbidetu
+	- name: "SpacyFeaturizer"
+	- name: "RegexFeaturizer" --> Espresio erregularrak eta taula bateko balioak (adbz. 150 herrialde) antzemateko
+	- name: "CRFEntityExtractor"
+	- name: "EntitySynonymMapper"
+	- name: "SklearnIntentClassifier" --> Patroiak antzeman eta iragarpenak egin
+
+	ADBZ. 3:
+	language: en
+	pipeline: pretrained_embeddings_spacy
+	
+	policies:
+
+	* Iragarpen bakoitzean "confidence score" handiena ematen duen iragarpena hartuko da hurrengo erabakitzat
+	* Berdinketa badago "priority"-aren arabera aukeratzen da. Defektuz honako "priority"-ak dituzte defektuz
+	* (hauek erabiltzea gomendatzen da nahi ez diren emaitzak ekiditeko)
+	* 	5. FormPolicy
+	* 	4. FallbackPolicy && TwoStageFallbackPolicy
+	* 	3. MemoizationPolicy && AugmentedMemoizationPolicy
+	*	2. MappingPolicy
+	* 	1. EmbeddingPolicy && KerasPolicy && SklearnPolicy
+
+	  - name: MemoizationPolicy --> Entrenatzeko erabili diren "story"-ak imitatzen ditu (EZ DA BAKARRIK ERABILTZEN)
+	    max_history: 3
+	    priority: 3 --> "policy"-aren prioritate maila
+	  - name: KerasPolicy --> Python-ek duen sare neuronal bat erabiltzen da (LSTM). Honakoak kontuan hartzen dira
+				  hurrengo erabakia iragartzeko:
+				     + Zein izan den azken "action"
+				     + Zer "intent" eta "entity" iragarri diren erabiltzailearen azken esalditik
+				     + Zein "slot"-ek duten balioren bat 
+	    max_history: 3
+	    epochs: 200 --> zenbat aldiz zeharkatu entrenamendurako datu sorta
+	    validation_split: 0.1 --> Entrenamendu sortarako datu kopurua zehazteko
+	    random_seed: 1 --> Datuak nola nahastuko diren zehazteko
+	  - name: MappingPolicy --> Negozio-logika. "intent" bakoitzeko "action" jakin bat dagoenean (EZ DA BAKARRIK ERABILTZEN)     
+
+	  - name: EmbeddingPolicy --> [Transformer Embedding Dialogue Policy] Arkitektura sinpleagoa eta eredu azkarragoak
+				      lortzea ahalbidetzen du; KerasPolicy baino emaitza hobeagoak normalean; 
+				      "chitchat" erako chatetan emaitza onak 
+	  - name: FormPolicy --> Hainbat datu eskatu behar direnean erabili. Beharrezko datu guztiak batu
+				 ez diren bitartean datuak eskatzeko "Form Action" burutuko da 
+	  - name: FallbackPolicy --> Ez esperotako eskaeren/datuen aurrean erantzun bat emateko balio du.
+	    			     Adbz. "Ez dut ulertzen. Badaukazu errepikatzerik?"
+				     EZIN DA "TwoStageFallbackPolicy"-rekin KONBINATU
+	    nlu_threshold: 0.3 --> Iragarpena onartzeko beharrezko gutxieneko konfiantza-maila
+	    ambiguity_threshold: 0.1 --> Iragarritako "intent"-aren eta konfiantza-maila gehien duen bigarrenaren
+					 arteko gainditu beharreko aldea
+	    core_threshold: 0.3 --> Iragarpena onartzeko beharrezko gutxieneko konfiantza-maila
+	    fallback_action_name: 'action_default_fallback' --> "fallback" bat gertatzen denean egikarituko den 
+	   							ekintza (zuk sortutakoa / "default" ekintzak)
+	    - name: TwoStageFallbackPolicy --> "FallbackPolicy" sofistikatuagoa. EZIN DA "FallbackPolicy"-rekin KONBINATU
+					       + Lehenengo iragarpena:
+						  - erabiltzaileak "intent" bat onartu -> elkarrizketarekin jarraitu
+						  - erabiltzaileak ez onartu -> eskaera birformulatzeko eskatu
+					       + Eskaerar birformulatu ostean:
+						  - Eskaerak murrizketak betetzen baditu, elkarrizketarekin jarraitu
+						  - Bestela:
+						    + erabiltzaileak "intent" bat onartu -> elkarrizketarekin jarraitu
+						    + erabiltzaileak ez onartu -> "fallback" ekintza egikaritu
+	     nlu_threshold: 0.3
+	     ambiguity_threshold: 0.1
+	     core_threshold: 0.3
+	     fallback_core_action_name: "action_default_fallback" --> "core_threshold" murrizketa betetzen ez bada egikaritu
+	     fallback_nlu_action_name: "action_default_fallback" --> "nlu_threshold" murrizketa betetzen ez bada egikaritu
+	     deny_suggestion_intent_name: "out_of_scope" --> "fallback" egoerak detektatzeko erabilitako "entity"-aren izena
+	    - name: EntitySynonymMapper: Sinonimoak erabiltzen direnean hauek antzeman ahal izateko 
+
+  - stories.yml:
+
+	*AHOLKUAK:
+	- Focus on building a simple skill first
+	- Test with real users as soon as possible --> Get the best training data you can possibly get
+
+	*ADIBIDEAK (suposatuz "action" eta "intent" horiek dagoeneko sortuta daudela): 
+
+	ADBZ. 1:
+	- story: search hospital happy path
+  	  steps:
+    	    - intent: greet
+    	    - action: utter_greet
+    	    - intent: search_provider
+    	      entities:
+      	        - facility_type: "hospital"
+      	        - location: "San Francisco"
+  	    - action: facility_search
+  	    - intent: thanks
+  	    - action: utter_goodbye
+	
+	ADBZ. 2:
+	- story: search hospital + location
+  	  steps:
+    	    - intent: greet
+    	    - action: utter_greet
+    	    - intent: search_provider
+      	      entities:
+      	        - facility_type: "hospital"
+    	    - action: utter_ask_location
+    	    - intent: inform
+      	    entities:
+      	      - location: "San Francisco"
+    	    - action: utter_facility_found
+    	    - intent: thanks
+    	    - action: utter_goodbye
+
+	ADBZ. 3: ("action.py" fitxategian "slot" baten balioa aldatu da)
+	- story: hospital search + location
+	  steps:
+	    - intent: greet
+ 	    - action: how_can_i_help
+	    - intent: search_provider
+	      entities:
+	        facility_type: "hospital"
+	    - action: utter_ask_location
+	    - intent: inform
+	      entities:
+	        location: "San Francisco"
+	    - action: action_facility_search
+	    - slot_was_set:
+	      - address: "300 Hyde St, San Francisco"
+	    - intent: thanks
+	    - action: utter_goodbye
+
+
+  - domain.yml:
+
+	ADBZ.:
+	version: "3.1"
+
+	intents:
+	  - affirm
+	  - deny
+	  - greet
+	  - thankyou
+	  - goodbye
+	  - search_concerts
+	  - search_venues
+	  - compare_reviews
+	  - bot_challenge
+	  - nlu_fallback
+	  - how_to_get_started
+
+	  # "MappingPolicy" erabiltzen denean
+	  - greet:
+	      triggers: utter_greet
+
+	entities:
+	  - name
+
+	# Gure chatbot-aren memoria (erabiltzaileak elkarrizketan emandako datuak, DB batetik hartutako info, ...).
+	# "slot" baten izena eta "entity" batek izen bera badute, "entity"-ak eskuratzerakoan "slot"-ek balioak 
+	# hartuko dituzte automatikoki. Hau desgaitzeko "auto_fill" atributua erabili.
+	# "slot"-en balioak hala NLU-ak nola guk sortutako "actions"-ek alda ditzakete (hurrengo galderatarako erabilgarria)
+	#
+	# "slot" motak:
+	#	text: (datuaren presentzia)
+	#	bool: true / false (iragarpenerako; bi balio posible daudenean)
+	#	categorical: N baliotaik balio bakarra hartu [low, medium, high] (datuaren presentzia + iragarpenerako)
+	#	float: Koma duten zenbakiak (datuaren presentzia + iragarpenerako)
+	#	list: Hainbat datuz osatutako informazioa gordetzeko. Luzerak ez du eraginik (datuen presentzia)
+	#	any: Edozein motako datuak ekintzetan erabiltzeko (EZ datuen presentzia + EZ iragarpenerako)
+	
+	slots:
+	  location:
+	    type: text
+	  is_authenticated:
+	    type: bool
+	  price_level:
+	    type: categorical
+	    values:
+	    - low
+	    - medium
+	    - high
+	  radius:
+	    type: float
+	    min_value: 0.0 # balioa txikiagoa bada, "min_value" balioa hartu
+	    max_value: 50.0 # balioa handiagoa bada, "max_value" balioa hartu 
+	  appointment_times:
+	    type: list
+	  patient_name:
+	    type: unfeaturized
+			 
+	  concerts: #slot-aren izena
+	    type: list #slot mota
+	    influence_conversation: false
+	    #auto_fill = false
+	    mappings:
+	    - type: custom
+	  venues:
+	    type: list
+	    influence_conversation: false
+	    mappings:
+	    - type: custom
+	  likes_music:
+	    type: bool
+	    influence_conversation: true
+	    mappings:
+	    - type: custom
+
+	responses:
+	  utter_greet:
+	    - text: "Hey there!"
+	  utter_goodbye:
+	    - text: "Goodbye :("
+	  utter_default:
+	    - text: "Sorry, I didn't get that, can you rephrase?"
+	  utter_youarewelcome:
+	    - text: "You're very welcome."
+	  utter_iamabot:
+	    - text: "I am a bot, powered by Rasa."
+	  utter_get_started:
+	    - text: "I can help you find concerts and venues. Do you like music?"
+	  utter_awesome:
+	    - text: "Awesome! You can ask me things like \"Find me some concerts\" or \"What's a good venue\""
+	  utter_facility_found:
+	    - text: "The nearest hospital is within 2 kms, in the Pastor Maldonado street."
+
+	  utter_how_can_i_help:
+	    - text: "Hello. I am a medicare locator. I can help you find nearest hospital. How can I help?"
+	    - text: "Hi. My name is medicare locator. How can I help you today?"
+
+	  utter_ask_location:
+	    - text: "Can you provide your location please?"
+	    - text: "To find the nearest {facility_type} I need your address." #"slot"-aren balioa erabilita
+	
+	actions:
+	  - action_search_concerts
+	  - action_search_venues
+	  - action_show_concert_reviews
+	  - action_show_venue_reviews	
+	  - action_set_music_preference
+	
+	session_config:
+	  session_expiration_time: 60  # value in minutes
+	  carry_over_slots_to_new_session: true
+			
+
+  - actions.py 
+
+	* Hemen osatutako ekintzak web zerbitzari batean egikaritzen dira ("endpoints.yml" fitxategian zehaztu)
+
+	# This files contains your custom actions which can be used to run
+	# custom Python code.
+	#
+	# See this guide on how to implement these action:
+	# https://rasa.com/docs/rasa/custom-actions
+
+
+	# This is a simple example for a custom action which utters "Hello World!"
+
+  	from typing import Any, Text, Dict, List
+
+  	from rasa_sdk import Action, Tracker
+  	from rasa_sdk.executor import CollectingDispatcher
+	from rasa_sdk.events import SlotSet # "slot" bati balioa jakin bat emateko
+	from rasa_sdk.forms import FormAction # formularioak erabiltzeko (beharrezko datu guztiak ditugula ziurtatu)
+
+
+  	class ActionHelloWorld(Action):
+
+	# Refers to the name of the action when creating training stories.
+	# Honi esker, ekintza jakin bat burutu behar dela iragartzen denean,
+	# RASA-k badaki zer kode zati egikaritu behar duen.
+      	def name(self) -> Text:
+          return "action_hello_world" # izen hau "domain.yml" fitxategian AGERTU BEHAR DA
+
+	# Sortutako ekintza izango duen portaera definitzeko (erantzuna, API deiak, ...)
+	# tracker --> Keeps track of what happens at each dialogue state (which slots are set, ...)	
+	# dispatcher --> Sends the respond back to the user
+      	def run(self, dispatcher: CollectingDispatcher,
+              	tracker: Tracker,
+              	domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+	 
+	  #"slot" baten balioa eskuratu (hori beste funtzio batzuetarako erabilgarria: API deiak, ...)
+	  facility = tracker.get_slot("facility_type")
+	  address = "300 Hyde St, San Francisco"
+          dispatcher.utter_message("Here is the address of the {}:{}".format(facility, address))
+
+          return []
+	  #return [SlotSet("address", address)] # "slot" bati balioa jakin bat emateko
+						# aldaketa hauek "stories.yml" fitxategian ikusi behar dira
+
+
