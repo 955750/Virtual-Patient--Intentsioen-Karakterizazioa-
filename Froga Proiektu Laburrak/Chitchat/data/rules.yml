@@ -1,0 +1,33 @@
+version: "3.1"
+
+rules:
+
+- rule: Izena erantzun
+  steps:
+  - intent: izena_galdetu
+  - action: utter_izena_erantzun
+
+- rule: Adina erantzun
+  steps:
+  - intent: adina_galdetu
+  - action: utter_adina_erantzun
+
+- rule: Eguraldia erantzun
+  steps:
+  - intent: eguraldia_galdetu
+  - action: utter_eguraldia_erantzun
+
+- rule: Polen alergia erantzun
+  steps:
+  - intent: polen_alergia_galdetu
+  - action: utter_polen_alergia_erantzun
+
+- rule: Asma erantzun
+  steps:
+  - intent: asma_galdetu
+  - action: utter_asma_erantzun
+
+- rule: Esnekiak gustuko erantzun
+  steps:
+  - intent: esnekiak_gustuko_galdetu
+  - action: utter_esnekiak_gustuko_erantzun

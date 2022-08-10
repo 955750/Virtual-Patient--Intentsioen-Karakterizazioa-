@@ -1,0 +1,25 @@
+{
+  "lookup": {
+    "rules": {},
+    "rule_only_slots": [],
+    "rule_only_loops": [],
+    "rules_for_loop_unhappy_path": {
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}}, {\"active_loop\": {\"name\": \"facility_form\"}, \"prev_action\": {\"action_name\": \"facility_form\"}, \"slots\": {\"facility_type\": [1.0], \"location\": [1.0]}, \"user\": {\"entities\": [\"facility_type\", \"location\"], \"intent\": \"search_provider\"}}]": "do_not_predict_loop_action",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}}, {\"active_loop\": {\"name\": \"facility_form\"}, \"prev_action\": {\"action_name\": \"find_healthcare_address\"}, \"slots\": {\"facility_id\": [1.0], \"facility_type\": [1.0], \"location\": [1.0]}, \"user\": {\"entities\": [\"facility_id\"], \"intent\": \"inform\"}}]": "do_not_predict_loop_action",
+      "[{\"prev_action\": {\"action_name\": \"find_healthcare_address\"}}, {\"active_loop\": {\"name\": \"facility_form\"}, \"prev_action\": {\"action_name\": \"utter_address\"}, \"slots\": {\"facility_id\": [1.0], \"facility_type\": [1.0], \"location\": [1.0]}, \"user\": {\"entities\": [\"facility_id\"], \"intent\": \"inform\"}}]": "do_not_predict_loop_action",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}}, {\"active_loop\": {\"name\": \"facility_form\"}, \"prev_action\": {\"action_name\": \"utter_noworries\"}, \"slots\": {\"facility_id\": [1.0], \"facility_type\": [1.0], \"location\": [1.0]}, \"user\": {\"intent\": \"thanks\"}}]": "do_not_predict_loop_action",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}}, {\"active_loop\": {\"name\": \"facility_form\"}, \"prev_action\": {\"action_name\": \"facility_form\"}, \"slots\": {\"facility_type\": [1.0]}, \"user\": {\"entities\": [\"facility_type\"], \"intent\": \"inform\"}}]": "do_not_predict_loop_action",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}}, {\"active_loop\": {\"name\": \"facility_form\"}, \"prev_action\": {\"action_name\": \"find_healthcare_address\"}, \"slots\": {\"facility_id\": [1.0], \"facility_type\": [1.0]}, \"user\": {\"entities\": [\"facility_id\"], \"intent\": \"inform\"}}]": "do_not_predict_loop_action",
+      "[{\"prev_action\": {\"action_name\": \"find_healthcare_address\"}}, {\"active_loop\": {\"name\": \"facility_form\"}, \"prev_action\": {\"action_name\": \"utter_address\"}, \"slots\": {\"facility_id\": [1.0], \"facility_type\": [1.0]}, \"user\": {\"entities\": [\"facility_id\"], \"intent\": \"inform\"}}]": "do_not_predict_loop_action",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}}, {\"active_loop\": {\"name\": \"facility_form\"}, \"prev_action\": {\"action_name\": \"utter_noworries\"}, \"slots\": {\"facility_id\": [1.0], \"facility_type\": [1.0]}, \"user\": {\"intent\": \"thanks\"}}]": "do_not_predict_loop_action",
+      "[{\"prev_action\": {\"action_name\": \"utter_address\"}}, {\"active_loop\": {\"name\": \"facility_form\"}, \"prev_action\": {\"action_name\": \"action_listen\"}, \"slots\": {\"facility_id\": [1.0], \"facility_type\": [1.0]}, \"user\": {\"entities\": [\"facility_type\"], \"intent\": \"search_provider\"}}]": "loop_was_interrupted",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}}, {\"active_loop\": {\"name\": \"facility_form\"}, \"prev_action\": {\"action_name\": \"facility_form\"}, \"slots\": {\"facility_id\": [1.0], \"facility_type\": [1.0]}, \"user\": {\"entities\": [\"facility_type\"], \"intent\": \"search_provider\"}}]": "do_not_predict_loop_action"
+    },
+    "rules_not_in_stories": [
+      "handling active loops and forms - facility_form",
+      "predicting default action with intent session_start",
+      "predicting default action with intent restart",
+      "predicting default action with intent back"
+    ]
+  }
+}

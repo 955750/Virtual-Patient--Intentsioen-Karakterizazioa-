@@ -1,0 +1,33 @@
+version: "3.1"
+
+intents:
+  - izena_galdetu
+  - adina_galdetu
+  - eguraldia_galdetu
+  - polen_alergia_galdetu
+  - asma_galdetu
+  - esnekiak_gustuko_galdetu
+
+responses:
+  utter_izena_erantzun:
+  - text: "Kaixo, nire izena IXA-Bot-2022 da."
+
+  utter_adina_erantzun:
+  - text: "Duela egun batzuk eman didate bizitza. Beraz, 0.1 urte inguru ditudala esango nuke :)"
+
+  utter_eguraldia_erantzun:
+  - text: "Gaur egun eguzkitsua espero da eta zerua oskarbi egongo da egun osoan zehar hemen ikus dezakezun bezala."
+    image: "https://i.imgur.com/vwv7aHN.png"
+
+  utter_polen_alergia_erantzun:
+  - text: "Ez diot alergiarik polenari, eod hori uste dut behintzat."
+
+  utter_asma_erantzun:
+  - text: "Ez daukat asmarik."
+
+  utter_esnekiak_gustuko_erantzun:
+  - text: "Nola ez ba! Nire jakirik gustukoenak dira!"
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

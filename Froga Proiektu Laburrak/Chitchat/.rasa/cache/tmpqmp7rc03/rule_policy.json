@@ -1,0 +1,38 @@
+{
+  "lookup": {
+    "rules": {
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"adina_galdetu\"}}]": "utter_adina_erantzun",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"adina_galdetu\"}}, {\"prev_action\": {\"action_name\": \"utter_adina_erantzun\"}, \"user\": {\"intent\": \"adina_galdetu\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"eguraldia_galdetu\"}}]": "utter_eguraldia_erantzun",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"eguraldia_galdetu\"}}, {\"prev_action\": {\"action_name\": \"utter_eguraldia_erantzun\"}, \"user\": {\"intent\": \"eguraldia_galdetu\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"asma_galdetu\"}}]": "utter_asma_erantzun",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"asma_galdetu\"}}, {\"prev_action\": {\"action_name\": \"utter_asma_erantzun\"}, \"user\": {\"intent\": \"asma_galdetu\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"esnekiak_gustuko_galdetu\"}}]": "utter_esnekiak_gustuko_erantzun",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"esnekiak_gustuko_galdetu\"}}, {\"prev_action\": {\"action_name\": \"utter_esnekiak_gustuko_erantzun\"}, \"user\": {\"intent\": \"esnekiak_gustuko_galdetu\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"izena_galdetu\"}}]": "utter_izena_erantzun",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"izena_galdetu\"}}, {\"prev_action\": {\"action_name\": \"utter_izena_erantzun\"}, \"user\": {\"intent\": \"izena_galdetu\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"polen_alergia_galdetu\"}}]": "utter_polen_alergia_erantzun",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"polen_alergia_galdetu\"}}, {\"prev_action\": {\"action_name\": \"utter_polen_alergia_erantzun\"}, \"user\": {\"intent\": \"polen_alergia_galdetu\"}}]": "action_listen"
+    },
+    "rule_only_slots": [],
+    "rule_only_loops": [],
+    "rules_for_loop_unhappy_path": {},
+    "rules_not_in_stories": [
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"asma_galdetu\"}}]",
+      "predicting default action with intent back",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"esnekiak_gustuko_galdetu\"}}, {\"prev_action\": {\"action_name\": \"utter_esnekiak_gustuko_erantzun\"}, \"user\": {\"intent\": \"esnekiak_gustuko_galdetu\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"izena_galdetu\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"adina_galdetu\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"polen_alergia_galdetu\"}}, {\"prev_action\": {\"action_name\": \"utter_polen_alergia_erantzun\"}, \"user\": {\"intent\": \"polen_alergia_galdetu\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"asma_galdetu\"}}, {\"prev_action\": {\"action_name\": \"utter_asma_erantzun\"}, \"user\": {\"intent\": \"asma_galdetu\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"izena_galdetu\"}}, {\"prev_action\": {\"action_name\": \"utter_izena_erantzun\"}, \"user\": {\"intent\": \"izena_galdetu\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"polen_alergia_galdetu\"}}]",
+      "predicting default action with intent restart",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"esnekiak_gustuko_galdetu\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"eguraldia_galdetu\"}}, {\"prev_action\": {\"action_name\": \"utter_eguraldia_erantzun\"}, \"user\": {\"intent\": \"eguraldia_galdetu\"}}]",
+      "predicting default action with intent session_start",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"adina_galdetu\"}}, {\"prev_action\": {\"action_name\": \"utter_adina_erantzun\"}, \"user\": {\"intent\": \"adina_galdetu\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"eguraldia_galdetu\"}}]"
+    ]
+  }
+}

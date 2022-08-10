@@ -1,0 +1,39 @@
+version: "3.1"
+
+nlu:
+
+- intent: izena_galdetu
+  examples: |
+    - Zein da zure izena?
+    - Nola duzu izena?
+    - Nola deitzen zara?
+
+- intent: adina_galdetu
+  examples: |
+    - Zenbat urte dituzu?
+    - Zein da zure adina?
+    - Zenbat betetzen dituzu aurten?
+
+- intent: eguraldia_galdetu
+  examples: |
+    - Zer eguraldi egiten du gaur?
+    - Gaur egun beroa al dator?
+    - Gaurko eguraldiari begiradatxo bat emango diozu, mesedez?
+    - Espero dut gaur egun euritsua ez izatea
+
+- intent: polen_alergia_galdetu
+  examples: |
+    - Polenari alergia al diozu?
+    - Polenak alergia ematen dizu?
+
+- intent: asma_galdetu
+  examples: |
+    - Noizbait asma sintomarik pairatu al duzu?
+    - Asma al duzu?
+    - Asma sentitu al duzu noizbait?
+
+- intent: esnekiak_gustuko_galdetu
+  examples: |
+    - Gazta gustatzen zaizu?
+    - Esnea gustuko al duzu?
+    - Gaztak zapore ona al du?
