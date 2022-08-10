@@ -1,0 +1,14 @@
+intents:
+  - saludo (MTF0001 --> "slot" + "entity" posible "razon_venir")
+  - despedida
+  - razón_venir
+  - edad
+  - alergias
+  - síntomas
+    - dolor **(dentro de preg. cerradas!?!?!)**
+    - medicamentos
+  - preg. cerradas
+  - cerrar conversación
+  - ...
+
+*(no es definitivo)

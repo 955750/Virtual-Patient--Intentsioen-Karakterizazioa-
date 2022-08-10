@@ -1,0 +1,9 @@
+[FALTAN ENLACES BIBLIO (repo github) + IMÁGENES] - Pasar docu. a LATEX 
+
+[HECHO] - Probar que cada script funciona con la estructura de estar carpetas
+
+- Añadir proyecto RASA entero --> VirtualPatientChatbot
+
+  (se pueden añadir instrucciones también para ejecutarlo)
+  	|--> instalar python 3.7/3.8
+	|--> rasa install ....
