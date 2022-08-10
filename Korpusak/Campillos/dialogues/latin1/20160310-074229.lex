@@ -1,0 +1,12 @@
+D: quel est votre nom ?
+P: je suis Martin .
+D: quel est votre âge ?
+P: j'ai 62 ans
+D: quelle est votre taille ?
+P: je mesure environ 174
+D: pourquoi venez-vous ?
+P: Alors, je viens pour une douleur à la poitrine, toux et fièvre .
+D: quel est votre métier ?
+P: je suis retraité, mais je suis ancien maraîcher .
+D: avez-vous fait ce travail toute votre vie ?
+P: retraité, mais je suis ancien maraîcher

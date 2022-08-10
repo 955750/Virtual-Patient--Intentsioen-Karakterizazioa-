@@ -1,0 +1,22 @@
+D: ¿te duele respirar?
+P: tos seca
+D: ¿cuánto tiempo lleva esto ocurriendo?
+P: ¿A qué se refiere? ¿Puede ser más específico?
+D: ¿durante cuánto tiempo?
+P: Tengo dolores en el pecho derecho desde anoche a las 20 horas
+D: ¿tiene usted alguna alergia?
+P: No tengo ninguna alergia, que yo sepa
+D: ¿fumas?
+P: Fumo (20 cigarrillos al día desde los 20 años)
+D: tendrás que dejar de fumar
+P: sí, tienes razón, debería parar
+D: ¿haces algún deporte?
+P: jardinería, trato los cultivos con productos fitosanitarios
+D: ¿jardinería con protección?
+P: Efectivamente, la jardinería, trato los cultivos con productos fitosanitarios
+D: ¿Es usted alérgico a los productos?
+P: No tengo ninguna alergia, pero nunca me he hecho una prueba de alergia
+D: estás estresado
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Estás estresado?
+P: No. No estos síntomas.

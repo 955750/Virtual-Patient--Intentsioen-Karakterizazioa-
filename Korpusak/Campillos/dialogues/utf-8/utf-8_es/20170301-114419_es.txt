@@ -1,0 +1,80 @@
+D: Buenos días, por favor siéntese
+P: No entiendo muy bien lo que me pregunta.
+D: ¿cuál es tu altura?
+P: Mido 1 metro y 65 centímetros
+D: gracias, ¿pesas?
+P: De nada.
+D: ¿Cuánto pesas ahora?
+P: unos 62 kilos
+D: ¿trabajas?
+P: Soy asistente de guardería.
+D: ¿durante cuánto tiempo?
+P: ¿Perdón?
+D: ¿cuánto tiempo llevas trabajando?
+P: cuidador de niños en una guardería
+D: ¿estás casado?
+P: Estoy casado
+D: ¿tiene hijos?
+P: Tengo 2 hijos
+D: ¿llevas una dieta especial?
+P: Estoy a dieta por la diabetes
+D: ¿qué tipo de diabetes?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿desde cuándo es usted diabético?
+P: verás, no me acuerdo
+D: ¿te estás inyectando insulina?
+P: un antihipertensivo para la hipertensión y una dieta para la diabetes no insulinodependiente. Quizá haya más información en mi expediente.
+D: ¿Haces algún deporte?
+P: ¿A qué se refiere? ¿Puede darme más detalles?
+D: ¿Qué actividades físicas realiza?
+P: caminar ocasionalmente
+D: ¿Qué edad tienen sus hijos?
+P: No puedo responder a su pregunta [No hay información en el expediente].
+D: ¿Bebe usted alcohol?
+P: No. En absoluto
+D: ¿Fumas?
+P: tabaco (1 paquete al día desde los 18 años)
+D: ¿No hay cannabis?
+P: no, no tengo ninguna adicción.
+D: perfecto
+P: No entiendo muy bien lo que me pregunta.
+D: ¿tiene usted alguna alergia?
+P: Sólo soy alérgico al kiwi
+D: ¿no es alérgico a la penicilina?
+P: Sólo soy alérgico al kiwi
+D: ¿ha tenido alguna enfermedad grave?
+P: hipertensión arterial y diabetes no insulinodependiente
+D: ¿alguna operación?
+P: Me han operado para quitarme las amígdalas, me han reparado los ligamentos de la rodilla derecha y me han reparado una hernia inguinal
+D: ¿Toma alguna medicación para la hipertensión?
+P: Un antihipertensivo para la presión arterial alta. Puede haber más información en mi expediente.
+D: ¿Qué medicación antihipertensiva está tomando?
+P: Un antihipertensivo para la hipertensión arterial y una dieta para la diabetes no insulinodependiente. Puede haber más información en mi expediente.
+D: ¿Cuándo se operó de los ligamentos?
+P: quiere decir: ¿cuándo fue su operación de ligamentos?
+D: sí
+P: No sé si está relacionado, pero en 1996 me repararon los ligamentos de la rodilla derecha.
+D: ¿cuándo fue su hernia?
+P: Me han reparado una hernia inguinal en 2006.
+D: ¿Y la operación de amígdalas?
+P: Me operaron de amígdalas cuando era niño.
+D: ¿por qué viene a consulta?
+P: Vengo a consulta antes de una operación para extirpar la vesícula, con colangiografía durante la operación.
+D: ¿qué síntomas tienes?
+P: Tengo dolor de estómago en el lado derecho, debajo de las costillas, y más abajo y vómitos
+D: ¿desde cuándo?
+P: Llevo varios días con dolores en el estómago derecho, debajo de las costillas y más abajo
+D: ¿Tienes fiebre?
+P: No, no lo sé. No estos síntomas.
+D: ¿Le han puesto alguna vez una anestesia general?
+P: Tuve anestesia espinal para la reparación de los ligamentos de la rodilla derecha, anestesia general para la reparación de la hernia inguinal y ni idea de la operación para extirpar las amígdalas
+D: ¿fue bien la anestesia?
+P: Tuve náuseas y vómitos después de la reparación de la hernia inguinal.
+D: ¿has tenido muchos vómitos?
+P: No puedo decírtelo, realmente no presté atención a eso
+D: ¿hay algo más que puedas decirme?
+P: en realidad no
+D: ¿te preocupa la operación?
+P: Recuerdo que no tuve problemas después de la cirugía de extirpación de amígdalas y náuseas y vómitos después de la reparación de la hernia inguinal.
+D: ¿Le explicó su médico el motivo de la operación?
+P: Dr. Noyer, médico de cabecera

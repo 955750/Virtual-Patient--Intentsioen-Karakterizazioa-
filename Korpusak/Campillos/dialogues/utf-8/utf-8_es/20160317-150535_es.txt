@@ -1,0 +1,15 @@
+D: Buenos días, señor. ¿Cómo le va desde su última visita?
+P: Buenos días. Estoy bien. Gracias.
+D: ¿Y por qué has vuelto a verme?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Así que has venido porque eres sordo?
+P: ves, no sé
+D: presbiacusia, ¿tal vez?
+P: ¿Perdón?
+D: ¿Qué edad tienes?
+P: Tengo 44 años
+D: es un poco joven para la presbiacusia. aparte de eso, ¿de qué te quejas?
+D: estás muy callado... ¿sufres de algo?
+D: oh, tienes que despertar. No soy un veterinario. ¿Por qué has vuelto a verme?
+D: bueno . Voy a llamar a los paramédicos de ayer para que te lleven al asilo.
+D: Adiós, señor. Déle mis saludos a su esposa.

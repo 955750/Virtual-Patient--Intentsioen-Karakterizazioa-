@@ -1,0 +1,30 @@
+D: Buenos días
+P: Hola.
+D: ¿cuál es su nombre?
+P: me llamo Alain.
+D: cómo estás Alain
+P: Estoy bien. P: Estoy bien, gracias.
+D: por qué has venido a verme
+P: He venido a sacarme la licencia deportiva para participar en una carrera organizada por mi empresa.
+D: ¿tiene algún historial médico?
+P: Nunca he tenido ninguna enfermedad importante.
+D: ¿Tiene alguna en la actualidad
+P: ¿Perdón?
+D: ¿está usted enfermo?
+P: Nunca he tenido ninguna enfermedad importante .
+D: qué enfermedades tiene
+P: Nunca he tenido ninguna enfermedad importante.
+D: ¿qué haces?
+P: No entiendo muy bien lo que me pregunta.
+D: qué actividades realiza
+P: Así que, ciclismo y natación ocasional
+D: ¿fumas?
+P: no, no fumo
+D: ¿corre usted
+P: ciclismo y natación ocasional
+D: cuántas veces a la semana
+P: ¿Perdón?
+D: ¿cuántas veces a la semana practica el ciclismo?
+P: Exactamente el ciclismo y la natación ocasional
+D: ¿Cuántas veces a la semana practica el ciclismo?
+P: Sí, ciclismo y natación ocasional

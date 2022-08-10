@@ -1,0 +1,106 @@
+D: Buenos días, señor. ¿Qué le trae por aquí?
+P: Buenos días, doctor. Así que he venido a conseguir una licencia deportiva para participar en una carrera organizada por mi empresa.
+D: ¿Sueles correr?
+P: ciclismo y nado ocasionalmente
+D: es la primera vez que nos vemos. ¿se está controlando alguna condición médica conocida?
+P: Nunca he tenido ninguna enfermedad importante.
+D: ¿No hay problemas respiratorios?
+P: No, no especialmente.
+D: ¿algún tipo de asma de esfuerzo?
+P: ya sabes, ni idea
+D: ¿no es alérgico al polen?
+P: No tengo ninguna alergia, que yo sepa
+D: ¿en este momento no tienes tos?
+P: No, nada de eso
+D: ¿fumas?
+P: Nunca he fumado
+D: ¡qué bien! ¿hay gente a tu alrededor que sufra enfermedades respiratorias?
+P: sabes, no sé
+D: ¿todavía viven tus padres?
+P: No sé, lo siento, doctor.
+D: pareces estar en buena forma desde el punto de vista respiratorio, pero tienes un grano de sal en el lado psiquiátrico, ¿no?
+P: bueno, ya sabes, lo uso regularmente, pero no demasiado
+D: sí, sí, ya lo veo, sí... ¿es puro, o está cortado?
+P: ¿hay algo más que quiera saber, doctor?
+D: sí : ¿el nombre de su proveedor?
+P: bueno... ¿eso es todo, doctor?
+D: ah, ya veo... lo estás protegiendo. volviendo a ti: lado del corazón, ¿cómo estás?
+P: Estoy bien. Gracias.
+D: presión arterial alta ?
+P: ves, no sé
+D: ¿no hay dolor en el pecho cuando se hacen esfuerzos?
+P: No
+D: en su familia, ¿no hay enfermedades del corazón?
+P: Ni idea, lo siento, doctor.
+D: Ya me lo imaginaba, ¿en tus padres no hay infartos?
+P: verás, no que yo sepa
+D: ¿ningún problema vascular conocido?
+P: No especialmente
+D: tu madre: ¿no hay flebitis?
+P: ya ves, ni idea
+D: por cierto, ¿tienes hijos?
+P: sí, tengo 2... 10 y 8 años
+D: ¿y están bien?
+P: Muy bien. P: Muy bien, gracias.
+D: ¿Están en la escuela?
+P: No entiendo muy bien lo que me pregunta.
+D: Bueno, no tienen que pedirte ayuda muy a menudo, ¿verdad?
+P: ¿Perdón?
+D: no importa, sólo estaba pensando en voz alta. ¿te has hecho algún análisis de sangre recientemente?
+P: verás, no me acuerdo
+D: ¿hay alguien en su familia con Alzheimer?
+P: No sé, lo siento, doctor.
+D: y golpes, ¿hay alguno en tu familia?
+P: No sé, lo siento, doctor.
+D: ¿Conoce su presión arterial?
+P: Yo sí
+D: ¿Cuánto cuesta?
+P: No, no especialmente.
+D: ¿Cómo te llamas? ¿Tryphon Tournesol?
+P: Soy Alain.
+D: Sí. ¿Y el otro?
+P: bueno... ¿eso es todo, doctor?
+D: no, eso no es todo. ¿quieres tu certificado o no?
+P: entonces... ¿algo más?
+D: sí: esfuérzate en darme respuestas sensatas, ¿vale?
+P: ¿hay algo más que quiera saber, doctor?
+D: sí: ¿duermes bien?
+P: normalmente
+D: ¿qué quieres decir?
+P: ¿Perdón?
+D: ¿cuántas horas de sueño?
+P: No, estos síntomas no.
+D: ¿has pensado en acudir a un otorrinolaringólogo?
+P: No entiendo muy bien lo que me pregunta.
+D: ¡Entonces vuelve cuando hayas eliminado el cerumen que te tapa los oídos!
+P: ¿Perdón?
+D: ¿Tienes tu tarjeta Vitale?
+P: No entiendo muy bien lo que me pregunta.
+D: Te pido tu tarjeta Vitale: ¿la tienes?
+P: No entiendo muy bien lo que me pregunta.
+D: Le pido que se deje de payasadas y pague su consulta.
+P: ya ves, me lo tomo como todo el mundo, sin excesos
+D: está bien, no es excesivo: para ti serán 23 euros, en el sector 1. ¿Pagas con tarjeta de crédito?
+P: ¿Perdón?
+D: por donación... bueno, entonces depende de ti. Yo se lo daré a la AFM en diciembre.
+P: No sé... en dos semanas, creo. Debe tenerlo en el archivo.
+D: Es marzo. estás totalmente desorientado, amigo mío. es una cuestión neurológica o psiquiátrica. te escribiré una carta para un colega del hospital Sainte Anne, ¿vale?
+P: No
+D: ¿por qué no?
+P: No entiendo muy bien lo que me pregunta.
+D: Creo que me he dado cuenta, sí. Te veré en tres meses, después de tu cura en Sainte Anne, ¿de acuerdo?
+P: Me parece bien
+D: ¡Bueno, ya está! Vuelve a la sala de espera, los paramédicos llegarán pronto. ¿No te importa una pequeña camisa de fuerza de tergal blanco?
+P: ¿Perdón?
+D: No importa. ¿Se lo digo a tus hijos?
+P: sí, tengo dos... 10 y 8 años
+D: Sí, lo sé. ¿Debo advertirles?
+P: ¿hay algo más que quiera saber, doctor?
+D: sí: ¿el número de tu ex-mujer?
+P: entonces... ¿algo más?
+D: ¿El número de teléfono de tu ex-mujer?
+P: ¿Perdón?
+D: Lo veremos más tarde. ¡Adiós!
+P: No entiendo muy bien lo que me pregunta.
+D: ¡Adiós!
+P: Adiós, doctor.

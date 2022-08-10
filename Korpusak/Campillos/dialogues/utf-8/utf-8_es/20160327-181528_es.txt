@@ -1,0 +1,76 @@
+D: Buenos días, señor
+P: Buenos días.
+D: ¿Por qué vienes a verme hoy?
+P: Bueno, he venido por un dolor de pecho, tos y fiebre.
+D: ¿qué edad tienes?
+P: Tengo 62 años
+D: ¿y su altura?
+P: Tengo alrededor de 174
+D: ¿y su peso?
+P: 78 kilos
+D: ¿desde cuándo tiene dolores en el pecho?
+P: Tengo dolores en el pecho en el lado derecho desde anoche a las 20 horas
+D: ¿Qué tan fuerte es el dolor?
+P: Tengo dolores en el pecho en el lado derecho desde anoche a las 20 horas
+D: ¿has tenido alguna vez dolores así?
+P: Nunca he tenido estos síntomas en el pasado.
+D: ¿Le sigue un cardiólogo?
+P: En realidad no
+D: ¿Le siguen otras especialidades?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Le sigue algún médico especialista?
+P: No
+D: ¿Fumas?
+P: Sí, exactamente, fumo
+D: ¿durante cuánto tiempo?
+P: Fumo desde los 20 años
+D: ¿y cuántos cigarrillos al día?
+P: Fumo 20 cigarrillos al día
+D: ¿es usted diabético?
+P: no especialmente
+D: ¿tiene usted colesterol?
+P: en absoluto, no
+D: ¿haces algún deporte?
+P: jardinería, tratamiento de los cultivos con productos fitosanitarios
+D: ¿Tiene usted alguna alergia?
+P: Que yo sepa, no tengo ninguna alergia
+D: ¿Toma algún tratamiento?
+P: Entonces, co-renitec para la hipertensión
+D: ¿Cuál es su presión arterial?
+P: No he medido mi presión arterial
+D: ¿ha tenido alguna enfermedad?
+P: presión arterial alta
+D: ¿te has operado alguna vez?
+P: Así que tuve una hernia inguinal derecha y una operación de apendicitis
+D: ¿algún antecedente familiar?
+P: Ni idea, lo siento, doctor.
+D: ¿Está usted casado?
+P: casado
+D: ¿tiene hijos?
+P: sí, tengo 3 hijos
+D: ¿cómo te sientes hoy?
+P: bueno, varios problemas, tengo fiebre, sudor y dificultad para respirar
+D: ¿te has quedado sin aliento?
+P: sí
+D: ¿te quedas sin aliento cuando estás sentado?
+P: ¿Perdón?
+D: ¿le falta el aire cuando está sentado?
+P: Sí, lo soy
+D: ¿cómo está tu tos?
+P: seco
+D: ¿tiene esputo?
+P: sí, exactamente
+D: ¿tiene esputo amarillo?
+P: amarillo
+D: ¿estás sudando?
+P: Exactamente
+D: ¿y temblores?
+P: En efecto
+D: ¿te has tomado la temperatura?
+P: 38,9° a la derecha, 39,2° a la izquierda
+D: ¿cuál era su profesión?
+P: Estoy jubilado, pero soy un antiguo hortelano.
+D: ¿están sus vacunas al día?
+P: Sí, exactamente las vacunas están al día, pero estuve enfermo después de la vacuna de la gripe a los 65 años
+D: ¿Qué edad tienes?
+P: Tengo 62 años

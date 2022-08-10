@@ -1,0 +1,80 @@
+D: bonjour , asseyez vous
+P: Je ne comprends pas bien ce que vous demandez.
+D: quelle est votre taille ?
+P: je fais 1 mètre 65 centimètres
+D: merci , vous pesez ?
+P: De rien.
+D: combien pesez vous actuellement ?
+P: environ 62 kilos
+D: vous travaillez ?
+P: je suis assistante maternelle en crèche .
+D: depuis longtemps ?
+P: Pardon ?
+D: vous travaillez depuis combien de temps ?
+P: assistante maternelle en crèche
+D: vous êtes mariée ?
+P: je suis mariée
+D: vous vaez des enfants ?
+P: j'ai 2 enfants
+D: vous suivez un régime particulier ?
+P: je suis un régime pour le diabète
+D: quel type de diabète ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: vous êtes diabétique depuis quand ?
+P: vous voyez, je ne m'en souviens pas
+D: vous prenez de l' insuline ?
+P: un antihypertenseur pour l' hypertension et un régime pour le diabète non insulinodépendant . Peut-être qu'il y a plus d'informations dans mon dossier.
+D: vous faites du sport , un peu ?
+P: À quoi faites-vous référence ? Pouvez-vous me donner plus de précisions ?
+D: quelles activités physiques pratiquez vous ?
+P: de la marche à pied occasionnelle
+D: quel âge ont vos enfants ?
+P: Je ne peux pas répondre à votre question [Il n'y a pas d'information dans le dossier]
+D: vous consommez de l' alcool ?
+P: Non. Pas du tout
+D: vous fumez ?
+P: du tabac (1 paquet par jour depuis l'âge de 18 ans)
+D: pas de cannabis ?
+P: non, je n'ai pas de dépendances.
+D: parfait
+P: Je ne comprends pas bien ce que vous demandez.
+D: avez vous des allergies ?
+P: je suis seulement allergique au kiwi
+D: pas d' allergie à la pénicilline ?
+P: je suis seulement allergique au kiwi
+D: avez vous eu des maladies graves ?
+P: de l' hypertension artérielle et du diabète non insulinodépendant
+D: des opérations ?
+P: j'ai eu une opération pour enlever les amygdales , une réparation des ligaments du genou droit et une cure de hernie inguinale
+D: vous prenez un traitement contre l' hypertension ?
+P: un antihypertenseur pour l' hypertension artérielle . Il peut y avoir plus d'informations dans mon dossier.
+D: quel antihypertenseur prenez vous ?
+P: un antihypertenseur pour l' hypertension et un régime pour le diabète non insulinodépendant . Il y a peut-être plus d'informations dans mon dossier.
+D: cétait quand votre opération des ligaments ?
+P: est-ce que vous voulez dire : était quand votre opération des ligaments ?
+D: oui
+P: je ne sais pas si ça a un lien, mais j'ai eu une réparation des ligaments du genou droit 1996 .
+D: c' était quand votre hernie ?
+P: j'ai eu une cure de hernie inguinale 2006 .
+D: et l' opération des amygdales ?
+P: j'ai eu une opération pour enlever les amygdales dans mon enfance .
+D: pourquoi venez vous consulter ?
+P: je viens pour une consultation avant une opération pour enlever la vésicule biliaire, avec cholangiographie pendant l'intervention .
+D: vous avez quels symptomes ?
+P: j'ai des douleurs au ventre à droite, sous les côtes, et plus bas et des vomissements
+D: depuis quand ?
+P: j'ai des douleurs au ventre à droite, sous les côtes, et plus bas depuis plusieurs jours déjà
+D: avez vous de la fièvre ?
+P: Non. Pas ces symptômes.
+D: avez vous déjà eu une anesthésie générale ?
+P: j'ai eu rachianesthésie pour la réparation des ligaments du genou droit , anesthésie générale pour la cure de hernie inguinale et aucune idée pour l' opération pour enlever les amygdales
+D: vos anesthésies se sont bien passées ?
+P: j'ai eu des nausées et des vomissements après cure de hernie inguinale .
+D: vous avez eu beaucoup de vomissements ?
+P: je ne peux pas vous dire, je n'ai pas vraiment fait attention à cela
+D: vous voyez autre chose à me dire ?
+P: Pas vraiment
+D: vous êtes inquiète pour l' opération ?
+P: je me souviens que j'ai eu aucun problème après opération pour enlever les amygdales et des nausées et des vomissements après cure de hernie inguinale .
+D: votre médecin traitant vous a expliqué la raison de l' opération ?
+P: Dr. Noyer, médecin généraliste

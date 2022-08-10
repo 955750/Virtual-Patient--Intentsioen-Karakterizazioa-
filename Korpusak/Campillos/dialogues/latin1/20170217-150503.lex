@@ -1,0 +1,76 @@
+D: bonjour
+P: Bonjour docteur
+D: comment allez-vous ?
+P: Ça va. Merci.
+D: vous êtes sûre ?
+P: Pardon ?
+D: vous allez être anesthésié donc vous ne devez pas aller si bien que ça ?
+P: j'ai eu rachianesthésie pour la réparation des ligaments du genou droit , anesthésie générale pour la cure de hernie inguinale et aucune idée pour l' opération pour enlever les amygdales
+D: quelle sont vos mensurations ?
+P: je fais 1 mètre 65 centimètres
+D: êtes-vous obèse ?
+P: Non, je ne suis pas obèse , mais sinon de l' hypertension et du diabète non insulinodépendant
+D: quel est votre poids ?
+P: environ 62 kilos
+D: êtes-vous mariée ?
+P: je suis mariée
+D: avec qui ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: qui est votre mari ?
+P: mariée
+D: avez-vous des enfants ?
+P: j'ai 2 enfants
+D: pouvez-vous m' en dire plus ?
+P: Pardon ?
+D: qui sont vos enfants ?
+P: j'ai 2 enfants
+D: avez-vous une fille ?
+P: j'ai 2 enfants
+D: quel âge ont vos enfants ?
+P: Je ne peux pas répondre à votre question car je n'ai pas d'information.
+D: quelles sont vos habitudes alimentaires ?
+P: je suis un régime pour le diabète
+D: manger vous des insectes ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: êtes-vous cannibale ?
+P: Pardon ?
+D: faites-vous du sport ?
+P: de la marche à pied occasionnelle
+D: rien d' autre ?
+P: Pardon ?
+D: ce n' est pas assez , vous devriez faire plus de sport !
+P: Je ne peux pas répondre car cette information n'est pas dans le dossier
+D: avez-vous des allergies ?
+P: je suis seulement allergique au kiwi
+D: quelles maladies avez-vous eu ?
+P: de l' hypertension artérielle et du diabète non insulinodépendant
+D: et des opérations ?
+P: j'ai eu une opération pour enlever les amygdales , une réparation des ligaments du genou droit et une cure de hernie inguinale
+D: quand vous-êtes vous fais retirer les amygdales
+P: j'ai eu une opération pour enlever les amygdales dans mon enfance .
+D: quels médicaments prenez-vous actuellement ?
+P: un antihypertenseur pour l' hypertension et un régime pour le diabète non insulinodépendant . Il y a peut-être plus d'informations dans mon dossier.
+D: êtes-vous enceinte ?
+P: ma grossesse a été normale , j'ai accouché par les voies naturelles, avec une péridurale pour le premier, et rien pour le deuxième .
+D: prenez-vous du paracetamol ?
+P: un antihypertenseur pour l' hypertension artérielle et un régime pour le diabète non insulinodépendant . Il peut y avoir plus d'informations dans mon dossier.
+D: avez-vous des troubles psychologiques ?
+P: j'ai des douleurs au ventre à droite, sous les côtes, et plus bas et des vomissements
+D: êtes-vous idiote ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: quel est votre problème ?
+P: je viens pour une consultation avant une opération pour enlever la vésicule biliaire, avec cholangiographie pendant l'intervention .
+D: pouvez-vous m' en dire plus ?
+P: une consultation avant une opération pour enlever la vésicule biliaire, avec cholangiographie pendant l'intervention .
+D: savez-vous ce qu' es une cholangiographie ?
+P: vous voyez, je ne peux pas vous dire, je ne me rappelle pas
+D: c' est quelque chose qui fait très très mal .
+P: j'ai des douleurs au ventre à droite, sous les côtes, et plus bas , j'ai des douleurs par crise .
+D: le médecin vous a-t-il parlé de placer un cathéter ?
+P: Dr. Noyer, médecin généraliste
+D: je vous remercie .
+P: Merci à vous.
+D: je vous révérait après l' intervention si vous êtes toujours vivante .
+P: j'ai eu une opération pour enlever les amygdales , une réparation des ligaments du genou droit et une cure de hernie inguinale
+D: au revoir .
+P: Merci, au revoir.

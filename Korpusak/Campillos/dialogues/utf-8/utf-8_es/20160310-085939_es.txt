@@ -1,0 +1,74 @@
+D: ¿Desde cuándo tienes tos?
+P: Tengo una tos seca desde anoche a las 23 horas
+D: ¿desde cuándo tiene dolor en el pecho?
+P: Tengo dolor en el pecho en el lado derecho desde anoche a las 20 horas
+D: ¿qué siente este dolor?
+P: Tengo dolor en el pecho en el lado derecho desde anoche a las 20 horas
+D: ¿estás escupiendo?
+P: exactamente
+D: ¿durante cuánto tiempo?
+P: Tengo esputo amarillo desde anoche a las 11pm
+D: ¿de qué color es tu saliva?
+P: amarillo
+D: ¿cuál es el volumen de su esputo?
+P: Tengo esputo amarillo desde ayer a las 11 de la noche
+D: ¿cuál es su tratamiento?
+P: No estoy tomando nada
+D: ¿tiene usted alguna alergia?
+P: No tengo ninguna alergia, que yo sepa
+D: ¿fumas?
+P: Sí, lo sé
+D: ¿Cuánto tiempo llevas fumando?
+P: Fumo desde los 20 años
+D: ¿cuántos cigarrillos fumas al día?
+P: Fumo 20 cigarrillos al día
+D: ¿fumas algo más?
+P: Sí, exactamente, fumo
+D: ¿qué problemas de salud ha tenido?
+P: presión arterial alta
+D: ¿te has operado?
+P: Así que tuve una hernia inguinal derecha y una operación de apendicitis
+D: ¿Se ha sometido a alguna anestesia general?
+P: Ni idea.
+D: ¿me das la lista de tus tratamientos?
+P: Así que co-renitec para la presión arterial alta
+D: ¿qué más?
+P: Justo lo que te dije
+D: ¿Qué dosis?
+P: ¿Perdón?
+D: ¿La 1 de la mañana?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Está expuesto a alguna sustancia tóxica?
+P: No, no tomo drogas.
+D: ¿Ha estado expuesto a alguna sustancia tóxica en su trabajo?
+P: jubilado, pero soy un antiguo hortelano
+D: ¿estuvo expuesto a sustancias tóxicas o en su tiempo libre?
+P: jardinería, tratamiento de los cultivos con productos fitosanitarios
+D: ¿Tienes fiebre?
+P: Sí, exactamente
+D: ¿Cuál es su temperatura?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Has perdido peso?
+P: No, estos síntomas no.
+D: ¿tienes buen apetito?
+P: ¿Perdón?
+D: ¿Has perdido peso?
+P: No, no especialmente.
+D: ¿Has perdido peso?
+P: No, nada de eso
+D: ¿Cuál es su peso habitual?
+P: unos 78 kilos
+D: ¿o te duele?
+P: Exactamente
+D: ¿tienes dolor en el pecho?
+P: Yo sí
+D: ¿a la izquierda?
+P: Tengo dolores en el pecho a la derecha
+D: ¿cómo se siente el dolor?
+P: Tengo dolores en el pecho a la derecha
+D: ¿te has dado un golpe en el pecho?
+P: no especialmente
+D: ¿has estado viajando?
+P: no, no he visitado ningún país recientemente
+D: ¿tiene usted alguna alergia?
+P: por lo que sé, no tengo alergias

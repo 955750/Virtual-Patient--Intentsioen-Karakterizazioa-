@@ -1,0 +1,112 @@
+D: Hola, ¿puede decirme su nombre otra vez?
+P: Alain
+D: ¿y su nombre de pila?
+P: me llamo Alain.
+D: ¿cuál es su apellido?
+P: Soy Alain .
+D: ¿qué edad tienes?
+P: Tengo 44 años
+D: ¿tiene usted 44 años?
+P: ¿Perdón?
+D: ¿qué edad tienes?
+P: así que tengo 44 años
+D: ¿estás casado?
+P: Estoy divorciado
+D: ¿cuál es su situación familiar?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Vives solo?
+P: No
+D: ¿tiene usted cónyuge?
+P: divorciado
+D: ¿Tiene hijos?
+P: sí, tengo 2... 10 y 8 años
+D: ¿cuántos hijos tiene?
+P: sí, tengo 2... 10 y 8 años
+D: ¿qué edad tienen sus hijos?
+P: sí, tengo 2... 10 y 8 años
+D: ¿en qué campo trabaja?
+P: Soy informático.
+D: ¿a qué se dedica?
+P: informático
+D: ¿cuál es su trabajo?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿a qué te dedicas en la vida?
+P: Soy informático.
+D: ¿cuál es su trabajo?
+P: informático
+D: ¿conoces tu peso?
+P: 82 kilos
+D: ¿y su altura?
+P: 1 metro 77 centímetros
+D: ¿cuál es tu altura?
+P: Mido 1 metro 77 centímetros
+D: ¿cuánto pesas?
+P: unos 82 kilos
+D: ¿cuál es tu altura?
+P: Mido alrededor de 1 metro 77 centímetros
+D: ¿por qué querías conocerme hoy?
+P: ¿Perdón?
+D: ¿Cuál es el motivo de su visita?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Por qué me consultas?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Haces alguna actividad física?
+P: ciclismo y ocasionalmente nado
+D: ¿Haces algún deporte?
+P: Ciclismo y natación ocasional
+D: ¿Haces alguna actividad?
+P: ¿Perdón?
+D: ¿haces alguna actividad física?
+P: ciclismo y nado ocasionalmente
+D: ¿haces ejercicio?
+P: ciclismo y natación ocasional
+D: ¿fumas?
+P: no, no fumo
+D: ¿bebes alcohol?
+P: No, no bebo. Como máximo un vaso de vino a la semana.
+D: ¿Cuál es su consumo de alcohol?
+P: No me gusta el sabor del alcohol.
+D: ¿Cuánto fumas?
+P: Nunca he fumado
+D: ¿tomas alguna sustancia?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿tomas drogas?
+P: no, no tomo drogas.
+D: ¿tiene alguna adicción en particular?
+P: No especialmente
+D: ¿toma alguna medicación?
+P: En absoluto, no
+D: ¿qué tratamientos toma?
+P: No tomo ninguna medicación
+D: ¿toma alguna medicación?
+P: En realidad no
+D: ¿qué medicación está tomando?
+P: No he tomado nada
+D: ¿Tiene alguna historia en particular?
+P: ¿Perdón?
+D: ¿cuál es su historial médico?
+P: Nunca he tenido ninguna enfermedad importante.
+D: ¿qué enfermedades has tenido?
+P: Nunca he tenido ninguna enfermedad importante.
+D: ¿cuál es su historial quirúrgico?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Cuál es su historial quirúrgico?
+P: No, nunca me he sometido a este tipo de operaciones.
+D: ¿Se ha operado alguna vez?
+P: Nunca me he operado
+D: ¿Algún antecedente familiar?
+P: No sé, lo siento, doctor.
+D: ¿alguna enfermedad particular en la familia?
+P: No sé, lo siento, doctor.
+D: ¿qué síntomas tienes?
+P: Tengo la presión arterial alta
+D: ¿qué sientes?
+P: Sólo eso
+D: ¿qué problemas de salud tiene?
+P: Nunca he tenido ninguna enfermedad importante.
+D: ¿qué sientes?
+P: Justo lo que te dije
+D: ¿por qué nos reunimos hoy?
+P: Vengo a sacarme una licencia deportiva para participar en una carrera organizada por mi empresa.
+D: ¿Por qué vienes a verme?
+P: Sólo lo que te dije

@@ -1,0 +1,52 @@
+D: Buenos días
+P: Hola.
+D: ¿por qué has venido a verme?
+P: dolor en el pecho, tos y fiebre.
+D: ¿desde cuándo tiene estos síntomas?
+P: Tengo fiebre desde ayer por la tarde
+D: ¿te has tomado la temperatura?
+P: 38,9 grados a la derecha, y 39,2 grados a la izquierda
+D: Bien, ¿has tomado algún medicamento para aliviar la fiebre?
+P: No. No, no lo he hecho.
+D: ¿Desde cuándo tiene dolor en el pecho?
+P: Tengo dolores en el pecho en el lado derecho desde anoche a las 20 horas
+D: ¿y la tos?
+P: Tengo una tos seca desde anoche a las 23 horas
+D: ¿ya has hecho alguna otra prueba?
+P: verás, no te puedo decir, no me acuerdo
+D: ¿fumas?
+P: Sí, fumar (20 cigarrillos al día desde los 20 años)
+D: ¿Cuál es su peso?
+P: unos 78 kilos
+D: ¿Cuál es su ocupación?
+P: jubilado, pero soy un antiguo hortelano
+D: ¿haces algún deporte?
+P: jardinería, trato los cultivos con productos fitosanitarios
+D: ¿durante cuánto tiempo?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿llevas una dieta equilibrada?
+P: ¿Perdón?
+D: ¿Estás a dieta?
+P: ¿Perdón?
+D: ¿Qué comes?
+P: sin dieta
+D: ¿bebes alcohol?
+P: Sí, el alcohol
+D: ¿tiene algún otro problema de salud?
+P: presión arterial alta
+D: ¿durante cuánto tiempo?
+P: Tengo la tensión alta desde hace 10 años.
+D: ¿qué estás tomando para ello?
+P: un antihipertensivo para la hipertensión arterial . Puede haber más información en mi expediente.
+D: ¿Funciona bien este tratamiento?
+P: Todo está bien
+D: ¿Se ha operado?
+P: Tuve una hernia inguinal derecha, y una operación de apendicitis
+D: ¿Hace cuánto tiempo le operaron de una hernia?
+P: Tuve una hernia inguinal derecha y una operación de apendicitis
+D: ¿A qué edad se operó de una hernia?
+P: Tuve una hernia inguinal derecha a los 51 años.
+D: ¿Tiene usted alguna mascota?
+P: no, no hay mascotas
+D: ¿has viajado?
+P: No. No he visitado ningún país recientemente. No he visitado ningún país recientemente.

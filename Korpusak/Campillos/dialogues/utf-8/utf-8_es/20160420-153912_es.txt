@@ -1,0 +1,22 @@
+D: ¿Cuál es su problema?
+P: Vengo a una consulta antes de una operación de vesícula, con colangiografía durante la operación.
+D: ¿ha tenido alguna operación anterior?
+P: Me han operado para quitarme las amígdalas, me han reparado los ligamentos de la rodilla derecha y me han reparado una hernia inguinal
+D: ¿Tuvo algún problema durante estas operaciones?
+P: Recuerdo que no tuve problemas después de la cirugía de extirpación de amígdalas y náuseas y vómitos después de la reparación de la hernia inguinal.
+D: ¿Tiene usted alguna alergia?
+P: Sólo soy alérgico al kiwi
+D: ¿tiene algún problema de corazón?
+P: No sé si esto está relacionado, pero tengo hipertensión arterial y diabetes no insulinodependiente
+D: ¿Cuántos años tienes?
+P: Tengo 41 años
+D: ¿cuál es tu altura?
+P: 1 metro 65 centímetros
+D: ¿cuál es su peso?
+P: Peso 62 kilos
+D: ¿trabajas?
+P: Soy asistente de guardería.
+D: ¿tomas la píldora?
+P: coversyl para la hipertensión arterial y una dieta para la diabetes no dependiente de la insulina .
+D: ok, te tomaré la presión sanguínea
+P: sí, efectivamente. para la hipertensión arterial y la diabetes no insulinodependiente

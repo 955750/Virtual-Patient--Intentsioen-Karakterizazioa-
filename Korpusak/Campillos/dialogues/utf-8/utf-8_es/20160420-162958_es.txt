@@ -1,0 +1,24 @@
+D: Hola. Soy el médico que le atenderá. Para empezar, necesitaré algunos datos sobre usted. ¿Cuál es su peso?
+P: 62 kilos
+D: ¿cuál es tu altura?
+P: 1 metro 65 centímetros
+D: ¿a qué se dedica?
+P: Soy cuidadora de niños en una guardería.
+D: ¿tiene hijos?
+P: Tengo 2 hijos
+D: ¿tienes alguna adicción?
+P: Yo fumo
+D: ¿es usted físicamente activo?
+P: caminar ocasionalmente
+D: ¿tiene usted alguna alergia?
+P: Sólo soy alérgico al kiwi
+D: ¿ha tenido alguna enfermedad grave?
+P: hipertensión arterial y diabetes no insulinodependiente
+D: ¿se está haciendo un seguimiento de estas enfermedades?
+P: hipertensión arterial y diabetes no insulinodependiente
+D: ¿tiene algún tratamiento?
+P: coversyl para la hipertensión y una dieta para la diabetes no dependiente de la insulina.
+D: ¿qué dieta sigues?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Ha tenido alguna operación?
+P: Me han operado para quitarme las amígdalas, una reparación de ligamentos en la rodilla derecha y una reparación de hernia inguinal

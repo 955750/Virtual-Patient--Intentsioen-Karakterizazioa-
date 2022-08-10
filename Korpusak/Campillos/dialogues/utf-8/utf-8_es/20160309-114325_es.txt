@@ -1,0 +1,68 @@
+D: Buenos días
+P: Hola.
+D: ¿Cómo estás?
+P: Estoy bien. P: Estoy bien, gracias.
+D: Estás bien, ¿qué te trae por aquí?
+P: Muy bien. P: Estoy bien, gracias.
+D: ¿Está usted enfermo?
+P: hipertensión arterial y diabetes no insulinodependiente
+D: ¿tienes la presión arterial alta?
+P: Sí, efectivamente. La hipertensión arterial y la diabetes no insulinodependiente
+D: te siguen por tu hipertensión
+P: Sí, absolutamente. La hipertensión y la diabetes no insulinodependiente
+D: ¿es ese el motivo de su visita?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Cuál es el motivo de su visita?
+P: Entonces, vengo para una operación de extirpación de la vesícula biliar con colangiografía durante la operación.
+D: Soy anestesista, no voy a operarte
+P: Espera a que me acuerde, así que el Dr. Noyer, médico de cabecera
+D: ¿le envía el doctor Noyer?
+P: Es el doctor Noyer, médico de cabecera
+D: ¿Cuál es el motivo de esta consulta?
+P: Entonces, vengo para una operación de extirpación de la vesícula biliar con colangiografía durante la operación.
+D: Vas a tener una operación, bueno te voy a preguntar sobre la anestesia
+P: Ok
+D: ¿tiene usted alguna alergia?
+P: Sólo soy alérgico al kiwi
+D: ¿no hay otras alergias?
+P: Sólo esto
+D: ¿látex?
+P: ¿Perdón?
+D: ¿alergia al látex?
+P: Sólo soy alérgico al kiwi
+D: ¿te has operado alguna vez?
+P: Me operaron para quitarme las amígdalas, me repararon los ligamentos de la rodilla derecha y me repararon una hernia inguinal
+D: ¿En qué año se le han hecho las amígdalas?
+P: Me operaron de amígdalas cuando era niño, me repararon los ligamentos de la rodilla derecha en 1996 y me repararon una hernia inguinal en 2006
+D: ¿Tuvo algún problema durante estas operaciones?
+P: Recuerdo que tuve náuseas y vómitos después de la reparación de la hernia inguinal.
+D: ¿Algún otro problema?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿ha tenido algún otro problema, alguna hemorragia?
+P: Tengo dolores de estómago en el lado derecho debajo de las costillas y abajo y vómitos
+D: ¿toma alguna medicación?
+P: Así que tomo paracetamol
+D: ¿Qué te van a operar?
+P: Así es, una operación para extirpar la vesícula biliar con colangiografía durante la operación.
+D: ¿Cuál es la fecha de su operación?
+P: Me operaron de amígdalas cuando era niño, me repararon los ligamentos de la rodilla derecha en 1996 y me repararon una hernia inguinal en 2006
+D: ¿Cuándo tendrá lugar la operación que va a realizar?
+P: Ni idea, lo siento doctor. Tal vez lo tengas en el archivo.
+D: ¿tiene un marcapasos o un implante?
+P: Nunca he tenido ese tipo de operación.
+D: ¿Fumas?
+P: Exactamente, yo fumo
+D: ¿Cuántos cigarrillos al día?
+P: Fumo 1 paquete al día
+D: y ¿bebes alcohol?
+P: ¿Perdón?
+D: ¿bebes alcohol?
+P: No me gusta el sabor del alcohol.
+D: ¿Así que no bebes alcohol?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿tiene hijos?
+P: sí, tengo 2 hijos
+D: ¿Cómo fueron los embarazos?
+P: Bueno, casi ineficaz con el paracetamol
+D: ah
+P: ¿Perdón?

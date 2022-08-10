@@ -1,0 +1,60 @@
+D: bonjour Madame
+P: Bonjour, docteur.
+D: qu' est ce qui vous fais consulter ?
+P: Pardon ?
+D: pourquoi consulter vous ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: avez vous eu des maladies ?
+P: de l' hypertension et du diabète non insulinodépendant
+D: avez vous eu des opérations chirurgicales ?
+P: Alors, j'ai eu une opération pour enlever les amygdales , une réparation des ligaments du genou droit et une cure de hernie inguinale
+D: prenez vous des traitements ?
+P: Alors, du coversyl pour l' hypertension artérielle et un régime pour le diabète non insulinodépendant .
+D: fumez vous ?
+P: Oui , je fume
+D: combien fumez vous ?
+P: je fume 1 paquet par jour
+D: depuis quand fumez vous ?
+P: je fume depuis l'âge de 18 ans
+D: buvez vous de l' alcool ?
+P: je bois très rarement, quand il y a des fêtes , c'est tout
+D: prenez vous des toxiques ?
+P: Pardon ?
+D: avez vous des addictions ?
+P: En effet , je fume
+D: prenez vous de la drogue ?
+P: non, je n'ai pas de dépendances.
+D: avez vous des allergies ?
+P: je suis seulement allergique au kiwi
+D: quelles reactions faites vous après ingestion de kiwi ?
+P: vous voyez, j'en consomme régulièrement, mais pas trop
+D: mangez vous des kiwi ?
+P: vous voyez, j'en prends habituellement, mais ni trop ni trop peu
+D: etes vous allergique aux kiwi ?
+P: je suis seulement allergique au kiwi
+D: quels sont vos symptomes ?
+P: j'ai des douleurs au ventre à droite sous les côtes et plus bas et des vomissements
+D: depuis quand avez vous ces symptomes ?
+P: j'ai des douleurs au ventre à droite sous les côtes et plus bas depuis plusieurs jours déjà
+D: quelles taille faite vous ?
+P: je mesure environ 1 mètre 65 centimètres
+D: quel poid faite vous ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: quel poids faite vous ?
+P: environ 62 kilos
+D: quel est votre métier ?
+P: je suis assistante maternelle en crèche .
+D: etes vous marié ?
+P: mariée
+D: etes vous fidèle ?
+P: Pardon ?
+D: avez vous plusieurs partenaires sexuels
+P: Je ne comprends pas bien ce que vous demandez.
+D: avez vous des enfants ?
+P: oui, j'ai 2 enfants
+D: vos enfants sont des farçons ?
+P: oui, j'ai 2 enfants
+D: vos enfants sont des garçons ?
+P: oui, j'ai 2 enfants
+D: des garçons ?
+P: oui, j'ai 2 enfants

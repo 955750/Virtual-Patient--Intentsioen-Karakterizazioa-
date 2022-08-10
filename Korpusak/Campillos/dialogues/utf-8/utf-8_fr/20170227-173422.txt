@@ -1,0 +1,30 @@
+D: bonjour Madame . comme vous devez subir une opération qui demande une anesthésie , il nous faut vérifier un certain nombre d' éléments . d' abord , pourriez vous me donner votre poids ?
+P: environ 62 kilos
+D: bien , et quel est votre taille ?
+P: 1 mètre 65 centimètres
+D: etes vous en bonne condition physique ?
+P: voulez-vous dire : êtes vous en bonne condition physique ?
+D: oui
+P: encore autre chose ?
+D: avez vous des problèmes respiratoires ?
+P: Non. Pas ces symptômes.
+D: vous êtes sure ? vous n' êtes jamais essouflée ?
+P: Non, pas particulièrement.
+D: ok . avez vous fait des analyses de sang récemment ?
+P: est-ce que vous voulez dire : o k . avez vous fait des analyses de sang récemment ?
+D: oui
+P: vous voyez, je ne peux pas vous dire, je ne me rappelle pas
+D: avez vous du cholestérol ?
+P: Non, je n'ai pas de cholestérol , par contre de l' hypertension et du diabète non insulinodépendant
+D: etes vous sous traitement pour ces problèmes ?
+P: est-ce que vous voulez dire : êtes vous sous traitement pour ces problèmes ?
+D: oui
+P: un antihypertenseur pour l' hypertension artérielle et un régime pour le diabète non insulinodépendant . Il peut y avoir plus d'informations dans mon dossier.
+D: bien . avez vous des antécédents d' allergie à certains médicaments ?
+P: je suis seulement allergique au kiwi
+D: bon , cela n' est pas un médicament , cela devrait ne pas poser de problèmes pour l' anesthésie .
+P: je ne prends rien pour l'allergie.
+D: etes vous sous traiteemnt médicamenteux pour d' autres symptômes ?
+P: est-ce que vous voulez dire : êtes vous sous traiteemnt médicamenteux pour d' autres symptômes ?
+D: non , êtes vous sous traitement médicamenteux pour d' autres symptômes ?
+P: vous ne savez pas ?

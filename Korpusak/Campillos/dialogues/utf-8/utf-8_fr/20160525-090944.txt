@@ -1,0 +1,38 @@
+D: quel âge avez-vous ?
+P: j'ai 41 ans
+D: quel est votre poids ?
+P: environ 62 kilos
+D: quelle est votre taille ?
+P: je fais 1 mètre 65 centimètres
+D: travaillez-vous ?
+P: assistante maternelle en crèche
+D: est vous mariée ?
+P: mariée
+D: avez vous des enfants ?
+P: j'ai 2 enfants
+D: quel âge ont vos enfants ?
+P: Je ne souhaite pas donner cette information.
+D: avez vous une activité physique
+P: de la marche à pied occasionnelle
+D: suivez vous un régime ?
+P: je suis un régime pour le diabète
+D: quelle forme de diabète avez vous ?
+P: je ne sais pas si cela a un rapport, mais j'ai de l' hypertension et du diabète non insulinodépendant
+D: avez vous subit d' autre opération chirurgicales
+P: Juste ça
+D: avez vous des allergies
+P: je suis seulement allergique au kiwi
+D: fumez vous ?
+P: En effet , je fume du tabac
+D: combien de cigarettes par jour fumez vous
+P: je fume 1 paquet par jour
+D: depuis combien de temps
+P: je fume depuis l'âge de 18 ans
+D: suivez vous un traitement pour votre diabète
+P: un régime pour le diabète non insulinodépendant
+D: quel type d' opération allez vous subir
+P: C'est ça oui, une consultation avant une opération pour enlever la vésicule biliaire, avec cholangiographie pendant l'intervention .
+D: qui est votre chirurgien
+P: Je ne comprends pas bien ce que vous demandez.
+D: qui va vous opérer
+P: j'ai eu une opération pour enlever les amygdales , une réparation des ligaments du genou droit et une cure de hernie inguinale

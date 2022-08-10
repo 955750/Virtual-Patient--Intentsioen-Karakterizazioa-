@@ -1,0 +1,38 @@
+D: Buenos días Irene.
+P: Buenos días.
+D: no hay mucho miedo escénico... pareces estresado.
+P: No. Nada de eso.
+D: Bien. Te tomaré la tensión de nuevo.
+P: Sí, efectivamente la hipertensión y la diabetes no insulino dependiente
+D: correcto . su presión sanguínea está bien . ¿bebió antes de venir?
+P: Sí, hipertensión y diabetes no insulinodependiente
+D: ¿Bebiste antes de venir?
+P: No, no bebo.
+D: ¿Y fumar?
+P: Exactamente, el tabaco (1 paquete al día desde los 18 años)
+D: ¿Fumabas antes de venir?
+P: Sí, tabaco (1 paquete al día desde los 18 años)
+D: ¿Fumabas antes de venir?
+P: Sí, tabaco (1 paquete al día desde los 18 años)
+D: ¿sólo eres alérgico al kiwi?
+P: Sólo soy alérgico al kiwi
+D: ¿ha recibido alguna vez una transfusión de sangre?
+P: Nunca me han hecho una transfusión de sangre
+D: ¿toma alguna medicación?
+P: un antihipertensivo para la hipertensión arterial y una dieta para la diabetes no insulinodependiente. Puede haber más información en mi expediente.
+D: ¿Sabes por qué has venido?
+P: una consulta antes de una operación para extirpar la vesícula biliar, con colangiografía durante la operación.
+D: Por supuesto. ¿Le han explicado en qué consistirá?
+P: ¿A qué se refiere? ¿Puede darme más detalles?
+D: ¿le explicaron la operación?
+P: Me han operado para quitarme las amígdalas, una reparación de ligamentos en la rodilla derecha y una reparación de hernia inguinal
+D: no es lo más placentero, pero no duele. Extiende el brazo, por favor.
+P: No tuve problemas después de la operación de amígdalas y náuseas y vómitos después de la reparación de la hernia inguinal.
+D: ¿Amígdalas?
+P: En absoluto
+D: probablemente debido a la anestesia, por desgracia .
+P: No entiendo muy bien lo que me pregunta.
+D: bueno, mantén el brazo recto, de lo contrario si pellizcas el catéter, la sangre volverá al goteo.
+P: en realidad no
+D: Anímate. Adiós.
+P: Adiós, doctor.

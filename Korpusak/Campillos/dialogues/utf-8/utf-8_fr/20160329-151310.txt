@@ -1,0 +1,31 @@
+D: bonjour , qu' est-ce qui vous amène içi aujourd'hui ?
+P: Bonjour. Alors, je viens pour confirmer la présence d'hypertension artérielle essentielle .
+D: quel âge avez-vous ?
+P: j'ai 44 ans
+D: vous êtes marié ?
+P: je suis divorcé
+D: vous avez des enfants ?
+P: oui, j'en ai 2 ... de 10 et 8 ans
+D: vous fumez régulièrement ?
+P: non, je ne fume pas
+D: est-ce-que vous buvez de l' alcool régulièrement ?
+P: non, je ne bois pas. Au pire un verre de vin par semaine.
+D: quels symptômes avez-vous ?
+P: j'ai la tension élevée et le cholestérol haut
+D: vous avez un traitement ?
+P: Pas vraiment
+D: vous a-t-il été prescrit un traitement pour la tension élevée ?
+P: Pas spécialement
+D: comment avez-vous découvert votre hypertension artérielle essentielle ?
+P: vous voyez, aucune idée
+D: prenez-vous un traitement ?
+P: Pas du tout, non
+D: avez-vous des douleurs ?
+P: Non, pas ces symptômes.
+D: quelle est votre tension ?
+P: Je ne l'ai pas mesurée
+D: quel est votre taux de cholestérol ?
+P: vous voyez, je ne sais pas
+D: êtes-vous allé déjà voir un autre médecin avant moi ?
+P: avez-vous vu un autre médecin que moi ?
+D: comment vous appelez-vous ?

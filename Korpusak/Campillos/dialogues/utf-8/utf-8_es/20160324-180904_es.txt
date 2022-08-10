@@ -1,0 +1,30 @@
+D: Buenos días, señor
+P: Buenos días, doctor.
+D: ¿Y?
+P: ¿Perdón?
+D: ¿Y qué te pasa?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Qué te pasa?
+P: Entonces, vengo por un dolor de pecho, tos y fiebre.
+D: Tienes tos,
+P: Yo sí
+D: ¿a menudo?
+P: ya ves, sólo que esta vez
+D: desde cuando ,
+P: Tengo una tos seca desde anoche a las 23 horas
+D: ¿y también tienes fiebre?
+P: sí
+D: ¿desde cuándo?
+P: Tengo fiebre desde ayer por la tarde
+D: ¿te has tomado la temperatura?
+P: 38,9° a la derecha, 39,2° a la izquierda, más o menos
+D: ¿tomó un medicamento para ello?
+P: ¿A qué se refiere? ¿Puede ser más específico?
+D: ¿tomó algún medicamento para la fiebre?
+P: No
+D: ¿no hay medicamentos?
+P: En absoluto, no
+D: ¿y ahora sigues teniendo fiebre?
+P: Sí
+D: Voy a examinarte
+P: Eso funciona, vamos

@@ -1,0 +1,34 @@
+D: hola, ¿te han anestesiado alguna vez?
+P: Tuve anestesia espinal para la reparación de los ligamentos de la rodilla derecha, anestesia general para la reparación de la hernia inguinal y ni idea de la operación para extirpar las amígdalas
+D: ¿Cuándo fue su última operación con anestesia?
+P: Me operaron de amígdalas cuando era niño, me repararon los ligamentos de la rodilla derecha en 1996 y me repararon una hernia inguinal en 2006
+D: dime tu peso
+P: 62 kilos
+D: su altura
+P: 1 metro 65 centímetros
+D: ¿Alguna alergia?
+P: Sólo soy alérgico al kiwi
+D: ¿te has hecho algún análisis de sangre recientemente?
+P: verás, no me acuerdo
+D: así que vamos a hacer otra.
+P: ¿Perdón?
+D: ¿se puede hacer otro análisis de sangre antes de la operación?
+P: Me han operado de las amígdalas, de los ligamentos de la rodilla derecha y de una hernia inguinal
+D: ¿Quién le acompañará en esta operación?
+P: una consulta antes de una operación para extirpar la vesícula biliar, con colangiografía durante la operación.
+D: ¿Fumas?
+P: tabaco (1 paquete al día desde los 18 años)
+D: Eso es demasiado.
+P: Por supuesto
+D: ¿bebe regularmente alcohol?
+P: No especialmente
+D: ¿Por qué necesita una operación?
+P: Tengo dolores en el estómago en el lado derecho, debajo de las costillas, y más abajo y vómitos
+D: ¿Se le explicaron los riesgos?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿tiene hijos?
+P: Tengo 2 hijos
+D: ¿qué edades?
+P: ¿quieres decir: jules ages?
+D: lo siento, ¿qué edad tienen sus hijos?
+P: No puedo responder a su pregunta [No hay información en el expediente].

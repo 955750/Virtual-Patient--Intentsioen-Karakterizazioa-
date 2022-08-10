@@ -1,0 +1,64 @@
+D: pourquoi venez vous ?
+P: Alors, je viens pour établir une licence de sport pour participer à une course à pied organisée par mon employeur .
+D: quelle distance de course ?
+P: du vélo et je fais de la natation occasionnellement
+D: avez vous des antécédents médicaux
+P: Je n'ai jamais eu de maladies importantes .
+D: importantes ?
+P: Pardon ?
+D: avez vous du diabete ?
+P: Pardon ?
+D: diabète ?
+P: vous voyez, pas à ma connaissance
+D: de l' hypertension artérielle ?
+P: vous voyez, je ne sais pas
+D: addictions ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: combien buvez vous de verres d' alcool par jour ?
+P: je n'aime pas le goût de l'alcool.
+D: fumez vous ?
+P: non, je ne fume pas
+D: quel est votre métier ?
+P: informaticien
+D: etes vous marié ?
+P: divorcé
+D: combien pesez vous ?
+P: je pèse 82 kilos
+D: combien mesurez vous ?
+P: 1 mètre 77 centimètres
+D: avez vous déjà eu des douleurs thoraciques ?
+P: vous voyez, je ne peux pas vous dire, je ne me souviens pas
+D: etes vous allergique ?
+P: je n'ai aucune allergie, mais je n'ai jamais fait un bilan d'allergies
+D: etes vous allergique à la pénicilline ?
+P: je n'ai pas d'allergie, mais je n'ai jamais fait de tests d'allergies
+D: comment allez vous au travail ?
+P: Ça va bien. Merci.
+D: quels médicaments prenez vous ?
+P: Je ne prends rien
+D: nagez vous beaucoup ?
+P: Exactement du vélo et je fais de la natation occasionnellement
+D: avez vous déjà été opéré ?
+P: non, je n'ai eu aucune opération
+D: avez vous du cholestérol ?
+P: vous voyez, aucune idée
+D: avez vous mal à la tête ?
+P: Pas du tout, non
+D: faites vous des malaises ?
+P: Non, rien de tout ça
+D: avez vous déjà chuté ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: avez vous déjà fait des chutes ?
+P: vous voyez, pas à ma connaissance
+D: avez vous mal aux jambes ?
+P: Pas vraiment
+D: quels sont vos symptômes ?
+P: actuellement, j'ai la tension élevée
+D: faites vous de l' hypertension ?
+P: vous voyez, je ne sais pas
+D: quelle est votre tension artérielle ?
+P: Je ne l'ai pas mesurée
+D: votre coeur bat il vite habituellement ?
+P: Non, pas ces symptômes.
+D: etes vous tachycarde ?
+P: Pardon ?

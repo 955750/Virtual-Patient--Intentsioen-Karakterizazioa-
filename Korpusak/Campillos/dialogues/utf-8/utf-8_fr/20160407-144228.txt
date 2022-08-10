@@ -1,0 +1,6 @@
+D: bonjour
+P: Bonjour, docteur.
+D: comment allez-vous ?
+P: Ça va bien. Merci.
+D: pourquoi vous venez me voir ?
+P: Alors, je viens pour établir une licence de sport pour participer à une course à pied organisée par mon employeur .

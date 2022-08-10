@@ -1,0 +1,34 @@
+D: bonjour
+P: Bonjour
+D: qu' est ce qui vous amène aujourd'hui ?
+P: je viens pour établir une licence de sport, pour participer à une course à pied organisée par mon employeur .
+D: quelle distance ?
+P: Pardon ?
+D: combien de kilomètres fait la course ?
+P: du vélo et je fais de la natation occasionnellement
+D: poids
+P: je pèse 82 kilos
+D: taille
+P: je fais 1 mètre 77 centimètres
+D: antécédents médicaux
+P: Je n'ai jamais eu des maladies graves.
+D: et opérations ?
+P: je n'ai jamais été opérée
+D: traitement
+P: Pas vraiment
+D: allergie
+P: je n'ai aucune allergie, autant que je sache
+D: avez vous des douleurs particulières
+P: Non. Rien de tout ça.
+D: avez vous déjà fait un électrocardiogramme ?
+P: je n'en ai aucune idée
+D: eCG
+P: vous voyez, je ne me rappelle pas
+D: quel est votre métier ,
+P: je suis informaticien .
+D: vous avez déjà eu de la tension
+P: vous voyez, je ne peux pas vous dire, je ne m'en souviens pas
+D: hypertension
+P: vous voyez, je ne peux pas vous dire, je ne me rappelle pas
+D: pression artérielle
+P: vous voyez, je ne m'en souviens pas

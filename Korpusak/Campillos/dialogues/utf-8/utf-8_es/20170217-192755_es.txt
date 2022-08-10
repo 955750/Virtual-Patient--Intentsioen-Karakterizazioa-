@@ -1,0 +1,28 @@
+D: Buenos días
+P: hola
+D: ¿te han anestesiado alguna vez?
+P: Tuve anestesia espinal para la reparación de los ligamentos de la rodilla derecha, anestesia general para la reparación de la hernia inguinal y ni idea de la cirugía de extirpación de amígdalas
+D: ¿Es usted alérgico a algo?
+P: Sólo soy alérgico al kiwi
+D: ¿fumas?
+P: tabaco (1 paquete al día desde los 18 años)
+D: ¿nada más?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Hay otras alergias en su familia?
+P: Ni idea. Lo siento, doctor.
+D: ¿llevas una dieta equilibrada?
+P: Estoy a dieta por la diabetes
+D: ¿qué tipo de diabetes?
+P: ¿Perdón?
+D: ¿es una diabetes dependiente de la insulina?
+P: Sí, bastante alta la presión arterial y la diabetes no dependiente de la insulina
+D: ¿realiza una actividad física regular?
+P: ¿A qué se refiere? ¿Puede darme más detalles?
+D: ¿haces algún deporte?
+P: caminar ocasionalmente
+D: ¿Toma alguna medicación?
+P: Un antihipertensivo para la hipertensión arterial y una dieta para la diabetes no insulinodependiente. Quizá haya más información en mi expediente.
+D: OK
+P: ¿algo más?
+D: gracias, está bien
+P: Es un placer.

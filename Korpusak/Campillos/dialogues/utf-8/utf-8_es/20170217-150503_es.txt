@@ -1,0 +1,76 @@
+D: Buenos días
+P: Hola, doctor.
+D: ¿Cómo estás?
+P: Estoy bien. P: Estoy bien, gracias.
+D: ¿estás seguro?
+P: ¿Perdón?
+D: te van a anestesiar, así que no debes estar muy bien...
+P: Tuve anestesia espinal para la reparación del ligamento de la rodilla derecha, anestesia general para la reparación de la hernia inguinal y ni idea de la operación para extirpar las amígdalas
+D: ¿Cuáles son sus medidas?
+P: Mido 1 metro y 65 centímetros
+D: ¿Es usted obeso?
+P: No, no soy obeso, pero por lo demás tengo la tensión alta y diabetes no insulinodependiente
+D: ¿Cuál es su peso?
+P: unos 62 kilos
+D: ¿Está usted casado?
+P: Estoy casado
+D: ¿a quién?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿quién es tu marido?
+P: casado
+D: ¿tiene hijos?
+P: Tengo 2 hijos
+D: ¿puede decirme más?
+P: ¿Perdón?
+D: ¿quiénes son sus hijos?
+P: Tengo 2 hijos
+D: ¿tienes una hija?
+P: Tengo 2 hijos
+D: ¿qué edad tienen sus hijos?
+P: No puedo responder a su pregunta porque no tengo información.
+D: ¿Cuáles son sus hábitos alimenticios?
+P: Estoy a dieta por la diabetes
+D: ¿come insectos?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿eres caníbal?
+P: ¿Perdón?
+D: ¿haces algún deporte?
+P: caminar ocasionalmente
+D: ¿algo más?
+P: ¿Perdón?
+D: eso no es suficiente, ¡deberías hacer más deporte!
+P: No puedo responder porque esta información no está en el expediente
+D: ¿tiene usted alguna alergia?
+P: Sólo soy alérgico al kiwi
+D: ¿qué enfermedades has tenido?
+P: hipertensión arterial y diabetes no insulinodependiente
+D: ¿y las operaciones?
+P: Me han operado para quitarme las amígdalas, me han reparado los ligamentos de la rodilla derecha y me han reparado una hernia inguinal
+D: ¿cuándo te extirparon las amígdalas?
+P: Me operaron de amígdalas cuando era niño.
+D: ¿Qué medicación está tomando actualmente?
+P: un antihipertensivo para la hipertensión arterial y una dieta para la diabetes no insulinodependiente. Puede haber más información en mi expediente.
+D: ¿Está usted embarazada?
+P: mi embarazo fue normal, di a luz por vía natural, con epidural para el primero, y nada para el segundo.
+D: ¿Está tomando paracetamol?
+P: un antihipertensivo para la hipertensión arterial y una dieta para la diabetes no insulinodependiente. Puede haber más información en mi expediente.
+D: ¿Tiene algún problema psicológico?
+P: Tengo dolores de estómago en el lado derecho, debajo de las costillas y más abajo y vómitos
+D: ¿eres estúpido?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿cuál es su problema?
+P: Vengo a una consulta antes de una operación de extirpación de la vesícula biliar, con colangiografía durante la operación.
+D: ¿Puede decirme algo más?
+P: una consulta antes de una operación de vesícula, con colangiografía durante la operación.
+D: ¿sabes lo que es un colangiograma?
+P: verás, no te puedo decir, no me acuerdo
+D: es algo que duele mucho, mucho .
+P: Tengo dolor en el estómago a la derecha, debajo de las costillas, y más abajo, tengo dolor en los arrebatos.
+D: ¿le habló el médico de colocar un catéter?
+P: Dr. Noyer, médico de cabecera
+D: Gracias.
+P: Gracias.
+D: Le preguntaría después de la operación si sigue vivo .
+P: Me han operado para quitarme las amígdalas, me han reparado los ligamentos de la rodilla derecha y me han reparado una hernia inguinal
+D.: Adiós.
+P: Gracias, adiós.

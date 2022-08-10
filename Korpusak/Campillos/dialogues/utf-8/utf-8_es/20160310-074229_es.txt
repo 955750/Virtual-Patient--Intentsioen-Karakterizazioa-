@@ -1,0 +1,12 @@
+D: ¿Cómo te llamas?
+P: Soy Martin.
+D: ¿qué edad tienes?
+P: Tengo 62 años
+D: ¿cuál es tu altura?
+P: Tengo alrededor de 174
+D: ¿por qué vienes?
+P: Entonces, vengo por un dolor de pecho, tos y fiebre.
+D: ¿cuál es su ocupación?
+P: Estoy jubilado, pero soy un antiguo hortelano.
+D: ¿has estado haciendo este trabajo toda tu vida?
+P: jubilado, pero soy un antiguo hortelano

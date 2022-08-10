@@ -1,0 +1,74 @@
+D: ¿qué edad tienes?
+P: así que tengo 44 años
+D: cuál es su peso
+P: 82 kilos
+D: ¿cuánto pesas?
+P: Peso 82 kilos
+D: ¿su fecha de nacimiento?
+P: Lo siento, pero no quiero dar esta información.
+D: ¿cuántos años tienes?
+P: Tengo 44 años
+D: ¿cuál es su fecha de nacimiento?
+P: Lo siento, pero prefiero no contestar.
+D: ¿tiene hijos?
+P: sí, tengo 2... 10 y 8 años
+D: ¿has tenido alguna vez sexo?
+P: ¿Perdón?
+D: ¿es usted sexualmente activo?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿es usted sexualmente activo?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿es usted heterosexual?
+P: ¿Perdón?
+D: ¿algún miembro de su familia padece una enfermedad cardíaca?
+P: ves, no sé
+D: ¿todavía viven tus padres?
+P: Ni idea, lo siento, doctor.
+D: ¿los has perdido de vista?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Fue usted adoptado?
+P: ¿Perdón?
+D: ¿Cuál es su presión arterial habitual?
+P: No lo sé, no lo he medido
+D: ¿Sufre de palpitaciones?
+P: No, no especialmente.
+D: ¿Tiene algún dolor en el pecho?
+P: No particularmente
+D: ¿en el estómago?
+P: En realidad no
+D: ¿en la cabeza?
+P: No, no especialmente
+D: ¿orinas normalmente?
+P: No tengo ningún problema
+D: ¿tiene problemas para orinar?
+P: No, nada de eso
+D: ¿por qué has venido a verme?
+P: Vine a sacarme la licencia deportiva para participar en una carrera organizada por mi empresa.
+D: ¿Ha sentido algo anormal últimamente?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Te sientes saludable?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Te sientes saludable?
+P: ¿Perdón?
+D: ¿Hablas francés?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Se entrena con regularidad?
+P: ¿Perdón?
+D: ¿Corre regularmente?
+P: Ciclismo y nado ocasionalmente
+D: ¿Qué deportes te gustaría practicar?
+P: ciclismo y natación ocasional
+D: ¿Has participado alguna vez en una competición deportiva?
+P: ¿Perdón?
+D: ¿Sientes dolor en el pecho cuando vas en bicicleta?
+P: No
+D: ¿y cuando nadas?
+P: No, no especialmente.
+D: ¿has notado algún síntoma anormal cuando haces un esfuerzo?
+P: ahora tengo la tensión alta
+D: ¡me dijiste antes que no sabías tu presión arterial!
+P: verás, no me acuerdo
+D: ¿cuándo ha tenido la tensión alta?
+P: verás, no te puedo decir, no me acuerdo
+D: ¿qué pasa cuando te esfuerzas?
+P: Vengo a obtener una licencia deportiva para participar en una carrera organizada por mi empresa.

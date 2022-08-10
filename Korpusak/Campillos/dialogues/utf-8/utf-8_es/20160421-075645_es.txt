@@ -1,0 +1,24 @@
+D: Hola, ¿cuál es su nombre de pila?
+P: Soy Irene.
+D: irene, ¿me das tu apellido?
+P: Irene
+D: bonito nombre, ¿cómo se llaman tus hijos?
+P: ¿A qué se refiere? ¿Puede darme más detalles?
+D: Quiero decir, ¿tiene usted hijos?
+P: Tengo 2 hijos
+D: ¿Cuáles son sus edades?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Tienes una relación?
+P: ¿Perdón?
+D: ¿tienes marido?
+P: Estoy casado
+D: ¿tiene que tomar alguna medicación?
+P: coversyl para la hipertensión y una dieta para la diabetes no insulinodependiente. y ahora tomo paracetamol
+D: ¿se ha operado recientemente?
+P: Me han operado para quitarme las amígdalas, una reparación de ligamentos en la rodilla derecha y una reparación de hernia inguinal
+D: ¿Por qué vienes a verme hoy?
+P: Vengo a una consulta antes de una operación de vesícula, con colangiografía durante la operación.
+D: ¿por qué le van a extirpar la vesícula?
+P: ¿Perdón?
+D: ¿por qué te operan?
+P: No entiendo muy bien lo que me pregunta.

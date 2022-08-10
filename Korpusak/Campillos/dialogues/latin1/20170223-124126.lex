@@ -1,0 +1,28 @@
+D: bonjour
+P: Bonjour docteur
+D: je vous écoute
+P: Je ne comprends pas bien ce que vous demandez.
+D: quel est votre problème ?
+P: je viens pour établir une licence de sport, pour participer à une course à pied organisée par mon employeur .
+D: d' accord , je vais commencer par quelques questions avant de vous examiner
+P: vous voulez savoir autre chose docteur ?
+D: combien pesez-vous ?
+P: je pèse 82 kilos
+D: combien mesurez-vous ?
+P: 1 mètre 77 centimètres
+D: à part la course à pied , pratiquez-vous d' autres sports ?
+P: du vélo et je fais de la natation occasionnellement
+D: ah , alors peut-être que vous faites du triathlon parfois ?
+P: Pardon ?
+D: vivez-vous seul ?
+P: Je ne peux pas répondre à cette question [Il n'y a pas d'information dans le dossier]
+D: avez-vous une activité professionnelle ?
+P: je suis informaticien .
+D: avez-vous eu des maladies récemment ?
+P: Je n'ai jamais eu des maladies notables.
+D: des allergies ?
+P: je n'ai aucune allergie, autant que je sache
+D: donc vous vous sentez en bonne santé actuellement ?
+P: Heureusement, je n'ai jamais eu des maladies graves.
+D: merci
+P: De rien.

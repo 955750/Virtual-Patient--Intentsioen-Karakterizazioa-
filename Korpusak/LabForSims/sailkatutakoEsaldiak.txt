@@ -1,0 +1,304 @@
+MTF0001 +++ bonjour. donc. pourquoi venez-vous aux urgences?
+MTF0003 +++ salut . donc . pourquoi venir vous aux urgence ?
+MTF0005 +++ bonjour . donc . pourquoi venir vous à hôpital ?
+MTF0007 +++ pourquoi venir vous à l'hosto ?
+HDM0010 +++ d'accord, depuis quand?
+HDM0013 +++ d'accord. et ça fait mal à peu près où?
+HDM0016 +++ et c'est une douleur qui est continue, ou?
+TRT0019 +++ d'accord. et vous aviez pris des traitements avant?
+TRT0022 +++ d'accord. vous ne prenez pas l'aspirine ou?
+ATD0025 +++ d'accord, ok. vous avez déjà eu des douleurs comme ça avant, ou jamais?
+HDM0028 +++ en général, après manger?
+HDM0031 +++ et hier?
+ATD0034 +++ et vous êtes suivie pour des maladies particulières?
+HDM0037 +++ d'accord. ok. d'accord. c'est une douleur qui est fixe ou ça irradie ? enfin, ça touche d'autres endroits?
+MTF0040 +++ bonjour madame. alors, est-ce que vous pouvez me raconter un peu, ce qui se passe? pourquoi vous êtes ici?
+HDM0043 +++ c'est-à-dire? ça a commencé quand?
+HDM0046 +++ vous avez mal quelque part en particulier?
+ATD0049 +++ d'accord. et vous avez déjà eu une douleur comme ça? vous connaissez?
+HDM0052 +++ d'accord. et là, vous avez encore mal?
+TRT0055 +++ ok. vous avez pris des antalgiques ou pas?
+HDM0058 +++ ok. vous aviez mangé quelque chose de particulier, pas comme d'habitude?
+HDM0061 +++ d'accord. vous avez pas eu envie de vomir?
+HDM0064 +++ d'accord. vous avez de la fièvre ou pas?
+HDM0067 +++ et vous avez des problèmes de transit en ce moment? plus que d'habitude?
+ATD0070 +++ et du coup cette douleur, vous l'avez déjà connue avant?
+ATD0073 +++ et ça passait de temps en temps?
+ATD0076 +++ d'accord. et est-ce que vous avez déjà eu la peau jaune? ou la conjonctive des yeux? vous avez jamais remarqué?
+ATD0079 +++ d'accord. sinon je voulais revoir avec vous du coup: est-ce que vous avez des antécédents particuliers? des maladies?
+UNK0082 +++ d'accord.
+ATD0085 +++ pas de diabète?
+ATD0088 +++ hypertension?
+ATD0091 +++ et à part les dents de sagesse, vous avez pas eu d'autres opérations?
+ATD0094 +++ d'accord. mais rien au niveau haut de l'abdomen? vous avez toujours votre vésicule biliaire?
+UNK0097 +++ pour l'instant j'essaye de voir.
+UNK0100 +++ je pose juste mes questions après je vais vous examiner.
+ATD0103 +++ après entre tout ce qu'on regarde sur internet, tout et n'importe quoi, je vous conseille vraiment pas. c'est plus phénomène d'anxiété qu'autre chose, je pense. du coup, d'accord. est-ce que vous avez des allergies particulières?
+MDV0106 +++ et est-ce que vous fumez?
+MDV0109 +++ vous buvez de temps en temps?
+UNK0112 +++ pour les occasions?
+UNK0115 +++ ok. donc, je vais vous examiner.
+PSN0118 +++ bonjour madame. vous êtes madame?
+PSN0121 +++ vous avez quel âge?
+HDM0124 +++ et vous venez parce que vous avez mal au ventre. alors racontez-moi quand est-ce que ça a commencé.
+HDM0127 +++ ça a commencé hier soir?
+HDM0130 +++ est-ce que vous aviez mal autre part? est-ce que la douleur, elle partait dans un sens ou dans un autre?
+HDM0133 +++ que à droite?
+HDM0136 +++ d'accord. est-ce que vous avez vomi?
+TRT0139 +++ et vous avez essayé de prendre quelque chose pour soulager la douleur?
+ATD0142 +++ d'accord. est-ce que vous avez déjà eu la même douleur auparavant? est-ce que vous avez déjà été malade et ça vous a fait la même chose?
+ATD0145 +++ c'était quand?
+ATD0148 +++ d'accord. et là c'est resté?
+HDM0151 +++ vous avez eu de la fièvre?
+HDM0154 +++ est-ce que la douleur, ça vous a empêché de manger?
+TRT0157 +++ d'accord. est-ce que vous prenez des traitements tous les jours? des médicaments?
+TRT0160 +++ même pas même la pilule?
+ATD0163 +++ ok. est-ce que vous avez des pathologies comme de la tension, du diabète?
+ATD0166 +++ césarienne ou ?
+ATD0169 +++ et dans votre famille, il y a des problèmes de santé?
+ATD0172 +++ a quel âge?
+UNK0175 +++ d'accord. ok.
+MTF0178 +++ bonjour madame. alors qu'est-ce qui vous arrive?
+HDM0181 +++ vous pouvez me dire à peu près, à quel niveau du ventre, vous avez mal.
+HDM0184 +++ d'accord. ça fait combien de temps que vous avez mal?
+HDM0187 +++ d'accord. après manger? a un moment particulier?
+TRT0190 +++ d'accord. et puis, à part le doliprane, il n'y a pas une position qui vous soulageait? ou un mouvement qui aggravait la douleur?
+UNK0193 +++ d'accord. donc là, on va vous examiner un petit peu, et....
+MTF0196 +++ bonjour. vous venez pour quoi?
+HDM0199 +++ depuis quand, vous avez mal au ventre?
+HDM0202 +++ ouais. et c'est à peu près où?
+HDM0205 +++ et ça vous est arrivé d'un coup?
+HDM0208 +++ c'était combien de temps après manger à peu près?
+ATD0211 +++ ça vous est déjà arrivé des douleurs comme ça?
+HDM0214 +++ et là, la douleur, elle était longue? elle est pas passée?
+TRT0217 +++ vous l'avez pris quand le doliprane?
+HDM0220 +++ ok. et est-ce qu'il y a d'autres endroits où vous avez mal?
+PSN0223 +++ ok. et vous avez quel âge?
+PSN0226 +++ est-ce que vous avez des enfants?
+PSN0229 +++ ok. et vous travaillez?
+ATD0232 +++ et est-ce que vous avez déjà eu des chirurgies ou?
+ATD0235 +++ ok. et sinon, il y a pas eu d'autres opérations ou quoi que ce soit?
+ATD0238 +++ et est-ce que vous avez déjà eu des maladies particulières? du diabète?
+TRT0241 +++ ok. est-ce que vous prenez des traitements particuliers? pour votre allergie ou pour autre chose?
+HDM0244 +++ et pour revenir à la douleur: est-ce que vous aviez aussi des vomissements associés?
+HDM0247 +++ oui? vous avez pas vomi, sinon?
+HDM0250 +++ avec des frissons, ou?
+HDM0253 +++ et au niveau du transit?
+MTF0256 +++ bonjour. alors, qu'est-ce qui vous arrive? qu'est-ce qui vous amène aux urgences aujourd'hui?
+HDM0259 +++ d'accord. depuis quand ça dure?
+HDM0262 +++ vous veniez de manger?
+HDM0265 +++ d'accord. il y a eu d'autres signes avec ça? vous avez vomi, ou?
+HDM0268 +++ d'accord. des diarrhées? des choses comme ça?
+HDM0271 +++ l'appétit est normal, ces derniers temps?
+ATD0274 +++ vous avez des antécédents en particulier? des problèmes de santé? ça vous avez déjà fait ça avant?
+ATD0277 +++ ils ont quel âge?
+ATD0280 +++ les accouchements s'étaient bien passés?
+HDM0283 +++ donc là vous avez encore mal en ce moment?
+HDM0286 +++ c'est un peu passé?
+HDM0289 +++ et la douleur, si vous deviez la quoter sur une échelle...?
+HDM0292 +++ ça vous a empêché de dormir cette nuit?
+HDM0295 +++ d'accord. et donc là, si vous pouviez me montrer la douleur.
+HDM0298 +++ et c'était quel type de douleur?
+PSN0301 +++ bonjour madame. vous vous appelez comment?
+PSN0304 +++ vous avez quel âge?
+MTF0307 +++ d'accord. et expliquez-moi, pourquoi vous venez.
+HDM0310 +++ depuis combien de temps?
+HDM0313 +++ d'accord. donc c'était hier soir, ça?
+HDM0316 +++ et pourquoi vous venez que maintenant?
+HDM0319 +++ elle est toujours présente. et c'est parce qu'elle continue que vous êtes venue?
+HDM0322 +++ initialement, la douleur, elle est apparue brutalement?
+HDM0325 +++ et elle était très douloureuse?
+HDM0328 +++ d'accord. et elle était localisée à quel endroit?
+HDM0331 +++ d'accord. et elle irradiait quelque part? vous la sentiez ailleurs la douleur? ou c'était vraiment très localisé?
+HDM0334 +++ d'accord. est-ce que c'était augmenté quand vous inspiriez très fort? ça vous coupait la respiration?
+TRT0337 +++ et penchée en avant par exemple, ça soulageait? y a une position qui vous soulage?
+HDM0340 +++ et là, c'était juste après un repas? vous aviez pris des médicaments, quelque chose, ou?
+HDM0343 +++ d'accord. vous avez eu des nausées? des vomissements?
+HDM0346 +++ vous avez eu de la fièvre? vous avez pris votre température?
+ATD0349 +++ et est-ce qu'on vous a dit, ou quelqu'un a remarqué que vous étiez un peu jaune ou vous vous êtes regardé? vous aviez un aspect normal?
+HDM0352 +++ vous aviez eu des sueurs? des choses comme ça?
+ATD0355 +++ et personne n'a eu de fièvre chez vous?
+HDM0358 +++ et donc après, vous aviez pris un médicament, et puis ça ne s'infectait pas, vous êtes venu. c'est ça?
+HDM0361 +++ d'accord. c'est une douleur en plateau, continue? ou est-ce qu'il y a des moments où ça fait plus mal, c'est plus intense?
+HDM0364 +++ là comment vous vous sentez?
+HDM0367 +++ d'accord. au même endroit?
+ATD0370 +++ d'accord. vous n'avez jamais eu de douleur à cet endroit-là?
+ATD0373 +++ c'était moins fort?
+ATD0376 +++ et c'était passé tout seul?
+ATD0379 +++ rapidement?
+ATD0382 +++ d'accord. vous avez des maladies?
+TRT0385 +++ d'accord. pas de médicament?
+ATD0388 +++ pas de diabète? pas de cholestérol? pas de tension?
+MDV0391 +++ vous avez un médecin traitant?
+MDV0394 +++ vous êtes suivie par un autre spécialiste?
+TRT0397 +++ d'accord. vous prenez des médicaments au quotidien?
+ATD0400 +++ dans la famille, tout le monde est en bonne santé?
+UNK0403 +++ d'accord.
+PSN0405 +++ quel âge avez-vous ?
+PSN0408 +++ où habitez vous ?
+PSN0411 +++ quelle est votre profession ?
+PSN0414 +++ avez-vous des enfants et combien de grossesses avez-vous eu ?
+ATD0417 +++ avez-vous des problèmes de santé, digestifs par exemple ?
+ATD0420 +++ avez-vous des antécédents médicaux ?
+ATD0423 +++ y'a-t-il dans votre famille des gens qui ont des problèmes de santé ?
+TRT0426 +++ prenez vous des médicaments ?
+ATD0429 +++ avez-vous des allergies connues ?
+ATD0432 +++ prenez vous une contraception ?
+ATD0435 +++ avez-vous déjà été opérée ?
+MTF0438 +++ pourquoi venez vous consulter aux urgences ?
+HDM0441 +++ où avez-vous mal ?
+HDM0444 +++ depuis quand avez-vous mal ?
+HDM0447 +++ la douleur est-elle toujours présente ?
+ATD0450 +++ avez-vous déjà eu ce type de douleurs ?
+HDM0453 +++ avez-vous une sensation de faim douloureuse ?
+HDM0456 +++ est-ce que ça fait comme une crampe douloureuse ?
+HDM0459 +++ est-ce plus un point douloureux, comme un point de côté ?
+HDM0462 +++ est-ce que la douleur va ailleurs dans l'abdomen dans le dos ou vers la gauche ou vers la mâchoire ?
+HDM0465 +++ est-ce que la douleur va vers l'épaule ?
+HDM0468 +++ est-ce que la douleur est rythmée par les repas ?
+TRT0471 +++ est-ce que la douleur est calmée par certaines positions ?
+HDM0474 +++ est-ce que la douleur est plus forte quand vous respirez profondément ?
+TRT0477 +++ avez-vous pris quelque chose pour calmer la douleur ?
+TRT0480 +++ en dehors des deux comprimés de paracétamol, est-ce que vous avez pris d'autres médicaments récemment ?
+HDM0483 +++ pouvez vous coter votre douleur de 0 à 10 ?
+HDM0486 +++ est-ce que vous avez vomi ?
+ATD0489 +++ y'a-t-il d'autres personnes malades dans votre entourage, présentant les mêmes symptômes ?
+HDM0492 +++ est-ce que vous avez des nausées ?
+HDM0495 +++ est-ce que vous allez aux toilettes normalement ?
+HDM0498 +++ avez-vous des gazs ?
+ATD0501 +++ à quand remonte vos dernières règles ?
+HDM0504 +++ est-ce que vous avez des saignements d'origine gynécologiques anormaux ou des pertes anormales ?
+HDM0507 +++ est-ce que vous avez des brûlures quand vous faites pipi ?
+HDM0510 +++ est-ce que vous avez eu un malaise, ou est-ce que vous avez perdu connaissance ?
+HDM0513 +++ est-ce que vous avez des palpitations ?
+HDM0516 +++ est-ce que vous ressentez une gène respiratoire ?
+MDV0519 +++ est-ce que vous avez voyagé récemment ?
+HDM0522 +++ est-ce que vous avez remarqué que vos urines étaient très foncées ?
+HDM0525 +++ est-ce que vous avez remarqué que vos selles étaient décolorées ?
+HDM0528 +++ est-ce que vous avez pris votre température ?
+HDM0531 +++ est-ce que vous avez de la fièvre ?
+ATD0534 +++ est-ce que vous avez consulté un médecin avant de venir aux urgences ?
+ATD0537 +++ est-ce que vous avez fait des examens avant de venir aux urgences ?
+PSN0540 +++ quel est votre nom et votre prénom ?
+PSN0543 +++ les origines ?
+PSN0546 +++ ah, vous vivez comment ?
+PSN0549 +++ et à la maison, c'est comment ?
+PSN0552 +++ qu'est-ce que vous faites dans la vie ?
+PSN0555 +++ votre âge ?
+PSN0558 +++ quel âge avez-vous ?
+PSN0561 +++ vous avez quel âge ?
+MTF0564 +++ pourquoi vous venez aux urgences ?
+MTF0567 +++ pourquoi vous êtes ici ?
+HDM0570 +++ vous la décririez comment la douleur ?
+HDM0573 +++ on m'a dit que vous aviez mal au ventre, est-ce que vous pouvez m'expliquer comment ça a commencé ?
+HDM0576 +++ vous avez des douleurs abdominales c'est ça ?
+HDM0579 +++ vous avez des douleurs épigastriques ?
+HDM0582 +++ les douleurs, elles sont où exactement ?
+HDM0585 +++ où est-ce que vous avez mal ?
+HDM0588 +++ où exactement avez-vous mal au ventre ?
+HDM0591 +++ et c'est à quel niveau la douleur ?
+HDM0594 +++ la douleur est plutôt dans un endroit ?
+ATD0597 +++ c'est la première fois que vous avez ça ?
+ATD0600 +++ c'est la première fois que ça vous arrive ?
+ATD0603 +++ est-ce que vous avez déjà eu ce genre de douleur ?
+ATD0606 +++ est-ce que ça vous est déjà arrivé ces douleurs comme ça ?
+HDM0609 +++ la douleur, elle revient périodiquement ?
+ATD0612 +++ est-ce que vous avez déjà ou jamais eu une douleur pareille ?
+HDM0615 +++ ça a commencé quand ?
+HDM0618 +++ depuis combien de temps ?
+HDM0621 +++ ça fait combien de temps ?
+HDM0624 +++ quand est-ce que la douleur elle a commencé ?
+HDM0627 +++ ça fait combien de temps que vous avez mal au ventre ?
+HDM0630 +++ depuis combien de temps ?
+HDM0633 +++ comment les douleurs évoluent ?
+HDM0636 +++ est-ce que la douleur elle est continue ou est-ce qu'elle a changé ?
+HDM0639 +++ et ça a commencé brutalement ou petit à petit ?
+HDM0642 +++ c'est aigu ou ça a commencé progressivement ?
+HDM0645 +++ comment était la douleur... brutale... aiguë ?
+HDM0648 +++ c'est une douleur qui est apparue d'un coup ou qui a été progressive ?
+HDM0651 +++ est-ce qu'il y a eu une énorme douleur puis après y'a un fond de douleur ?
+HDM0654 +++ elle a changé la douleur depuis que ça a commencé ?
+HDM0657 +++ vous avez toujours mal ?
+HDM0660 +++ la douleur est continue, vous avez toujours mal ?
+HDM0663 +++ c'est quel type de douleur ?
+HDM0666 +++ et du coup, c'est quoi comme type de douleur ?
+HDM0669 +++ est-ce que ça vous brûle ?
+HDM0672 +++ est-ce que ça vous brûle ?
+HDM0675 +++ comment elle est la douleur... est-ce que quand vous avez cette douleur c'est comme si vous aviez très faim ?
+HDM0678 +++ est-ce que ça vous fait très mal en même temps d'avoir faim ?
+HDM0681 +++ ça a commencé alors que vous regardiez la tv c'est ça ?
+HDM0684 +++ après le repas ?
+HDM0687 +++ est-ce que vous aviez mangé avant ou pas ?
+HDM0690 +++ est-ce que c'était après un repas ?
+HDM0693 +++ est-ce que avant, vous étiez en train de regarder la tv, est-ce que avant ça vous aviez fait un repas copieux ?
+MDV0696 +++ est-ce que vous avez pris de l'alcool ?
+HDM0699 +++ et par rapport au repas du soir ?
+HDM0702 +++ c'était combien de temps après votre repas ?
+HDM0705 +++ vous avez mangé quoi ?
+TRT0708 +++ est-ce que vous avez pris des médicaments récemment ?
+TRT0711 +++ vous n'avez jamais pris d'anti-inflammatoire ?
+ATD0714 +++ vous avez pris un coup ?
+ATD0717 +++ pas d'accident ?
+HDM0720 +++ les douleurs, elles sont apparues après avoir fait quelque chose de spécial ?
+HDM0723 +++ est-ce c'est des fortes douleurs... l'intensité ?
+HDM0726 +++ ça fait mal comment ?
+HDM0729 +++ et comme intensité ?
+HDM0732 +++ a combien vous noteriez votre douleur sur une échelle de 0 à 10 ?
+HDM0735 +++ est-ce que ça a commencé en épigastrique ou à un autre endroit et ça a migré ?
+HDM0738 +++ est-ce que la douleur elle irradie ?
+HDM0741 +++ et la douleur irradie ?
+HDM0744 +++ plutôt centré sur l'épigastre... est-ce que c'est une douleur qui irradie ?
+HDM0747 +++ est-ce qu'elle a un trajet la douleur ?
+HDM0750 +++ est-ce qu'elles vont à un autre endroit... est-ce que ça vous irradie ?
+HDM0753 +++ la vous me dites elle est épigastrique en jargon médical, est-ce qu'elle va vers le dos, est-ce qu'elle va vers les épaules ?
+HDM0756 +++ est-ce que la douleur est diffuse ou vous avez mal principalement là ?
+HDM0759 +++ c'est venu assez brutalement... irradiation ?
+HDM0762 +++ est-ce que la douleur s'est répandue à une autre zone du corps... c'est-à-dire à proximité ?
+HDM0765 +++ est-ce que vous avez d'autres douleurs ?
+HDM0768 +++ au niveau de l'œsophage ?
+HDM0771 +++ vous avez mal « nulle part d'autre » ?
+HDM0774 +++ et vous avez mal autre part... dans le dos ?
+HDM0777 +++ est-ce que ça vous empêche de respirer ?
+HDM0780 +++ est-ce que la douleur est passée la nuit ?
+HDM0783 +++ vous vous grattez ?
+HDM0786 +++ est-ce qu'il y a d'autres signes que cette douleur ?
+HDM0789 +++ est-ce qu'il y a d'autres signes ?
+HDM0792 +++ est-ce que vous avez vomis ?
+HDM0795 +++ est-ce que vous avez d'autres signes digestifs, par exemple la diarrhée ou est-ce que vous avez vomis ?
+HDM0798 +++ à côté vous avez eu des vomissements ou pas ?
+HDM0801 +++ des vomissements ?
+HDM0804 +++ des nausées ?
+HDM0807 +++ vous avez pas vomi après ça ?
+HDM0810 +++ le vomissement, il était comment ?
+HDM0813 +++ il n'y avait pas de sang ?
+HDM0816 +++ il n'y avait pas de sang dans les vomissements ?
+HDM0819 +++ est-ce que dans les vomissements il y avait du sang ou pas ?
+HDM0822 +++ dans la bouche est-ce que vous avez la bouche pâteuse ?
+HDM0825 +++ est-ce que vous allez aux toilettes ?
+HDM0828 +++ est-ce que vous avez des troubles du transit ?
+HDM0831 +++ vous allez bien aux selles ?
+HDM0834 +++ et au niveau du transit, y a t-il eu des diarrhées ?
+HDM0837 +++ est-ce que vous avez des diarrhées ?
+TRT0840 +++ avez-vous pris des antalgiques ?
+TRT0843 +++ est-ce que vous avez essayé de prendre des médicaments contre la douleur ?
+TRT0846 +++ vous avez pris quelque chose pour soulager ?
+TRT0849 +++ est-ce que vous pris quelque chose ?
+HDM0852 +++ et après le doliprane la douleur a été calmée ?
+TRT0855 +++ est-ce qu'il y des facteurs qui vous soulagent ?
+TRT0858 +++ est-ce qu'il y a une position qui calme cette douleur ?
+HDM0861 +++ et quand vous bougez ça vous fait plus mal ?
+TRT0864 +++ est-ce que quand vous vous mettez dans une position, comme une position fœtale, que vous vous recroquevillez sur vous, ça calme un peu la douleur ?
+TRT0867 +++ vous vous recroquevillez sur vous, vous bougez pas vous vous extendez ?
+TRT0870 +++ y'a-t-il une position dans laquelle ça soulage ?
+TRT0873 +++ est-ce qu'il y a une position qui calme la douleur ou pas ?
+TRT0876 +++ est-ce que quand vous vous baissez ça vous fait moins mal ?
+HDM0879 +++ est-ce que vous avez de la fièvre ?
+HDM0882 +++ est-ce que vous avez eu de la fièvre ?
+HDM0885 +++ et vous avez de la température ?
+HDM0888 +++ vous avez eu de la fièvre ?
+MDV0891 +++ est-ce que vous buvez ?
+MDV0894 +++ et vous buvez ?
+MDV0897 +++ tabac ?
+MDV0900 +++ vous fumez ?
+MDV0903 +++ est-ce que vous fumez ?
+MDV0906 +++ des animaux de compagnie ?

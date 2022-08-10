@@ -1,0 +1,14 @@
+D: motif de la consultation ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: pourquoi venez vous ?
+P: Alors, je viens pour établir une licence de sport pour participer à une course à pied organisée par mon employeur .
+D: quelle est votre plainte ?
+P: vous voyez, je ne sais pas
+D: symptômes ?
+P: j'ai la tension élevée
+D: antécédents ?
+P: Pardon ?
+D: vous avez des antécédents médicaux ?
+P: Je n'ai jamais eu de maladies importantes .
+D: vous avez des maladies ,
+P: Je n'ai jamais eu de maladies importantes .

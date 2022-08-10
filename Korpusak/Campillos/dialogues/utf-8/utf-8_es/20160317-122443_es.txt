@@ -1,0 +1,50 @@
+D: Buenos días, ¿qué te pasa?
+P: Hola, doctor.
+D: ¿Por qué has venido a verme?
+P: Bueno, he venido por un dolor en el pecho, tos y fiebre.
+D: ¿desde cuándo tiene estos síntomas?
+P: Tengo fiebre desde ayer por la tarde
+D: ¿y el dolor de pecho?
+P: Tengo dolor en el pecho en el lado derecho desde anoche a las 20 horas
+D: ¿te ha pasado esto alguna vez?
+P: Nunca había tenido estos síntomas.
+D: ¿A qué se dedica?
+P: jubilado, pero soy un antiguo hortelano
+D: ¿tiene algún problema de salud en particular?
+P: presión arterial alta
+D: ¿está tomando tratamiento para esta hipertensión?
+P: Así que, co-renitec para la presión arterial alta
+D: ¿Toma algún otro medicamento?
+P: Sólo que
+D: y en el pasado, ¿ha tenido alguna otra enfermedad?
+P: presión arterial alta
+D: ¿no hay alergias?
+P: por lo que sé, no tengo alergias
+D: ¿no hay infecciones recurrentes?
+P: No especialmente
+D: ¿Hasta dónde has llegado con tus vacunas?
+P: No, no especialmente
+D: ¿Tienes las vacunas al día?
+P: Nunca he tenido infecciones.
+D: ¿Está usted vacunado contra el neumococo?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Ha perdido peso recientemente?
+P: No, nada de eso
+D: ¿fumas?
+P: Exactamente, yo fumo
+D: ¿Cuántos cigarrillos al día?
+P: Fumo 20 cigarrillos al día
+D: ¿durante cuántos años?
+P: Fumo desde los 20 años
+D: ¿bebes alcohol?
+P: Yo sí, yo bebo
+D: ¿Cuánto cuesta al día?
+P: Sí, exactamente, bebo
+D: ¿Cuántos vasos de alcohol al día?
+P: Tomo 1 vaso de vino tinto por comida
+D: ¿Toma alguna otra sustancia?
+P: ¿Perdón?
+D: ¿tiene alguna otra adicción?
+P: Sólo lo que te dije
+D: ¿ni siquiera The Young and the Restless en la televisión?
+P: No entiendo muy bien lo que me pregunta.

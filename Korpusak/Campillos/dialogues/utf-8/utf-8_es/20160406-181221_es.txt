@@ -1,0 +1,40 @@
+D: Hola, ¿cómo te sientes?
+P: Tengo dolor de estómago en el lado derecho debajo de las costillas y abajo y vómitos
+D: ¿durante cuánto tiempo?
+P: Llevo varios días con dolores de estómago en el lado derecho bajo las costillas y en la parte inferior
+D: ¿tiene usted diarrea?
+P: No, no especialmente.
+D: ¿Cuándo fue la última vez que defecó?
+P: No, estos síntomas no.
+D: ¿cuándo hiciste la última caca?
+P: No, nada de eso
+D: ¿fuiste al baño?
+P: ¿Perdón?
+D: ¿has hecho caca recientemente?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿cuándo se va a operar?
+P: ni idea, lo siento doctor. Debe tenerlo archivado.
+D: ¿Tiene usted alguna alergia?
+P: Sólo soy alérgico al kiwi
+D: ¿no es alérgico a los medicamentos?
+P: Sólo soy alérgico al kiwi
+D: ¿te has operado alguna vez?
+P: Así que me operaron para quitarme las amígdalas, me repararon los ligamentos de la rodilla derecha y me repararon una hernia inguinal
+D: ¿Es usted diabético?
+P: No, no es diabético, pero por lo demás es hipertenso y tiene diabetes no dependiente de la insulina
+D: ¿Haces algún deporte?
+P: caminar ocasionalmente
+D: ¿Toma alguna medicación?
+P: Así que coversyl para la hipertensión y una dieta para la diabetes no dependiente de la insulina.
+D: ¿Fumas?
+P: Exactamente, lo hago
+D: ¿Cuántos cigarrillos al día?
+P: Fumo 1 paquete al día
+D: ¿cuánto tiempo llevas fumando?
+P: Llevo fumando desde los 18 años
+D: ¿bebes alcohol?
+P: No me gusta el sabor del alcohol.
+D: nunca
+P: Bebo muy poco, cuando hay fiestas, eso es todo
+D: ¿a qué te dedicas?
+P: auxiliar de enfermería en una guardería

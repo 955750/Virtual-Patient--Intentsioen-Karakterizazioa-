@@ -1,0 +1,22 @@
+D: bonjour ,
+P: Bonjour.
+D: nous ne nous connaissons pas , c' est la première fois que vous venez ,
+P: Pardon ?
+D: c' est la première fois que nous nous votons ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: on se voit pour la première fois ?
+P: Pardon ?
+D: vous êtes déja venu au cabinet ?
+P: Pardon ?
+D: avez-vous un médecin traitant ?
+P: Non, pas spécialement
+D: vous n' êtes jamais malade ?
+P: Je n'ai jamais eu de maladies importantes .
+D: vous avez de la chance
+P: Je ne comprends pas bien ce que vous demandez.
+D: vous venez pour ?
+P: Pardon ?
+D: quel est la raison de votre visite ,
+P: Alors, je viens pour établir une licence de sport pour participer à une course à pied organisée par mon employeur .
+D: d' accord
+P: alors ... encore autre chose ?

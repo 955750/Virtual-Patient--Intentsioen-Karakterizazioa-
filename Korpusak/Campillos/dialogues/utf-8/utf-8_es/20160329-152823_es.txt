@@ -1,0 +1,22 @@
+D: ¿has visto a otro médico que no sea yo?
+P: No me acuerdo
+D: ¿soy el primer médico que ha visto?
+P: No puedo decírtelo, no me acuerdo
+D: ¿qué te trae por aquí?
+P: Así que vengo a confirmar la hipertensión esencial.
+D: ¿cómo sabes que es hipertensión esencial?
+P: ya ves, ni idea
+D: ¿por qué confirmarlo?
+P: ¿Perdón?
+D: ¿por qué quiere confirmar la presencia de hipertensión esencial?
+P: ves, no sé
+D: ¿quién le dijo que tenía hipertensión esencial?
+P: verás, no que yo sepa
+D: ¿se ha hecho alguna prueba?
+P: Me hice una prueba de lípidos en ayunas
+D: ¿cuáles fueron los resultados?
+P: Te voy a leer lo que me han dado: "LDL 2,0g/l". Debe tenerlo en el archivo.
+D: ¿Te has medido la presión arterial?
+P: No me he tomado la tensión últimamente
+D: ¿Estás cansado?
+P: No, estos síntomas no.

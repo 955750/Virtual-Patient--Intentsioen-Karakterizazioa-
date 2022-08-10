@@ -1,0 +1,28 @@
+D: Buenos días
+P: Buenos días, doctor.
+D: ¿Qué te pasa?
+P: He venido a sacar una licencia deportiva para participar en una carrera organizada por mi empresa.
+D: ¿No tienes un médico de cabecera?
+P: En realidad no
+D: ¿tiene alguna enfermedad ,
+P: Nunca he tenido ninguna enfermedad importante.
+D: ¿y enfermedades menos importantes?
+P: Nunca he tenido ninguna enfermedad importante .
+D: estás en perfecto estado de salud ,
+P: No entiendo muy bien lo que me pregunta.
+D: ¿usted no sufre de nada?
+P: ¿Perdón?
+D: ¿usted no sufre de nada?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Sufres de algo?
+P: ¿Perdón?
+D: ¿tienes algo?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿tiene algún problema de salud?
+P: Nunca he tenido ninguna enfermedad importante.
+D: OK
+P: entonces... ¿algo más?
+D: ¿no tienes la tensión alta?
+P: verás, no que yo sepa
+D: ok te revisaré primero
+P: bueno... ¿es todo doctor?

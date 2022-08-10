@@ -1,0 +1,68 @@
+D: Buenos días
+P: Buenos días, doctor.
+D: ¿cómo estás?
+P: Muy bien. P: Muy bien, gracias.
+D: Muy bien... ¿qué le lleva a consultar?
+P: Bueno, he venido a sacar una licencia deportiva para participar en una carrera organizada por mi empresa.
+D: muy bien. no nos hemos visto en mucho tiempo
+P: ¿hay algo más que quiera saber, doctor?
+D: es una oportunidad para revisar la situación de manera general
+P: No entiendo muy bien lo que me pregunta.
+D: ¿qué edad tienes ahora?
+P: Tengo 44 años
+D: ¿Con qué frecuencia haces actividad física?
+P: ciclismo y nado ocasionalmente
+D: ¿en su lugar de trabajo?
+P: informático
+D: ¿es usted físicamente activo en su lugar de trabajo?
+P: ciclismo y natación ocasional
+D: ¿tiene hijos?
+P: sí, tengo 2... 10 y 8 años
+D: ¿Cuánto mide usted?
+P: 1 metro 77 centímetros
+D: vaina
+P: No entiendo muy bien lo que me pregunta.
+D: peso
+P: ¿Perdón?
+D: peso
+P: Peso 82 kilos
+D: ¿fumas?
+P: no, no fumo
+D: ¿ningún problema de presión arterial, diabetes, colesterol?
+P: ya ves, ni idea
+D: ¿cuándo fue el último control sanitario?
+P: Nunca he tenido diabetes.
+D: ¿nunca ha tenido la tensión alta?
+P: verás, no que yo sepa
+D: ¿cómo es su dieta?
+P: mis hábitos alimenticios son normales
+D: ¿comes a menudo comida rápida?
+P: No sigo ninguna dieta especial
+D: ¿comes muchos embutidos?
+P: ya ves, me lo tomo como todo el mundo, sin excesos
+D: ¿y el alcohol?
+P: No, no bebo. Como mucho, un vaso de vino a la semana.
+D: ¿Como mucho?
+P: ¿Perdón?
+D: ¿no tiene un historial médico notable?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Ha sido hospitalizado alguna vez por algún problema de salud?
+P: Nunca he tenido ninguna enfermedad importante.
+D: ¿No hay alergias?
+P: No tengo ninguna alergia, pero nunca he hecho ninguna prueba de alergia
+D: ¿no tomas ninguna medicación?
+P: No especialmente
+D: ¿Nunca se ha operado?
+P: Nunca he tenido ese tipo de operación.
+D: cuando está activo, ¿tiene algún síntoma en particular?
+P: verás, no te puedo decir, no me acuerdo
+D: ¿Tiene algún dolor de esfuerzo?
+P: No, no especialmente
+D: dificultad para respirar ?
+P: ¿Perdón?
+D: ¿tiene disnea de esfuerzo?
+P: No
+D: ¿tienes palpitaciones?
+P: No, nada de eso
+D: muy bueno
+P: bueno... ¿es todo doctor?

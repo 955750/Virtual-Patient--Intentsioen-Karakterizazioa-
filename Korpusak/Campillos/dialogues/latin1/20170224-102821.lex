@@ -1,0 +1,54 @@
+D: bonjour
+P: Bonjour
+D: qu' est-ce qui vous amène ?
+P: je viens pour établir une licence de sport, pour participer à une course à pied organisée par mon employeur .
+D: très bien . connaissez-vous votre poids ?
+P: environ 82 kilos
+D: et votre taille ?
+P: je fais 1 mètre 77 centimètres
+D: avez-vous des antécédents familiaux particuliers ?
+P: Je ne sais pas, je suis désolé docteur.
+D: pas de souci . vos parents ont-ils eu des maladies graves , cardiaques notamment ?
+P: je n'en ai aucune idée
+D: ok , et vous , avez-vous eu des maladies graves ?
+P: voulez-vous dire : o k , et vous , avez-vous eu des maladies graves ?
+D: oui , avez-vous déjà eu des problèmes de santé importants ?
+P: Heureusement, je n'ai jamais eu des maladies notables.
+D: très bien . exercez-vous des activités physiques ?
+P: du vélo et je fais de la natation occasionnellement
+D: et pas de problèmes particuliers à signaler lors de ces activités ?
+P: j'ai la tension élevée
+D: ah , vous la surveillez ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: surveillez-vous votre tension ?
+P: la tension élevée
+D: avez-vous déjà eu des traitements pour vos problèmes de tension ?
+P: Non, pas spécialement
+D: à combien est votre tension en général ?
+P: vous voyez, je ne m'en souviens pas
+D: ah dommage . et prenez-vous des médicaments ?
+P: Non. Pas du tout
+D: fumez-vous ?
+P: Pas vraiment
+D: buvez-vous ?
+P: Pas du tout
+D: j' espère que vous buvez de l' eau quand même . . . avez-vous une alimentation que vous considérez équilibrée ?
+P: J'en consomme régulièrement, mais pas trop
+D: de quoi ?
+P: Pardon ?
+D: ce n' est pas grave . mangez-vous de tout , notamment fruits et légumes ?
+P: J'en prends comme tout le monde, sans excès
+D: l' excès de fruits et légumes n' est en général pas très dommageable . . .
+P: J'en prends habituellement, mais ni trop ni trop peu
+D: avez-vous des allergies ?
+P: à ma connaissance, je n'ai aucune allergie
+D: avez-vous déjà fait de la course ?
+P: du vélo et je fais de la natation occasionnellement
+D: faites-vous beaucoup de vélo ?
+P: Je ne peux pas répondre à cette question [Il n'y a pas d'information dans le dossier]
+D: très bien je vais vous faire votre autorisation . rappelez moi votre nom ,
+P: je m'appelle Alain Courbet .
+D: merci .
+P: Avec plaisir.
+D: au revoir
+P: Au revoir, docteur.

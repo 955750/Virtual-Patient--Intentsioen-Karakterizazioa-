@@ -1,0 +1,24 @@
+D: ¿Está bien, jefe?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Tienes hambre?
+P: ¿Perdón?
+D: ¿bebes?
+P: Rara vez bebo, cuando hay fiestas, eso es todo
+D: ¿te gusta Ricard?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿te duelen las rodillas?
+P: No
+D: ¿dónde le duele?
+P: No, no tengo ningún dolor.
+D: ¿por qué vienes?
+P: Vengo a sacarme la licencia deportiva para participar en una carrera organizada por mi empresa.
+D: ¿Haces deporte a menudo?
+P: ciclismo y de vez en cuando hago algo de natación
+D: ¿Corre regularmente?
+P: ciclismo y natación ocasional
+D: ¿tienes que ir al gimnasio?
+P: No entiendo muy bien lo que me pregunta.
+D: bien, ve a correr, gordo bastardo
+P: entonces... ¿algo más?
+D: besos
+P: ¿Perdón?

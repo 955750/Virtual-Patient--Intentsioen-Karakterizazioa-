@@ -1,0 +1,60 @@
+D: Buenos días
+P: Hola Doctor
+D: ¿cuál es su nombre?
+P: me llamo Alain Courbet.
+D: ¿cuál es su fecha de nacimiento?
+P: Lo siento, pero prefiero no contestar.
+D: ¿qué edad tienes?
+P: Tengo 44 años
+D: ¿cuánto pesas?
+P: unos 82 kilos
+D: ¿tienes familia?
+P: divorciado y por lo demás tengo 2. 10 y 8 años
+D: ¿tiene usted dos hijos?
+P: Yo tengo dos. 10 y 8 años
+D.: DE ACUERDO.
+P: ¿algo más?
+D: sí, ¿estás activo?
+P: ¿algo más?
+D: Quiero decir, ¿trabajas?
+P: informático
+D: correcto.
+P: bueno... ¿es todo doctor?
+D: ¿cuál es el motivo de su visita de hoy?
+P: confirmar la presencia de hipertensión esencial .
+D: ¿ya recibe tratamiento para la hipertensión?
+P: ¿quieres decir que ya te están siguiendo por hipertensión?
+D: sí, eso es lo que te pregunto.
+P: sí, absolutamente, para confirmar la presencia de hipertensión esencial .
+D: ¿tiene antecedentes de hipertensión?
+P: Nunca he tenido ninguna enfermedad grave.
+D: ¿tiene usted la presión arterial alta?
+P: presión arterial alta
+D: ¿tiene alguna alergia conocida?
+P: No tengo alergias, pero nunca me he hecho una prueba de alergia
+D: ¿ha tenido alguna operación reciente?
+P: Nunca me he operado
+D: ¿Sigue una dieta especial?
+P: no demasiado graso ni salado, con fruta y verdura y una dieta para la hipertensión
+D: ah, muy bien.
+P: ¿Perdón?
+D: ¿tomas alguna medicación?
+P: en realidad no
+D: ¿no hay pastillas para la presión arterial?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿no tomas ninguna medicación para la hipertensión?
+P: No, no especialmente
+D: ¿Cuánto alcohol bebes?
+P: En absoluto
+D: ¿Fumas?
+P: No
+D: ¿sufre de dolores de cabeza?
+P: ¿quieres decir que sufres de dolores de cabeza?
+D: sí, ¿tienes dolores de cabeza?
+P: No. Nada de eso.
+D: ¿tiene algún otro síntoma?
+P: Tengo la presión arterial alta y el colesterol alto
+D: ¿Haces algún deporte?
+P: 30 minutos de paseo, 3 veces a la semana y bicicleta y natación, no regularmente
+D: umm.
+P: No entiendo muy bien lo que me pregunta.

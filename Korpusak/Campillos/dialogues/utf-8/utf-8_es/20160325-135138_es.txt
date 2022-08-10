@@ -1,0 +1,6 @@
+D: ¿Se ha hecho alguna prueba?
+P: Me hice una prueba de lípidos en ayunas
+D: ¿Cuál fue el resultado de su prueba de lípidos?
+P: Le diré lo que me dijeron: "LDL 2,0g/l". Tal vez tengas eso en el archivo.
+D: ¿Cuáles son sus síntomas?
+P: Tengo la presión arterial alta y el colesterol alto

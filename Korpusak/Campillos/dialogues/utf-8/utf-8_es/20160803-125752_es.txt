@@ -1,0 +1,38 @@
+D: Buenos días, señor.
+P: Buenos días.
+D: ¿qué te trae por aquí?
+P: dolor en el pecho, tos y fiebre.
+D: Vale. Ya veo. Dame tu peso y tu altura otra vez, por favor.
+P: 78 kilos
+D: ¿y su altura?
+P: Mido 1 metro y 74 centímetros
+D: Lo tengo.
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Dónde trabajas?
+P: jubilado, pero soy un antiguo hortelano
+D: ¿cómo se come?
+P: sin dieta
+D: ¿alguna adicción?
+P: De hecho, fumo y bebo
+D: Claro, ¿has estado mal durante mucho tiempo?
+P: Llevo fumando desde los 20 años
+D: ¿llevas mucho tiempo enfermo?
+P: Tengo la tensión alta desde hace 10 años.
+D: ¿has tenido tos durante mucho tiempo?
+P: Tengo una tos seca desde anoche a las 23 horas
+D: ¿tienes dolor de garganta?
+P: No. En absoluto
+D: ¿qué tan alta es la fiebre?
+P: No puedo decirte, no he notado nada
+D: ¿y sus dolores de pecho?
+P: Exactamente
+D: ¿cómo se pueden describir?
+P: ¿Perdón?
+D: ¿le duele cuando tose?
+P: No puedo decirte... Pero no tengo ninguna preocupación
+D: Yo diría que al principio tienes un resfriado.
+P: no
+D: sí, lo tienes.
+P: No entiendo muy bien lo que me pregunta.
+D: Aquí tienes. Que tengas un buen día, adiós.
+P: Gracias, adiós.

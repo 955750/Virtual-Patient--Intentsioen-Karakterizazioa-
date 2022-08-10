@@ -1,0 +1,52 @@
+D: Hola, ¿por qué has venido a verme?
+P: Hola, doctor. Así que he venido a conseguir una licencia deportiva para participar en una carrera organizada por mi empresa.
+D: Bien, ¿cuál es su trabajo?
+P: Soy informático.
+D: ¿Está usted casado?
+P: ¿Perdón?
+D: ¿estás casado?
+P: Estoy divorciado
+D: ¿tiene hijos?
+P: sí, tengo 2... 10 y 8 años
+D: ¿cómo se llaman?
+P: me llamo Alain .
+D: ¿cómo se llama su hijo de 10 años?
+P: Soy Alain .
+D: ¿qué edad tienes?
+P: así que tengo 44 años
+D: ¿cuál es tu altura?
+P: Mido aproximadamente 1 metro y 77 centímetros
+D: ¿y cuánto pesas?
+P: Peso 82 kilos
+D: ¿haces algún deporte?
+P: ciclismo y natación ocasional
+D: ¿fumaste alguna vez?
+P: Nunca he fumado
+D: ¿llevas una dieta equilibrada?
+P: mis hábitos alimenticios son normales
+D: ¿llevas una dieta saludable?
+P: No tengo ninguna dieta específica
+D: ¿Tiene usted alguna alergia?
+P: No tengo ninguna alergia que yo sepa
+D: ¿te has operado alguna vez?
+P: Nunca me he operado
+D: ¿has estado alguna vez enfermo?
+P: Nunca he tenido ninguna enfermedad importante.
+D: ¿Está tomando alguna medicación en este momento?
+P: No, no especialmente
+D: ¿tiene algún tratamiento?
+P: No
+D: ¿tiene algún dolor en las articulaciones?
+P: No especialmente
+D: ¿tiene algún antecedente familiar en particular?
+P: No sé, lo siento, doctor.
+D: ¿Hay antecedentes de artritis en su familia?
+P: verás, no que yo sepa
+D: ¿Hay antecedentes de insuficiencia cardíaca en su familia?
+P: Ni idea, lo siento, doctor.
+D: ¿Tiene insuficiencia cardíaca?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Tiene problemas para respirar?
+P: No, no especialmente.
+D: Cuando hace un esfuerzo, ¿le falta la respiración?
+P: ves, no sé

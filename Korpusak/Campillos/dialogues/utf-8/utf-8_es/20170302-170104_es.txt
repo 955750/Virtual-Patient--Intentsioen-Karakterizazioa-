@@ -1,0 +1,62 @@
+D: Buenos días, señor.
+P: Buenos días
+D: ¿Qué le trae por aquí?
+P: He venido a sacarme la licencia deportiva, para participar en una carrera organizada por mi empresa.
+D: Bien, ¿con qué frecuencia corres?
+P: ciclismo y hago natación de vez en cuando
+D: ¿qué hay de la carrera?
+P: ciclismo y natación ocasional
+D: ¿Corres?
+P: ciclismo y natación ocasional
+D: ¿Cuánto tiempo lleva practicando estos deportes?
+P: No puedo responder a su pregunta [No hay información en el archivo] D: ¿cuál es su peso?
+D: ¿Cuál es su peso?
+P: 82 kilos
+D: ¿Y su altura?
+P: 1 metro 77 centímetros
+D: ¿llevas una dieta saludable?
+P: No tengo ninguna dieta específica
+D: ¿comete alimentos con almidón y verduras?
+P: Las como regularmente, pero no demasiado
+D: estás divorciado
+P: divorciado
+D: ¿tiene hijos?
+P: Yo tengo dos. 10 y 8 años
+D: ¿fumas?
+P: en realidad no
+D: ¿es decir?
+P: No
+D: ¿no fumas?
+P: No especialmente
+D: ¿fumas a veces?
+P: No, no especialmente
+D: ¿fuma usted cigarrillos?
+P: En absoluto
+D: ¿fuma usted cannabis?
+P: No. En absoluto
+D: ¿Consume alcohol con regularidad?
+P: No
+D: ¿Nunca bebes alcohol?
+P: En absoluto
+D: ¿Tienes alguna adicción?
+P: No
+D: ¿has ido alguna vez de compras?
+P: ¿Perdón?
+D: ¿has hecho alguna vez una carrera como la que vas a hacer?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Tienes licencia deportiva?
+P: ciclismo y nado ocasionalmente
+D: ¿Tiene usted alguna alergia?
+P: No tengo ninguna alergia, pero nunca me he hecho una prueba de alergia
+D: ¿ha tenido alguna enfermedad?
+P: Nunca he tenido ninguna enfermedad destacable.
+D: ¿Y la cirugía?
+P: Nunca me he operado
+D: ¿Tienes algún dolor?
+P: No. Nada de eso. Nada de eso.
+D: ¿tiene problemas de presión arterial?
+P: presión arterial alta
+D: ¿tiene usted la presión arterial alta?
+P: presión arterial alta
+D: ¿tiene problemas de corazón?
+P: No especialmente

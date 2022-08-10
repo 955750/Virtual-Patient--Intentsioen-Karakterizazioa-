@@ -1,0 +1,38 @@
+D: Buenos días
+P: Buenos días, doctor.
+D: ¿Cómo estás hoy?
+P: Estoy bien. P: Estoy bien, gracias.
+D: ¿Qué pasa?
+P: ¿Perdón?
+D: ¿Los niños?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Niños?
+P: sí, tengo 3 hijos
+D: ¿Qué edad tiene?
+P: No quiero dar esa información.
+D: ¿Tiene alguna foto?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Cómo va el tratamiento?
+P: ¿Perdón?
+D: ¿Por qué vienes a verme?
+P: Entonces, vengo porque me han hecho una radiografía de tórax derecha, y vuelvo como me han pedido menos de 3 horas después de la primera consulta de la mañana.
+D: ¿Cuáles son los resultados de la radiografía?
+P: Te voy a leer lo que me dieron: "foco de condensación alveolar". Puedes tenerlo en el archivo.
+D: ok
+P: entonces... ¿algo más?
+D: ok
+P: bueno... ¿es todo doctor?
+D: Ya veo
+P: ¿algo más que quiera saber doctor?
+D: ¿te duele el pecho?
+P: en absoluto, no
+D: ¿alguna tos?
+P: no, no particularmente.
+D: ¿fiebre?
+P: sí
+D: ¿desde cuándo?
+P: verás, no te puedo decir, no me acuerdo
+D: ¿qué temperatura tienes?
+P: No he medido mi fiebre
+D: Te voy a recetar un poco de paracetamol
+P: Funciona, vamos

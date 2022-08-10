@@ -1,0 +1,30 @@
+D: bonjour
+P: Bonjour docteur
+D: je vais vous poser quelques questions pour préparer l' anesthésie
+P: Pas de problème
+D: quel est votre poids ?
+P: 62 kilos
+D: combien mesurez-vous ?
+P: 1 mètre 65 centimètres
+D: que faites-vous dans la vie ?
+P: assistante maternelle en crèche
+D: avez-vous de la famille ?
+P: je suis mariée et j'ai 2 enfants
+D: est-ce que vous pratiquez une ou plusieurs activités physiques ?
+P: de la marche à pied occasionnelle
+D: fumez-vous ?
+P: du tabac (1 paquet par jour depuis l'âge de 18 ans)
+D: et de l' alcool ?
+P: Non. Pas du tout
+D: quel est votre mode d' alimentation ?
+P: je suis un régime pour le diabète
+D: ah , quel traitement prenez-vous pour le diabète ?
+P: un antihypertenseur pour l' hypertension et un régime pour le diabète non insulinodépendant . et sinon maintenant, je prends un antalgique . Il peut y avoir plus d'informations dans mon dossier.
+D: avez-vous des allergies ?
+P: je suis seulement allergique au kiwi
+D: avez-vous ou avez-vous eu d' autres maladies importantes ?
+P: de l' hypertension artérielle et du diabète non insulinodépendant
+D: des opérations ?
+P: j'ai eu une opération pour enlever les amygdales , une réparation des ligaments du genou droit et une cure de hernie inguinale
+D: et en ce moment , êtes-vous en bonne santé ?
+P: de l' hypertension et du diabète non insulinodépendant

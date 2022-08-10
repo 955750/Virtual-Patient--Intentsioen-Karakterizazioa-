@@ -1,0 +1,62 @@
+D: ¿Está usted casado?
+P: divorciado
+D: ¿por qué te divorciaste?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿cuándo te divorciaste?
+P: ¿Perdón?
+D: ¿divorciado?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Vives solo?
+P: No especialmente
+D: ¿vive con una pareja?
+P: ¿Perdón?
+D: ¿peso?
+P: Peso 82 kilos
+D: ¿Altura?
+P: Mido aproximadamente 1 metro y 77 centímetros
+D: ¿alergias?
+P: No tengo alergias, que yo sepa
+D: ¿cirugía?
+P: no, no he tenido ninguna operación
+D: ¿quejas?
+P: ves, no sé
+D: ¿por qué vienes?
+P: Así que vengo a confirmar la presencia de hipertensión esencial.
+D: ¿cuál es su queja?
+P: ya ves, ni idea
+D: ¿bebes?
+P: Bebo muy poco, cuando hay fiestas, eso es todo
+D: ¿bebes en las fiestas?
+P: No me gusta el sabor del alcohol.
+D: ¿No bebes?
+P: ¿Perdón?
+D: ¿bebes o no?
+P: No, no bebo. Como mucho un vaso de vino a la semana.
+D: ¿Cuántos cigarrillos al día?
+P: Nunca he fumado
+D: ¿nunca?
+P: no, no fumo
+D: ¿tienes un perro?
+P: no, no lo sé
+D: ¿te gustan los gatos?
+P: ¿Perdón?
+D: ¿y tú?
+P: No entiendo muy bien lo que me pregunta.
+D: ¡Cállate!
+P: ¿Perdón?
+D: ¿Te gustan las peleas?
+P: ¿Perdón?
+D: nada
+P: No entiendo muy bien lo que me pregunta.
+D: ¿tienes dolor en el pecho?
+P: No, no especialmente
+D: ¿en el pecho?
+P: No especialmente
+D: ¿en el abdomen?
+P: En absoluto, no
+D: ¿Corres?
+P: 30 minutos de paseo, 3 veces a la semana y bicicleta y natación, no regularmente
+D: ¿Bebes porque estás divorciado?
+P: Bebo muy poco, cuando hay fiestas, eso es todo
+D: ¿tomas drogas?
+P: no, no me drogo.

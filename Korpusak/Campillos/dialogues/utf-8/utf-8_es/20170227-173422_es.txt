@@ -1,0 +1,30 @@
+D: Buenos días, señora. Como va a someterse a una operación que requiere anestesia, tenemos que comprobar una serie de cosas. en primer lugar, ¿podría decirme su peso?
+P: unos 62 kilos
+D.: Sí, ¿y cuánto mide usted?
+P: 1 metro 65 centímetros
+D: ¿está usted en buenas condiciones físicas?
+P: ¿quieres decir que estás en buena condición física?
+D: sí
+P: ¿algo más?
+D: ¿tiene algún problema respiratorio?
+P: No. No esos síntomas.
+D: ¿estás seguro? ¿te quedas sin aliento alguna vez?
+P: No, no especialmente.
+D: ok. ¿te has hecho algún análisis de sangre recientemente?
+P: quieres decir: o k . ¿te has hecho algún análisis de sangre recientemente?
+D: sí
+P: verás, no te puedo decir, no me acuerdo
+D: ¿tiene usted colesterol?
+P: No, no tengo colesterol, pero sí tengo presión arterial alta y diabetes no insulinodependiente
+D: ¿Está en tratamiento por estos problemas?
+P: ¿quieres decir que estás medicado por estos problemas?
+D: sí
+P: un antihipertensivo para la hipertensión arterial y una dieta para la diabetes no insulinodependiente. Puede haber más información en mi expediente.
+D: Sí. ¿Tiene antecedentes de alergia a algún medicamento?
+P: Sólo soy alérgico al kiwi
+D: bueno, no es una droga, no debería ser un problema para la anestesia.
+P: No tomo nada para la alergia.
+D: ¿toma medicación para otros síntomas?
+P: ¿quieres decir que estás tomando medicación para otros síntomas?
+D: no, ¿está tomando medicación para otros síntomas?
+P: ¿no lo sabes?

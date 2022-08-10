@@ -1,0 +1,28 @@
+D: Hola señor, ¿qué le pasa?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Por qué has venido a verme?
+P: Bueno, he venido a sacar una licencia deportiva para participar en una carrera organizada por mi empresa.
+D: ¿Es usted deportista?
+P: ¿Perdón?
+D: ¿Ya practica algún deporte?
+P: ciclismo y nado ocasionalmente
+D: ¿cuántas horas a la semana?
+P: ¿Perdón?
+D: ¿cuánto deporte haces a la semana?
+P: ciclismo y natación ocasional
+D: ¿tiene alguna enfermedad?
+P: Nunca he tenido ninguna enfermedad importante.
+D: ¿toma alguna medicación?
+P: En absoluto, no
+D: ¿alguna operación quirúrgica?
+P: no, no he tenido ninguna operación
+D: cuál es su peso
+P: 82 kilos
+D: ¿y su altura?
+P: 1 metro 77 centímetros
+D: ¿fumas?
+P: Nunca he fumado
+D: ¿bebes alcohol?
+P: No, no bebo. Como máximo un vaso de vino a la semana.
+D: cuál es su presión arterial
+P: No lo he medido

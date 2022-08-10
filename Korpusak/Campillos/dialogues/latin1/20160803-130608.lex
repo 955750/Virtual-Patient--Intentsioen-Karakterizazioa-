@@ -1,0 +1,16 @@
+D: bonsoir
+P: Bonsoir.
+D: comment allez vous ?
+P: Ça va bien. Merci.
+D: pourquoi venez-vous ?
+P: Je viens parce que j'ai effectué une radio thoracique droite, et je reviens comme demandé moins de 3 heures après la première consultation le matin .
+D: je vois . donnez moi vos radios . s'il vous plaît .
+P: En effet , on m'a fait une radiographie thoracique
+D: vos radios sont bonnes , une petite zone d' ombre ici , mais ce n' est rien .
+P: Exactement , on m'a fait une radiographie thoracique
+D: vos radios sont bonnes . avez-vous besoin d' autre chose ?
+P: Juste ça
+D: très bien . je ne vous retiens pas plus longtemps alors et vous souhaite une très bonne soirée .
+P: Je ne peux pas vous dire ... Mais je n'ai aucun souci
+D: bonsoir .
+P: Bonsoir docteur.

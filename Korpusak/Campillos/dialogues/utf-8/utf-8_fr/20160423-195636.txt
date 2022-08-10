@@ -1,0 +1,38 @@
+D: quel est votre age ?
+P: j'ai 41 ans
+D: combien pesez-vous ?
+P: je pèse 62 kilos
+D: quelle est votre taille ?
+P: 1 mètre 65 centimètres
+D: connaissez-vous votre indice de masse corporelle ?
+P: Non, je n'ai pas de masse , mais de l' hypertension et du diabète non insulinodépendant
+D: quels sont vos symptomes ?
+P: j'ai des douleurs au ventre à droite, sous les côtes, et plus bas et des vomissements
+D: depuis combien de temps ?
+P: j'ai des douleurs au ventre à droite, sous les côtes, et plus bas depuis plusieurs jours déjà
+D: à cause de quoi ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: quelque chose pourrait-il expliquer vis douleurs ?
+P: Non. Pas du tout
+D: consommez vous des substances ?
+P: Pardon ?
+D: etes vous marié ?
+P: mariée
+D: y' a-t-il des antécédants de probleme anethesique ?
+P: Pardon ?
+D: un membre de votre famille a-t-il déjà réagi à une anesthesie ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: avez-vous des allergies ?
+P: je suis seulement allergique au kiwi
+D: arrivez-vous à ouvrir votre bouche ?
+P: Pardon ?
+D: avez-vous des problemes à la machoire ?
+P: Juste ça
+D: avez-vous peur de l' anesthesie ?
+P: Pas du tout
+D: quand souhaitez-vous vous faire opérer ?
+P: J'en sais rien ... Dans 2 semaines je crois. Vous pouvez avoir ça dans le dossier.
+D: avez-vous des questions ,
+P: tout est clair
+D: connaissez-vous les complications éventuelles ?
+P: quasiment inefficace sous paracétamol

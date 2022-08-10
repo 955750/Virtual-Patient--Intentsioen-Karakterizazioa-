@@ -1,0 +1,40 @@
+D: bonjour , comment vous sentez-vous ?
+P: j'ai des douleurs au ventre à droite sous les côtes et plus bas et des vomissements
+D: depuis combien de temps ?
+P: j'ai des douleurs au ventre à droite sous les côtes et plus bas depuis plusieurs jours déjà
+D: avez-vous de la diarrhée ?
+P: Non, pas particulièrement.
+D: quand êtes vous allé à la selle pour la dernière fois ?
+P: Non, pas ces symptômes.
+D: quand avez vous fait caca .
+P: Non, rien de tout ça
+D: etes vous allé aux toilettes ?
+P: Pardon ?
+D: avez vous fait caca récemment ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: quand allez vous être opéré ?
+P: aucune idée, je suis désolé docteur. Vous devez avoir ça dans le dossier.
+D: avez vous des allergies ?
+P: je suis seulement allergique au kiwi
+D: pas d' allergie aux médicaments ?
+P: je suis seulement allergique au kiwi
+D: avez vous déjà été opéré ?
+P: Alors, j'ai eu une opération pour enlever les amygdales , une réparation des ligaments du genou droit et une cure de hernie inguinale
+D: etes vous diabétique ?
+P: Non, pas de diabétique mais sinon de l' hypertension et du diabète non insulinodépendant
+D: faites vous du sport ?
+P: de la marche à pied occasionnelle
+D: prenez-vous des médicaments ?
+P: Alors, du coversyl pour l' hypertension artérielle et un régime pour le diabète non insulinodépendant .
+D: est-ce que vous fumez ?
+P: Exactement , je fume
+D: combien de cigarettes par jour ?
+P: je fume 1 paquet par jour
+D: depuis combien de temps ?
+P: je fume depuis l'âge de 18 ans
+D: buvez vous de l' alcool ?
+P: je n'aime pas le goût de l'alcool.
+D: jamais
+P: je bois très rarement, quand il y a des fêtes , c'est tout
+D: que faites vous comme métier ?
+P: assistante maternelle en crèche

@@ -1,0 +1,28 @@
+D: bonjour
+P: Bonjour, docteur.
+D: qu' est-ce qui vous arrive ?
+P: Alors, je viens pour établir une licence de sport pour participer à une course à pied organisée par mon employeur .
+D: vous n' avez pas de médecin traitant ?
+P: Pas vraiment
+D: avez-vous des maladies ,
+P: Je n'ai jamais eu de maladies importantes .
+D: et des maladies moins importantes ?
+P: Je n'ai jamais eu de maladies importantes .
+D: vous êtes en parfaite santé ,
+P: Je ne comprends pas bien ce que vous demandez.
+D: vous ne soufrrez de rien ?
+P: Pardon ?
+D: vous ne souffrez de rien ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: souffrez-vous de quelque chose ?
+P: Pardon ?
+D: avez-vous quelque chose ,
+P: Je ne comprends pas bien ce que vous demandez.
+D: avez-vous des problèmes de santé ?
+P: Je n'ai jamais eu de maladies importantes .
+D: d' accord
+P: alors ... encore autre chose ?
+D: vous n' avez pas d' hyper tension ?
+P: vous voyez, pas à ma connaissance
+D: d' accord je vais d' abord vous ausculter
+P: bon ... c'est tout docteur ?

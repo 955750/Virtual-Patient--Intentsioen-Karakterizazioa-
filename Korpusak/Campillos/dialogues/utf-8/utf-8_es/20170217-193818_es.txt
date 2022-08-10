@@ -1,0 +1,28 @@
+D: Buenos días
+P: buenos días
+D: ¿qué te trae por aquí?
+P: He venido por un dolor de pecho, tos y fiebre.
+D: ¿desde cuándo?
+P: Llevo sudando desde ayer por la tarde
+D: ¿tienes dolores y molestias?
+P: no. Nada de eso.
+D: ¿fumas?
+P: Fumo (20 cigarrillos al día desde los 20 años)
+D: ¿ha tenido alguna vez problemas respiratorios?
+P: Tengo dificultad para respirar y tos seca
+D: ¿calientas bien tu casa?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Tienes asma?
+P: No, no soy asmático, pero tengo la tensión alta
+D: ¿Tiene algún tratamiento actual?
+P: Un antihipertensivo para la hipertensión. Puede haber más información en mi expediente.
+D: ¿conoces tu IMC?
+P: quieres decir: ¿conoces tu IMC?
+D: ¿cuál es tu altura?
+P: Mido aproximadamente 1 metro y 74 centímetros
+D: ¿y su peso?
+P: unos 78 kilos
+D: derecho
+P: bueno... ¿es todo doctor?
+D: sí, gracias
+P: Con mucho gusto.

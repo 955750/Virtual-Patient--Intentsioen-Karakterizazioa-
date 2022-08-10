@@ -1,0 +1,68 @@
+D: bonjour
+P: Bonjour.
+D: comment allez-vous ?
+P: Ça va bien. Merci.
+D: vous allez bien alors qu' est-ce qui vous amène ?
+P: Très bien. Merci.
+D: vous êtes malade ?
+P: de l' hypertension et du diabète non insulinodépendant
+D: vous avez de l' hypertension ?
+P: Oui, en effet. de l' hypertension artérielle et du diabète non insulinodépendant
+D: vous êtes suivi pour votre hypertension
+P: Oui, tout à fait. de l' hypertension et du diabète non insulinodépendant
+D: c' est la raison de votre visite ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: quelle est la raison de votre visite ?
+P: Alors, je viens pour une opération pour enlever la vésicule biliaire avec cholangiographie pendant l'intervention .
+D: je suis anesthésiste , je ne vais pas vous opérer
+P: Attendez que je me rappelle, alors le docteur Noyer, médecin généraliste
+D: vous ^tes envoyé par le docteur Noyer ?
+P: C'est docteur Noyer, médecin généraliste
+D: pour cette consultation vous venez pour quelle raison ?
+P: Alors, je viens pour une opération pour enlever la vésicule biliaire avec cholangiographie pendant l'intervention .
+D: vous allez vous faire opérer , bien je vais vous poser des questions sur l' anesthesie
+P: D'accord
+D: avec-vous des allergies ?
+P: je suis seulement allergique au kiwi
+D: pas d' autres allergies ?
+P: Juste ça
+D: latex ?
+P: Pardon ?
+D: une allergie au latex ?
+P: je suis seulement allergique au kiwi
+D: avez-vous déja été opérée ?
+P: Alors, j'ai eu une opération pour enlever les amygdales , une réparation des ligaments du genou droit et une cure de hernie inguinale
+D: les amydales c' était en quelle année ?
+P: Alors, j'ai eu une opération pour enlever les amygdales dans mon enfance , une réparation des ligaments du genou droit en 1996 et une cure de hernie inguinale en 2006
+D: avez-vous eu des problèmes pendant ces opérations ?
+P: je me rappelle que j'ai eu des nausées et des vomissements après cure de hernie inguinale .
+D: d' autres problèmes ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: vous avez eu d' autres problèmes , des saignements ?
+P: j'ai des douleurs au ventre à droite sous les côtes et plus bas et des vomissements
+D: vous prenez des médicaments ?
+P: Alors, je prends du paracétamol
+D: de quoi allez-vous être opéré ?
+P: C'est ça oui, une opération pour enlever la vésicule biliaire avec cholangiographie pendant l'intervention .
+D: quelle est la date de votre opération ?
+P: Alors, j'ai eu une opération pour enlever les amygdales dans mon enfance , une réparation des ligaments du genou droit en 1996 et une cure de hernie inguinale en 2006
+D: l' opération que vous allez avoir aura lieu quand ?
+P: aucune idée, je suis désolé docteur. Peut-être vous avez ça dans le dossier.
+D: est-ce que vous avez un pace maker ou un implant ?
+P: Jamais j'ai eu ce type d'opération .
+D: vous fumez ?
+P: Exactement , je fume
+D: combien de cigarettes par jour ?
+P: je fume 1 paquet par jour
+D: et vous consommez de l' alccol ?
+P: Pardon ?
+D: vous consommez de l' alcool ?
+P: je n'aime pas le goût de l'alcool.
+D: donc vous n' en consommez pas ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: vous avez des enfants ?
+P: oui, j'ai 2 enfants
+D: comment se sont passées les grosesses ?
+P: Alors, quasiment inefficace sous paracétamol
+D: ah
+P: Pardon ?

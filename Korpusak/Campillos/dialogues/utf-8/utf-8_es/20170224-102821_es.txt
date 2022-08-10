@@ -1,0 +1,54 @@
+D: Buenos días
+P: buenos días
+D: ¿Qué le trae por aquí?
+P: He venido a sacarme la licencia deportiva, para participar en una carrera organizada por mi empresa.
+D: muy bien. ¿sabes tu peso?
+P: unos 82 kilos
+D: ¿y su altura?
+P: Mido 1 metro 77 centímetros
+D: ¿tiene algún antecedente familiar en particular?
+P: No lo sé, lo siento doctor.
+D: no te preocupes. ¿Tenían tus padres alguna enfermedad grave, especialmente del corazón?
+P: No tengo ni idea
+D: ok, y tú, ¿has tenido alguna enfermedad grave?
+P: quieres decir: o k, y tú, ¿has tenido alguna enfermedad grave?
+D: sí, ¿ha tenido algún problema de salud importante?
+P: Afortunadamente, nunca he tenido ninguna enfermedad importante.
+D: muy bien. ¿eres físicamente activo?
+P: ciclismo y natación ocasional
+D: ¿y no hay problemas particulares que reportar durante estas actividades?
+P: Tengo la presión arterial alta
+D: ah, ¿lo supervisas?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿controla su presión arterial?
+P: presión arterial alta
+D: ¿ha recibido algún tratamiento para sus problemas de presión arterial?
+P: No, no especialmente
+D: ¿Cómo de alta es su presión arterial en general?
+P: verás, no me acuerdo
+D: Ah, qué pena. ¿Y estás tomando alguna medicación?
+P: No. En absoluto
+D: ¿fumas?
+P: en realidad no
+D: ¿bebes?
+P: En absoluto
+D: Espero que bebas agua de todos modos... ¿tienes lo que consideras una dieta equilibrada?
+P: Como regularmente, pero no demasiado
+D: ¿de qué?
+P: ¿Perdón?
+D: Está bien, ¿comes de todo, especialmente fruta y verdura?
+P: Las tomo como todo el mundo, no demasiado
+D: el exceso de frutas y verduras no suele ser muy perjudicial ...
+P: Suelo tomar algo, pero ni mucho ni poco
+D: ¿tiene usted alguna alergia?
+P: No tengo ninguna alergia que yo sepa
+D: ¿has corrido alguna vez?
+P: ciclismo y nado ocasionalmente
+D: ¿vas mucho en bicicleta?
+P: No puedo responder a esa pregunta [No hay información en el expediente] D: Muy bien, le daré la respuesta.
+D: Muy bien, haré su autorización. Recuérdeme su nombre,
+P: Me llamo Alain Courbet.
+D: Gracias.
+P: Con mucho gusto.
+D: adiós
+P: Adiós, doctor.

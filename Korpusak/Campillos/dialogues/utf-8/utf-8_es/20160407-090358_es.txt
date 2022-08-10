@@ -1,0 +1,14 @@
+D: ¿motivo de la consulta?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿por qué vienes?
+P: Vengo a obtener una licencia deportiva para participar en una carrera organizada por mi empresa.
+D: ¿Cuál es su queja?
+P: ves, no sé
+D: ¿síntomas?
+P: Tengo la presión arterial alta
+D: ¿historia?
+P: ¿Perdón?
+D: ¿tiene algún historial médico?
+P: Nunca he tenido ninguna enfermedad importante.
+D: tiene alguna enfermedad ,
+P: Nunca he tenido ninguna enfermedad importante.

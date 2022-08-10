@@ -1,0 +1,48 @@
+D: Buenos días
+P: Hola, doctor.
+D: ¿qué puedo hacer por usted?
+P: Estoy aquí para una consulta antes de una operación de vesícula, con colangiografía durante la operación.
+D: Muy bien. ¿Cuántos años tienes?
+P: Tengo 41 años
+D: ¿cuál es tu altura?
+P: Mido aproximadamente 1 metro y 65 centímetros
+D: ¿cuál es su ocupación?
+P: un asistente de guardería
+D: ¿cuál es su historial médico?
+P: hipertensión arterial y diabetes no insulinodependiente
+D: ¿eso es todo?
+P: sólo lo que te dije
+D: ¿has estado hospitalizado alguna vez?
+P: Me han operado de las amígdalas, de los ligamentos de la rodilla derecha y de una hernia inguinal
+D: ¿Qué medicación suele tomar?
+P: Un antihipertensivo para la hipertensión arterial y una dieta para la diabetes no insulinodependiente. Quizá haya más información en mi expediente.
+D: ¿Qué antihipertensivo?
+P: 1 comprimido por la mañana y 1 por la noche cada día
+D: ¿cuál es su nombre?
+P: Soy Irene Claudel.
+D: ¿algún problema de salud en la familia?
+P: Ni idea. Lo siento, doctor.
+D: ¿tiene algún antecedente familiar?
+P: No lo sé, lo siento doctor.
+D: ¿problemas cardíacos en la familia?
+P: No lo sé, lo siento doctor.
+D: ¿algún problema cardíaco en la familia?
+P: Ni idea. Lo siento, doctor.
+D: ¿Tiene alguna alergia conocida?
+P: Sólo soy alérgico al kiwi
+D: ¿no al látex?
+P: ¿Perdón?
+D: ¿es usted alérgico al látex?
+P: Sólo soy alérgico al kiwi
+D: ¿tiene algún síntoma en este momento?
+P: Tengo dolores de estómago en el lado derecho, debajo de las costillas y más abajo y vómitos
+D: ¿durante cuánto tiempo?
+P: Llevo varios días con dolores en el estómago derecho, debajo de las costillas y más abajo
+D: ¿puede describirme su dolor?
+P: No sé cómo describírtelo, es sólo un dolor en el estómago en el lado derecho, debajo de las costillas, y más abajo
+D: ¿cuándo se produce este dolor?
+P: es difícil de describir, es sólo un dolor en el estómago a la derecha, debajo de las costillas, y más abajo
+D: ¿quema? ¿tira? ¿presiona? ¿es como un puñetazo?
+P: ¿quieres decir: que quema? que tira? que presiona? que apuñala?
+D: ¿se quema?
+P: ¿quieres decir que se quema?

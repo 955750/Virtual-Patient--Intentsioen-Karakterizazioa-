@@ -1,0 +1,42 @@
+D: Hola, ¿cómo te llamas?
+P: Irène Claudel
+D: ¿a qué te dedicas en la vida?
+P: un asistente de guardería
+D: ¿puedo preguntarte tu peso?
+P: Peso 62 kilos
+D: ¿y su altura?
+P: Mido 1 metro y 65 centímetros
+D: ¿toma actualmente alguna medicación?
+P: Un antihipertensivo para la hipertensión, y una dieta para la diabetes no insulinodependiente. Quizá haya más información en mi expediente.
+D: ¿Haces algún deporte?
+P: ¿A qué se refiere? ¿Puede darme más detalles?
+D: ¿Haces algún ejercicio, actividades físicas?
+P: caminar ocasionalmente
+D: ¿Tiene usted alguna alergia?
+P: Sólo soy alérgico al kiwi
+D: ¿te has operado alguna vez?
+P: Me han operado de las amígdalas, me han reparado los ligamentos de la rodilla derecha y me han reparado una hernia inguinal
+D: ¿Hace cuánto tiempo?
+P: Me han operado de las amígdalas, me han reparado los ligamentos de la rodilla derecha y me han reparado una hernia inguinal
+D: ¿Fumas?
+P: Sí, tabaco (1 paquete al día desde los 18 años)
+D: ¿También bebes mucho?
+P: No, no bebo alcohol.
+D: ¿Cuáles son sus síntomas?
+P: Tengo dolores de estómago en el lado derecho, debajo de las costillas y más abajo y vómitos
+D: ¿Ha tenido alguna vez apendicitis?
+P: En absoluto
+D: ¿Con qué frecuencia tienes dolor?
+P: No puedo decirte... Pero no tengo preocupaciones
+D: ¿son sus movimientos intestinales normales?
+P: Normalmente
+D: ¿Está bien tu movimiento intestinal?
+P: Muy bien. Gracias.
+D: ¿Está usted estresado en este momento?
+P: No, no especialmente.
+D: ¿Cómo va su trabajo?
+P: Soy asistente de guardería.
+D: ¿y la familia?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿No hay tensiones particulares?
+P: No. No estos síntomas. No estos síntomas.

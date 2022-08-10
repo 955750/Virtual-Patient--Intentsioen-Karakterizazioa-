@@ -1,0 +1,68 @@
+D: Hola, ¿por qué vienes a verme?
+P: Hola, dolor en el pecho, tos y fiebre.
+D: ¿llevas mucho tiempo tosiendo?
+P: Tengo una tos seca desde anoche a las 23 horas
+D: ¿la fiebre llegó al mismo tiempo?
+P: verás, no me acuerdo
+D: ¿desde cuándo tienes el dolor?
+P: Tengo dolores en el pecho en el lado derecho desde anoche a las 20 horas
+D: ¿es más violento cuando tose?
+P: No puedo decirte, no he estado prestando atención
+D: ¿cuál era su trabajo?
+P: Estoy jubilado, pero antes era hortelano.
+D: ¿Cuánto pesas?
+P: 78 kilos
+D: ¿ha cambiado su peso recientemente?
+P: No, no especialmente.
+D: ¿Y cuánto mide usted?
+P: Mido aproximadamente 1 metro y 74 centímetros
+D: ¿Vives solo?
+P: No puedo responder a su pregunta [No hay información en el expediente].
+D: ¿Está usted casado?
+P: casado
+D: ¿tiene hijos?
+P: Tengo 3 hijos
+D: ¿Haces alguna actividad deportiva?
+P: jardinería, trato los cultivos con productos fitosanitarios
+D: ¿llevas mucho tiempo utilizando estos productos?
+P: ¿Perdón?
+D: ¿lleva mucho tiempo utilizando productos fitosanitarios?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Es usted alérgico a algún producto?
+P: No tengo ninguna alergia, que yo sepa
+D: ¿Ha estado usted enfermo a menudo?
+P: Tengo la tensión alta desde hace 10 años.
+D: ¿y dolores en el pecho?
+P: sí
+D: ¿es esto común?
+P: ya ves, sólo que esta vez
+D: ¿ha tenido alguna operación?
+P: Me han reparado una hernia inguinal derecha y me han operado de apendicitis
+D: ¿toma alguna medicación?
+P: No, no especialmente
+D: ¿incluso para la presión arterial alta?
+P: Sí, definitivamente para la presión arterial alta
+D: ¿todavía tienes fiebre?
+P: Tengo fiebre
+D: ¿cuánto?
+P: 38 grados a la derecha
+D: ¿fumas?
+P: Fumo (20 cigarrillos al día desde los 20 años)
+D: ¿has pensado alguna vez en dejarlo?
+P: sí, tengo que parar
+D: ¿cómo se come?
+P: sin dieta
+D: ¿comes verduras?
+P: Suelo hacerlo, pero ni mucho ni poco
+D: ¿de su jardín?
+P: ¿Perdón?
+D: ¿comes las verduras que cultivas?
+P: Las como regularmente, pero no demasiado
+D: ¿Ha tomado algún medicamento para la fiebre?
+P: No especialmente
+D: ¿Bebes?
+P: alcohol
+D: ¿y el agua?
+P: Lo bebo regularmente, pero no demasiado
+D: ¿te duele mucho el pecho esta mañana?
+P: No sé cómo describírtelo, es sólo un dolor de pecho en la derecha

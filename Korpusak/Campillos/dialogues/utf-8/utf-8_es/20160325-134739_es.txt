@@ -1,0 +1,62 @@
+D: Buenos días, señor
+P: Hola, doctor.
+D: ¿cuál es su nombre?
+P: me llamo Alain.
+D: buenos días Alain
+P: Hola.
+D.: Hola
+P: Hola, doctor.
+D: Buenos días Alain
+P: Hola.
+D: mi nombre es Alexis
+P: Soy Alain.
+D: nombre
+P: ¿Perdón?
+D: dzkdozq nombre dzz
+P: No entiendo muy bien lo que me pregunta.
+D: bla, bla, bla nombre
+P: ¿Perdón?
+D: su nombre es ?
+P: Alain
+D: ¿cuáles son sus síntomas?
+P: Tengo la presión arterial alta
+D: ¿desde cuándo?
+P: verás, no te puedo decir, no me acuerdo
+D: ¿quién te lo ha dicho?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Está tomando alguna medicación?
+P: No
+D: ¿algún tratamiento?
+P: En absoluto, no
+D: cuál es su dieta
+P: No tengo una dieta específica
+D: ¿Tienes alguna adicción?
+P: No especialmente
+D: ¿haces algún deporte?
+P: ciclismo y natación ocasional
+D: ¿Cuál es su peso?
+P: Peso 82 kilos
+D: ¿Cuánto mide usted?
+P: Mido alrededor de 1 metro 77 centímetros
+D: ¿tiene algún síntoma?
+P: sólo lo que te dije
+D: ¿tiene algún síntoma?
+P: sólo lo que te dije
+D: ¿tiene usted la presión arterial alta?
+P: Yo sí
+D: ¿Tienes algún dolor de cabeza?
+P: En absoluto, no
+D: ¿Te duele el estómago?
+P: No, no especialmente
+D: ¿tiene usted alguna alergia?
+P: No tengo ninguna alergia, pero nunca me he hecho una prueba de alergia
+D: ¿Toma alguna medicación?
+P: En realidad no
+D: ¿Ha tenido alguna enfermedad antes?
+P: Nunca he tenido ninguna enfermedad importante.
+D: ¿Se ha operado?
+P: no, no he tenido ninguna operación
+D: ¿te has hecho un electrocardiograma?
+P: verás, no me acuerdo
+D: ¿te has hecho una ecografía?
+P: verás, no me acuerdo

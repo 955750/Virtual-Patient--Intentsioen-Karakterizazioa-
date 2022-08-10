@@ -1,0 +1,58 @@
+D: ¿motivo de la consulta?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿síntomas?
+P: bueno, varias cosas, tengo fiebre, sudor y dificultad para respirar
+D: ¿desde cuándo?
+P: ¿Perdón?
+D: ¿desde cuándo?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿desde cuándo?
+P: ¿Perdón?
+D: inicio de los síntomas ?
+P: entonces, varios problemas, tengo tos seca, escalofríos y esputo amarillo
+D: duración de los síntomas ?
+P: verás, no me acuerdo
+D: ¿historia?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿problemas de salud?
+P: presión arterial alta
+D: ¿tratamiento?
+P: Así que co-renitec para la presión arterial alta
+D: ¿algún otro medicamento?
+P: Justo lo que te dije
+D: ¿vacunas?
+P: Sí las vacunas están al día, pero me enfermé después de la vacuna de la gripe a los 65 años
+D: ¿ya no lo haces?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Ya no lo haces?
+P: ¿Perdón?
+D: ¿vacuna contra la gripe?
+P: No, no especialmente
+D: ¿Gripe?
+P: No especialmente
+D: ¿pérdida de peso?
+P: En absoluto, no
+D: ¿aumento de peso?
+P: En realidad no
+D: ¿fumando?
+P: Sí, exactamente, fumo
+D: ¿cuánto?
+P: Fumo 20 cigarrillos al día
+D: ¿alcohol?
+P: En efecto, bebo
+D: ¿Cuánto?
+P: Tomo 1 vaso de vino tinto por comida
+D: ¿otras drogas?
+P: no, no tengo ninguna adicción.
+D: ¿dolor en el pecho?
+P: exactamente
+D: ¿qué parte del pecho?
+P: Sí, exactamente
+D: ¿a la derecha?
+P: Tengo dolor en el pecho a la derecha
+D: ¿Qué bebe la vaca?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿neumonía?
+P: No especialmente
+D: ¿has tenido alguna vez una neumonía?
+P: En absoluto, no

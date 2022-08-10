@@ -1,0 +1,4 @@
+D: pour quel motif consultez vous aujourd'hui ?
+P: Pardon ?
+D: qu' est ce qui vous amène en consultation ce jour ?
+P: Alors, je viens pour établir une licence de sport pour participer à une course à pied organisée par mon employeur .

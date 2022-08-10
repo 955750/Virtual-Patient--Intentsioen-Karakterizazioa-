@@ -1,0 +1,31 @@
+D: Buenos días, ¿qué le trae hoy por aquí?
+P: Buenos días. Así que estoy aquí para confirmar la hipertensión esencial.
+D: ¿Cuántos años tienes?
+P: Tengo 44 años
+D: ¿estás casado?
+P: Estoy divorciado
+D: ¿tiene hijos?
+P: sí, tengo 2... 10 y 8 años
+D: ¿fuma regularmente?
+P: no, no fumo
+D: ¿bebe regularmente alcohol?
+P: No, no bebo. Como máximo un vaso de vino a la semana.
+D: ¿Qué síntomas tiene?
+P: Tengo la presión arterial alta y el colesterol alto
+D: ¿Tiene algún tratamiento?
+P: En realidad no
+D: ¿Le han recetado un tratamiento para la hipertensión arterial?
+P: No especialmente
+D: ¿cómo se enteró de su hipertensión esencial?
+P: ya ves, ni idea
+D: ¿está tomando algún tratamiento?
+P: En absoluto, no
+D: ¿tienes algún dolor?
+P: No, estos síntomas no.
+D: ¿cuál es su presión arterial?
+P: No lo he medido
+D: ¿cuál es su nivel de colesterol?
+P: ves, no sé
+D: ¿has estado alguna vez con otro médico?
+P: ¿has visto a algún otro médico que no sea yo?
+D: ¿cuál es su nombre?

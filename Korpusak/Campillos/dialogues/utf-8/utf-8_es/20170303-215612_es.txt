@@ -1,0 +1,102 @@
+D: buenos días señor. por favor dígame su edad
+P: Tengo 62 años
+D: ¿cuánto pesas?
+P: Peso 78 kilos
+D: ¿y cuánto mide usted?
+P: Mido aproximadamente 1 metro y 74 centímetros
+D: ¿conoces tu índice de masa corporal?
+P: No. No estos síntomas.
+D: ¿vives en pareja?
+P: casado
+D: ¿Su esposa goza de buena salud?
+P: Con buena salud.
+D: ¿Cuál es su ocupación?
+P: Estoy jubilado, pero soy un antiguo hortelano.
+D: ¿Solías vender fruta y verdura?
+P: Las tomo como todo el mundo, no en exceso.
+D: ¿Los vendió o los produjo?
+P: ¿Perdón?
+D: dice usted hortelano. ¿era usted vendedor o productor?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Qué significa jardinero?
+P: ¿Perdón?
+D: ¿Cuánto tiempo llevas fumando?
+P: desde los 20 años
+D: ¿Cuánto?
+P: Fumo (20 cigarrillos al día desde los 20 años)
+D: un paquete, así que
+P: Fumo (20 cigarrillos al día desde los 20 años)
+D: ¿te das cuenta de que son más de 300.000 cigarrillos?
+P: ¿A qué se refiere? ¿Puede ser más específico?
+D: ¿haces algún deporte regularmente?
+P: jardinería, trato los cultivos con productos fitosanitarios
+D: ¿Productos ecológicos?
+P: Suelo tomar algo, pero ni mucho ni poco
+D: ¿Cómo utiliza sus productos fitosanitarios?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Cuánto tiempo caminas cada día?
+P: ¿Perdón?
+D: ¿caminas mucho?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿caminas mucho?
+P: jardinería, trato los cultivos con productos fitosanitarios
+D: ¿Cuánta fruta y verdura comes al día?
+P: Las como regularmente, pero no demasiado
+D: ¿Bebes regularmente?
+P: alcohol
+D: vale. ¿Burdeos?
+P: ¿quieres decir: o k . clarete?
+D: sí
+P: ¿algo más que quiera saber doctor?
+D: Sí. ¿Qué te trae por aquí?
+P: Vengo por un dolor de pecho, tos y fiebre .
+D: ¿desde cuándo?
+P: Llevo sudando desde ayer por la tarde
+D: ¿te has tomado o te han tomado la temperatura?
+P: 38 grados a la derecha
+D: ¿derecho a qué?
+P: ¿Perdón?
+D: 38 grados no es una fiebre alta
+P: Tengo fiebre
+D: ¿cómo se localiza su dolor?
+P: No sé cómo describírtelo, es sólo un dolor en el pecho derecho
+D: si respiras profundamente, ¿qué pasa?
+P: dolor en el pecho, tos y fiebre.
+D: ¿cómo está tu tos?
+P: tos seca
+D: ¿tomaste algo?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿tomaste algún medicamento?
+P: no
+D: bueno, no parece tan malo. túmbate en la mesa de exploración
+P: verás, no te puedo decir, no me acuerdo
+D: quitarse la ropa
+P: ¿Perdón?
+D: quítate la chaqueta, voy a revisarte
+P: OK
+D: acostarse
+P: ¿Perdón?
+D: deja caer tu camisa
+P: No entiendo muy bien lo que me pregunta.
+D: respirar profundamente
+P: ¿Perdón?
+D: respirar profundamente
+P: Tengo dificultad para respirar y tos seca
+D: ¿tiene antecedentes de enfermedades cardíacas?
+P: No sé si esto está relacionado, pero tengo la presión arterial alta
+D: ¡además!
+P: sí, definitivamente la presión arterial alta
+D: ¿y todavía fumas?
+P: Fumo (20 cigarrillos al día desde los 20 años)
+D: ya lo has dicho
+P: No entiendo muy bien lo que me pregunta.
+D: vas a comprar un bote de miel de lavanda ecológica para endulzar tus infusiones
+P: Lo uso regularmente, pero no demasiado
+D: ¿qué quiere decir con "no demasiado"?
+P: ¿Perdón?
+D: ¿Cuánto?
+P: ¿Perdón?
+D: Eso no suena tan mal, adiós señor
+P: No entiendo muy bien lo que me pregunta.
+D: Adiós
+P: Adiós, doctor.

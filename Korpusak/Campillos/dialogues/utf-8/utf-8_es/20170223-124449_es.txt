@@ -1,0 +1,24 @@
+D: Hola, ¿qué puedo hacer por usted?
+P: Hola doctor, he venido por un dolor en el pecho, tos y fiebre.
+D: ¿desde cuándo?
+P: Llevo sudando desde ayer por la tarde
+D: ¿tomó algún medicamento?
+P: en realidad no
+D: ¿cuál es su peso?
+P: unos 78 kilos
+D: ¿cuál es tu altura?
+P: Mido 1 metro y 74 centímetros
+D: Estás jubilado, ¿no?
+P: ¿A qué se refiere? ¿Puede ser más específico?
+D: ¿Realiza alguna actividad física con regularidad?
+P: jardinería, trato los cultivos con productos fitosanitarios
+D: ¿Bebe usted alcohol?
+P: alcohol
+D: ¿Y fumas?
+P: Fumo (20 cigarrillos al día desde los 20 años)
+D: ¿ha tenido alguna enfermedad recientemente?
+P: presión arterial alta
+D: ¿cuál es su temperatura?
+P: unos 38 grados a la derecha
+D: ¿has dormido bien?
+P: No me preocupa eso

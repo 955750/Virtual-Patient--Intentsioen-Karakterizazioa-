@@ -1,0 +1,24 @@
+D: bonjour , que puis-je faire pour vous ?
+P: Bonjour docteur je viens pour une douleur à la poitrine, toux, et fièvre .
+D: depuis quand ?
+P: j'ai de la sueur depuis hier soir
+D: avez-vous pris un médicament ?
+P: Pas vraiment
+D: quel est votre poids ?
+P: environ 78 kilos
+D: votre taille ?
+P: je fais 1 mètre 74 centimètres
+D: vous êtes retraité , c' est bien cela ?
+P: À quoi faites-vous référence ? Pouvez-vous être plus précis ?
+D: pratiquez-vous une activité physique régulière ?
+P: le jardinage, je traite les cultures avec des produits phytosanitaires
+D: est-ce que vous buvez de l' alcool ?
+P: de l' alcool
+D: et vous fumez ?
+P: je fume (20 cigarettes par jour depuis l'âge de 20 ans)
+D: avez-vous eu des maladies récemment ?
+P: de l' hypertension
+D: quelle st votre température ?
+P: Environ 38 degrés à droite
+D: avez-vous bien dormi ?
+P: Je n'ai aucun souci par rapport à ça

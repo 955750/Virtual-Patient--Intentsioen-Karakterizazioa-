@@ -1,0 +1,20 @@
+D: Buenos días, señor
+P: Buenos días.
+D: ¿Cuál es el motivo de su consulta?
+P: Entonces, vengo a hacer un seguimiento de la hipertensión después de los cambios de estilo de vida y la prescripción de medicamentos.
+D: ¿Haces algún deporte?
+P: 30 minutos de caminata, 3 veces a la semana y bicicleta y natación, no regularmente
+D: muy bien y ¿qué pasa con tu dieta?
+P: no demasiado graso ni salado, con fruta y verdura y una dieta para la hipertensión
+D: Muy bien, ¿has perdido peso?
+P: No, no especialmente.
+D: ¿Cuánto mide usted?
+P: Mido aproximadamente 1 metro y 77 centímetros
+D: ¿Y su peso?
+P: Peso 82 kilos
+D: ¿Fumas?
+P: Nunca he fumado
+D: ¿cuál es su profesión?
+P: Soy informático.
+D: eres un idiota
+P: ¿Perdón?

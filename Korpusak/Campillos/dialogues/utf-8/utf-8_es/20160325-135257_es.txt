@@ -1,0 +1,78 @@
+D: slaut
+P: ¿Perdón?
+D.: Hola
+P: Hola.
+D: yo
+P: No entiendo muy bien lo que me pregunta.
+D: bOnjour
+P: Hola, doctor.
+D: bHola
+P: Hola, doctor.
+D: bHola Señor
+P: Buenos días, doctor.
+D: ¿cómo te llamas?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿cómo te llamas?
+P: me llamo Martin.
+D: ¿cuál es su nombre de pila?
+P: Soy Martin .
+D: martin ?
+P: No entiendo muy bien lo que me pregunta.
+D: su apellido
+P: Martin
+D: su nombre de pila
+P: Martin
+D: ocupación
+P: jubilado, pero soy un antiguo hortelano
+D: altura
+P: Mido unos 174 cm.
+D: peso
+P: Peso 78 kilos
+D: síntomas
+P: entonces, varios problemas, tengo fiebre, sudor y dificultad para respirar
+D: estilo de vida
+P: ¿Perdón?
+D: dieta
+P: sin dieta
+D: adicciones
+P: No entiendo muy bien lo que me pregunta.
+D: adicciones
+P: No entiendo muy bien lo que me pregunta.
+D: ¿tiene alguna adicción?
+P: Sí, fumo y bebo
+D: ¿cuánto tiempo llevas fumando?
+P: Llevo fumando desde los 20 años
+D: ¿Cuánto fumas?
+P: Fumo 20 cigarrillos al día
+D: ¿cuánto tiempo has estado bebiendo?
+P: verás, no te puedo decir, no me acuerdo
+D: ¿cuánto bebes?
+P: Tomo 1 vaso de vino tinto por comida
+D: ¿es así?
+P: ¿Perdón?
+D: ¿de verdad?
+P: No entiendo muy bien lo que me pregunta.
+D: tratamientos
+P: No, no especialmente
+D: enfermedad
+P: presión arterial alta
+D: cirugía
+P: Así que tuve una hernia inguinal derecha y una operación de apendicitis
+D: sumptomas
+P: ¿Perdón?
+D: síntomas
+P: entonces, varias cosas, tengo tos seca, escalofríos y esputo amarillo
+D: tos seca desde cuándo
+P: Tengo una tos seca desde anoche a las 23 horas
+D: esputo desde cuándo
+P: Tengo esputo amarillo desde anoche a las 23:00 horas
+D: temblando desde cuándo
+P: Llevo temblando desde anoche a las 20 horas
+D: ¿estás sudando?
+P: sí
+D: desde cuándo
+P: Llevo sudando desde anoche
+D: cómo es su esputo
+P: amarillo
+D: ¿está sucia tu saliva?
+P: amarillo

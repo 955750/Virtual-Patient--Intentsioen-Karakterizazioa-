@@ -1,0 +1,54 @@
+D: quel est votre poids ?
+P: 62 kilos
+D: fumez vous ?
+P: Exactement , je fume
+D: combien de cigarette par jour ?
+P: je fume 1 paquet par jour
+D: depuis combien de temps ?
+P: je fume depuis l'âge de 18 ans
+D: cela fait donc 20 ans ?
+P: À quoi faites-vous référence ? Pouvez-vous être plus précis ?
+D: combien mesurez vous ?
+P: je mesure environ 1 mètre 65 centimètres
+D: quelle est votre profession ?
+P: je suis assistante maternelle en crèche .
+D: quel est votre travail ?
+P: assistante maternelle en crèche
+D: dans quoi travaillez vous ?
+P: je suis assistante maternelle en crèche .
+D: avez vous des enfants ?
+P: oui, j'ai 2 enfants
+D: ont ils des maladies ?
+P: de l' hypertension et du diabète non insulinodépendant
+D: vos enfants ?
+P: oui, j'ai 2 enfants
+D: vous souffrez ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: êtes vous allergique à la pénicilline ?
+P: je suis seulement allergique au kiwi
+D: avez vous déjà subi des opérations ?
+P: Alors, j'ai eu une opération pour enlever les amygdales , une réparation des ligaments du genou droit et une cure de hernie inguinale
+D: quel est votre traitement habituel ?
+P: Alors, du coversyl pour l' hypertension artérielle et un régime pour le diabète non insulinodépendant .
+D: pratiquez vous du sport ?
+P: de la marche à pied occasionnelle
+D: vous plaignez vous de quelquechose de particulier ?
+P: Pardon ?
+D: quels sont vos symptômes ?
+P: j'ai des douleurs au ventre à droite sous les côtes et plus bas et des vomissements
+D: pourquoi me dites vous ça ?
+P: À quoi faites-vous référence ? Pouvez-vous me donner plus de détails ?
+D: pourquoi venez vous aujourd'hui ?
+P: Alors, je viens pour une consultation avant une opération pour enlever la vésicule biliaire avec cholangiographie pendant l'intervention .
+D: qui vous envoie ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: quel spécialiste vous envoie me voir ?
+P: C'est docteur Noyer, médecin généraliste
+D: pourquoi veut il vous faire enlever la vésicule biliaire ?
+P: Oui, tout à fait, une consultation avant une opération pour enlever la vésicule biliaire avec cholangiographie pendant l'intervention .
+D: quelles sont vos plaintes relatives à l vésicule biliaire ?
+P: Pas du tout, non
+D: voulez vous vous faire opérer ?
+P: C'est ça oui, une consultation avant une opération pour enlever la vésicule biliaire avec cholangiographie pendant l'intervention .
+D: qui sera votre chirurgien ?
+P: Pour une consultation avant une opération pour enlever la vésicule biliaire avec cholangiographie pendant l'intervention plutôt, pas un chirurgien .

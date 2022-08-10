@@ -1,0 +1,62 @@
+D: Buenos días, señor
+P: Hola.
+D: Me llamo Sophie, voy a hacerte algunas preguntas para conocerte mejor
+P: OK
+D: ¿Cuál es su peso?
+P: unos 82 kilos
+D: ¿Y su altura?
+P: Mido alrededor de 1 metro 77 centímetros
+D: ¿cuál es su profesión?
+P: informático
+D: ¿durante cuánto tiempo?
+P: ¿Perdón?
+D: ¿cuánto tiempo lleva en esta profesión?
+P: Soy informático.
+D: ¿tiene hijos?
+P: sí, tengo 2... 10 y 8 años
+D: ¿tiene algún antecedente cardiovascular?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Ha tenido alguna vez problemas de corazón?
+P: En absoluto, no
+D: ¿y en tu familia?
+P: No sé, lo siento, doctor.
+D: ¿tus padres toman alguna medicación?
+P: No especialmente
+D: ¿toma alguna medicación?
+P: No, no especialmente
+D: ¿te siguen los especialistas?
+P: No
+D: ¿Tiene usted alguna alergia?
+P: No tengo ninguna alergia, que yo sepa
+D: ¿fumas?
+P: no, no fumo
+D: ¿tomas drogas?
+P: No, no tomo drogas.
+D: ¿Cuánto alcohol bebes?
+P: Bebo muy poco, cuando hay fiestas, eso es todo
+D: ¿Tienes una dieta?
+P: No tengo ninguna dieta específica
+D: ¿Es usted deportista?
+P: ¿Perdón?
+D: ¿haces algún deporte?
+P: ciclismo y natación ocasional
+D: ¿has estado alguna vez enfermo?
+P: Nunca he tenido ninguna enfermedad importante.
+D: ¿Se ha operado alguna vez?
+P: no, no he tenido ninguna operación
+D: ¿cómo te sientes hoy?
+P: mi presión arterial es alta
+D: ¿cuál es su presión arterial?
+P: No lo he medido
+D: ¿Cómo lo sabes?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Cómo sabe que su presión arterial es alta?
+P: No he medido mi presión arterial
+D: ¿Te duele algo?
+P: No, estos síntomas no.
+D: ¿Te duele la cabeza?
+P: En realidad no
+D: ¿Te has quedado sin aliento?
+P: No, nada de eso
+D: ¿por qué vienes a verme hoy?
+P: Bueno, he venido a sacar una licencia deportiva para participar en una carrera organizada por mi empresa.

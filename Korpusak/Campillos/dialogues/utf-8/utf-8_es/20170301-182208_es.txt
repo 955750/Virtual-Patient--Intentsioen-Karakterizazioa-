@@ -1,0 +1,82 @@
+D: buenos días, ¿qué le trae por aquí?
+P: quieres decir: hola, ¿qué te trae por aquí?
+D: sí
+P: dolor en el pecho, tos y fiebre.
+D: ¿y otra vez?
+P: ¿Perdón?
+D: ¿ningún otro problema?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿qué pasa?
+P: Vengo por un dolor de pecho, tos y fiebre.
+D: ¿cuánto tiempo lleva el dolor?
+P: Tengo dolor en el pecho derecho desde anoche a las 20:00 horas
+D: desde cuando la tos
+P: Tengo una tos seca desde anoche a las 23 horas
+D: ¿y la fiebre?
+P: verás, no te puedo decir, no me acuerdo
+D: ¿qué temperatura tiene?
+P: 38 grados a la derecha
+D: ¿es la primera vez que tienes estos síntomas?
+P: verás, no me acuerdo
+D: ¿cuántos años tienes?
+P: Tengo 62 años
+D: ¿cuál es tu altura?
+P: Mido 1 metro y 74 centímetros
+D: ¿tu peso?
+P: 78 kilos
+D: ¿trabajas?
+P: jubilado, pero soy un antiguo hortelano
+D: ¿haces deporte regularmente?
+P: jardinería, trato los cultivos con productos fitosanitarios
+D: ¿qué productos fitosanitarios?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Hiciste el jardín ayer?
+P: Sí, jardinería, trato los cultivos con productos fitosanitarios
+D: ¿Tiene algún problema de salud?
+P: presión arterial alta
+D: ¿Cuánto?
+P: Así es, sí la presión arterial alta
+D: ¿toma un tratamiento para la presión arterial alta?
+P: un antihipertensivo para la hipertensión arterial. Quizá haya más información en mi expediente.
+D: ¿fumas?
+P: Fumo (20 cigarrillos al día desde los 20 años)
+D: ¿sólo tabaco?
+P: Fumo (20 cigarrillos al día desde los 20 años)
+D: ¿no hay cannabis?
+P: no, no me drogo.
+D: tanto mejor
+P: ¿quieres decir: ser mejor?
+D: ¿bebes alcohol?
+P: alcohol
+D: ¡qué bien!
+P: bueno... ¿es todo doctor?
+D: ¿ha tenido alguna enfermedad del corazón?
+P: No sé si está relacionado, pero tengo la presión arterial alta
+D: ¿y algo más?
+P: Sólo que
+D: ¿y las operaciones?
+P: Me han reparado una hernia inguinal derecha y me han operado de apendicitis
+D: ¿cuándo?
+P: Me operaron de una hernia inguinal derecha a los 51 años y de apendicitis en mi infancia
+D: ¿con qué frecuencia tiene dolores en el pecho?
+P: verás, sólo por esta vez
+D: ¿la tos no te deja dormir?
+P: No tengo ninguna preocupación al respecto
+D: ¡muy bien!
+P: ¿algo más?
+D: ¿tiene algo que añadir?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Hay algo más que quieras decirme?
+P: ¿Perdón?
+D: ¿el dolor en el pecho es fuerte?
+P: es difícil de describir, es sólo un dolor en el pecho a la derecha
+D: ¿el dolor interfiere con sus movimientos?
+P: No, no especialmente
+D: ¿la tos dificulta la alimentación?
+P: Tengo una tos seca
+D: bien, eso me servirá, gracias
+P: ¿A qué se refiere? ¿Puede darme más detalles?
+D: ¡qué bien!
+P: ¿algo más que quiera saber doctor?
+D: gracias
+P: Con mucho gusto.

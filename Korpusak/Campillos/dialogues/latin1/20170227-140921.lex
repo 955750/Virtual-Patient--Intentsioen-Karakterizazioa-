@@ -1,0 +1,40 @@
+D: quel age avez vous ?
+P: j'ai 41 ans
+D: combien pesez vous ?
+P: 62 kilos
+D: vous faites du sport ?
+P: de la marche à pied occasionnelle
+D: est ce que vous fumez ou buvez ?
+P: du tabac (1 paquet par jour depuis l'âge de 18 ans)
+D: est ce que vous mangez beaucoup de charcuterie ou de sucreries ?
+P: J'en prends comme tout le monde, sans excès
+D: avez vous déjà été opéré sous anesthesie ?
+P: j'ai eu rachianesthésie pour la réparation des ligaments du genou droit , anesthésie générale pour la cure de hernie inguinale et aucune idée pour l' opération pour enlever les amygdales
+D: y a t' il eu des complications avant ou après une de ces opérations ?
+P: je me souviens que j'ai eu aucun problème après opération pour enlever les amygdales et des nausées et des vomissements après cure de hernie inguinale .
+D: comment vous sentea vous ?
+P: voulez-vous dire : comment vous sentez vous ?
+D: oui
+P: j'ai des douleurs au ventre à droite, sous les côtes, et plus bas et des vomissements
+D: depuis combien de temps ?
+P: j'ai des douleurs au ventre à droite, sous les côtes, et plus bas depuis plusieurs jours déjà
+D: les vomissements sont apparus quand ?
+P: vous voyez, je ne peux pas vous dire, je ne m'en souviens pas
+D: vous avez des enfants ?
+P: j'ai 2 enfants
+D: quel age ont ils ?
+P: Je ne peux pas vous répondre [Cette information n'est pas dans le dossier]
+D: votre père ou votre mère ont-ils subit des opérations similaires aux vôtres ?
+P: j'ai eu une opération pour enlever les amygdales , une réparation des ligaments du genou droit et une cure de hernie inguinale
+D: et vos parents ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: connaissez vous des antécédents familiaux de vos symptômes ?
+P: Juste ce que je vous ai dit
+D: je vais examiner vos côtes
+P: Seulement ça
+D: vous devriez consulter un gastro-entérologue
+P: Pardon ?
+D: prenez rendez-vous avec un spécialiste du tube digestif
+P: Dr. Noyer, médecin généraliste
+D: je vous fais une ordonnance pour des antalgiques
+P: Tout ça me convient

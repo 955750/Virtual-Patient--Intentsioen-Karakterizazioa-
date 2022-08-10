@@ -1,0 +1,30 @@
+D: bonjour Monsieur
+P: Bonjour, docteur.
+D: alors ?
+P: Pardon ?
+D: alors que vous arrive-t-il ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: qu' est-ce qui vous arrive ?
+P: Alors, je viens pour une douleur à la poitrine, toux et fièvre .
+D: vous toussez ,
+P: En effet
+D: souvent ?
+P: vous voyez, uniquement cette fois
+D: depuis quand ,
+P: j'ai de la toux sèche depuis hier soir à 23 heures
+D: et vous avez aussi de la fièvre ?
+P: Oui
+D: depuis quand ?
+P: j'ai de la fièvre depuis hier soir
+D: vous avez pris votre température ?
+P: 38,9° à droite, 39,2° à gauche , plus ou moins
+D: vous avez pris un médicament pour cela ,
+P: À quoi faites-vous référence ? Pouvez-vous être plus précis ?
+D: vous avez pris un traitement pour la fièvre ?
+P: Non
+D: pas de médicament ?
+P: Pas du tout, non
+D: et maintenant vous sentez encore de la fièvre ?
+P: Oui
+D: je vais vous examiner
+P: Ça marche , allons-y

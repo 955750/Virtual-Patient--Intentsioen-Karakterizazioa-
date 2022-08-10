@@ -1,0 +1,12 @@
+D: ¿cómo estás?
+P: Muy bien. P: Muy bien, gracias.
+D: ¿cuántos años tienes?
+P: así que tengo 44 años
+D: ¿qué puedo hacer por ti?
+P: Vengo a obtener una licencia deportiva para participar en una carrera organizada por mi empresa.
+D: ¿has tenido uno antes?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Tiene algún problema de salud en particular?
+P: Tengo la presión arterial alta
+D: ¿Tiene algún tratamiento?
+P: No especialmente

@@ -1,0 +1,46 @@
+D: Buenos días, señora, por favor, siéntese.
+P: No entiendo muy bien lo que me pregunta.
+D: ¿tiene hijos?
+P: Tengo 2 hijos
+D: ¿cuántos años tienen?
+P: Tengo 41 años
+D: no tus hijos
+P: Tengo 2 hijos
+D: bueno, está bien
+P: ¿algo más?
+D: cuál es su peso
+P: Peso 62 kilos
+D: su altura
+P: Mido aproximadamente 1 metro y 65 centímetros
+D: su trabajo
+P: cuidador de niños en una guardería
+D: realiza alguna actividad física
+P: ¿Perdón?
+D: deporte
+P: caminar ocasionalmente
+D: ¿tiene una dieta especial?
+P: Estoy a dieta por la diabetes
+D: ¿cuánto azúcar calcula que consume?
+P: Estoy haciendo una dieta para la diabetes
+D: cuánta diabetes tiene
+P: No sé si esto está relacionado, pero tengo hipertensión arterial y diabetes no insulinodependiente
+D: ¿bebe alcohol?
+P: No me gusta el sabor del alcohol.
+D: ¿fumas?
+P: Yo sí fumo tabaco
+D: drogas
+P: No, no tomo drogas.
+D: ¿tiene antecedentes de consumo de drogas?
+P: ¿Perdón?
+D: alergias
+P: Sólo soy alérgico al kiwi
+D: enfermedad genética
+P: en absoluto
+D: ¿toma alguna medicación?
+P: coversyl para la hipertensión arterial y una dieta para la diabetes no dependiente de la insulina.
+D: ¿ha sido operado recientemente?
+P: Me han operado para quitarme las amígdalas, me han reparado los ligamentos de la rodilla derecha y me han reparado una hernia inguinal
+D: ¿tiene alguna contraindicación?
+P: ¿Perdón?
+D: medicamentos
+P: coversyl para la hipertensión y una dieta para la diabetes no dependiente de la insulina.

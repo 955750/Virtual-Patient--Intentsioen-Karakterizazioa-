@@ -1,0 +1,68 @@
+D: Buenos días
+P: buenos días
+D: ¿qué te trae por aquí?
+P: Vengo por dolor de pecho, tos y fiebre.
+D: ¿durante cuánto tiempo?
+P: Llevo sudando desde ayer por la tarde
+D: ¿el dolor en el pecho es de tipo vicio?
+P: sí
+D: ¿hay alguna posición que te alivie?
+P: No puedo responder a eso [Esta información no figura en el expediente] D: ¿Fumas?
+D: ¿Fumas?
+P: Fumo (20 cigarrillos al día desde los 20 años)
+D: ¿Bebe usted alcohol?
+P: alcohol
+D: ¿Cuál es su peso?
+P: Peso 78 kilos
+D: ¿Y su altura?
+P: 1 metro 74 centímetros
+D: Calculo su IMC
+P: ¿quieres decir que calcule tu IMC?
+D: ¿cuál es su actividad profesional?
+P: Estoy jubilado, pero soy un antiguo hortelano.
+D: ¿ha estado expuesto a alguna sustancia en particular?
+P: ¿Perdón?
+D: ¿usó pesticidas?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿desde cuándo tienes fiebre?
+P: verás, no me acuerdo
+D: ¿y la tos?
+P: Tengo una tos seca desde anoche a las 23 horas
+D: ¿haces algún deporte?
+P: jardinería, trato los cultivos con productos fitosanitarios
+D: ¿conoces el nombre de estos productos?
+P: ¿Perdón?
+D: ¿productos fitosanitarios?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Tiene alguna historia en particular?
+P: presión arterial alta
+D: ¿y la cirugía?
+P: Me han reparado una hernia inguinal derecha y me han operado de apendicitis
+D: ¿has tenido alguna vez este tipo de dolor?
+P: Tengo dolor en el pecho a la derecha pero sólo esta vez
+D: ¿hiciste algún esfuerzo especial ayer?
+P: verás, no me acuerdo
+D: ¿con quién vives?
+P: ¿Perdón?
+D: ¿cuál es la composición de su familia?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿hay otras personas a tu alrededor que tengan los mismos síntomas?
+P: varios problemas, tengo dificultad para respirar, escalofríos y esputo amarillo
+D: ¿estás casado?
+P: casado
+D: ¿y su mujer no tiene síntomas?
+P: Estoy casado
+D: ¿está enferma su mujer?
+P: casado
+D: ¿ha tenido un cardiólogo recientemente?
+P: en realidad no
+D: ¿tiene alguna alergia en particular?
+P: No tengo ninguna alergia que yo sepa
+D: ¿se ha hecho una radiografía de tórax?
+P: No especialmente
+D: Voy a comprobarlo
+P: ¿Perdón?
+D: probablemente tengas una neumonía
+P: ¿quieres decir que probablemente tengas una neumonía?
+D: neumonía
+P: En absoluto

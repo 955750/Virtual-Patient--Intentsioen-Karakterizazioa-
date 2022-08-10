@@ -1,0 +1,6 @@
+D: Rayos X
+P: Sí, me hice una radiografía de tórax
+D: Resultados de las radiografías
+P: Te digo lo que me han dicho: "foco de condensación alveolar". Tal vez tengas eso en el archivo.
+D: cansado
+P: Sí, exactamente

@@ -1,0 +1,80 @@
+D: Hola, te escucho
+P: ¿Perdón?
+D: ¿qué puedo hacer por usted?
+P: Estoy aquí para una consulta antes de una operación de vesícula, con colangiografía durante la operación.
+D: ¿Cómo te llamas?
+P: Irene Claudel
+D: ¿qué edad tienes?
+P: Tengo 41 años
+D: ¿cuál es tu altura?
+P: Mido aproximadamente 1 metro y 65 centímetros
+D: ¿cuál es su peso?
+P: Peso 62 kilos
+D: ¿cuál es su ocupación?
+P: un asistente de guardería
+D: ¿trabajas a tiempo completo?
+P: Soy cuidadora de niños en una guardería.
+D: ¿estás casado?
+P: Estoy casado
+D: ¿cuántos hijos tiene?
+P: Tengo 2 hijos
+D: ¿qué edad tienen?
+P: no puedo responder [Esta información no está en el expediente] D: ¿tiene alguna necesidad dietética?
+D: ¿tiene algún requisito dietético?
+P: ¿Perdón?
+D: ¿tiene una dieta especial?
+P: Estoy a dieta por la diabetes
+D: ¿qué tipo de diabetes?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿qué tipo de diabetes tiene?
+P: ¿Perdón?
+D: ¿haces algún deporte?
+P: caminar ocasionalmente
+D: ¿Eso es todo?
+P: ¿Perdón?
+D: ¿no hay otras actividades deportivas?
+P: Justo lo que te dije
+D: ¿se está controlando la diabetes?
+P: Vengo a una consulta antes de una operación de extirpación de la vesícula biliar, con colangiografía durante la operación.
+D: ¿Quién es su médico?
+P: Dr. Noyer, médico de cabecera
+D: ¿Consume usted alcohol regularmente?
+P: En absoluto
+D: ¿Fumas?
+P: tabaco (1 paquete al día desde los 18 años)
+D: ¿Consume alguna droga?
+P: no, no tengo ninguna adicción.
+D: ¿Tiene algún otro problema de salud aparte de la diabetes?
+P: Sí, efectivamente la hipertensión y la diabetes no insulino dependiente
+D: ¿Desde cuándo es usted diabético?
+P: verás, no te puedo decir, no me acuerdo
+D: ¿Desde cuándo tiene la presión arterial alta?
+P: Tengo la tensión alta desde hace un año.
+D: ¿Está tomando alguna medicación?
+P: Un antihipertensivo para la hipertensión y una dieta para la diabetes no insulinodependiente. Puede haber más información en mi expediente.
+D: ¿Qué antihipertensivo?
+P: Un antihipertensivo para la hipertensión arterial y una dieta para la diabetes no insulinodependiente. Quizá haya más información en mi expediente.
+D: ¿Hay otras personas en su familia con diabetes?
+P: No lo sé, lo siento doctor.
+D: ¿Ha tenido algún otro problema de salud en el pasado?
+P: Sólo lo que te dije
+D: ¿Tiene usted alguna alergia?
+P: Sólo soy alérgico al kiwi
+D: ¿Tiene usted alguna alergia a los medicamentos?
+P: Sólo soy alérgico al kiwi
+D: ¿te has operado?
+P: Me han operado para quitarme las amígdalas, me han reparado los ligamentos de la rodilla derecha y me han reparado una hernia inguinal
+D: ¿Cuándo?
+P: Me operaron de amígdalas cuando era niño, me repararon los ligamentos de la rodilla derecha en 1996 y me repararon una hernia inguinal en 2006.
+D: ¿has sido anestesiado alguna vez?
+P: quieres decir: ¿has sido anestesiado alguna vez?
+D: ¿has sido anestesiado alguna vez?
+P: Tuve anestesia espinal para la reparación de los ligamentos de la rodilla derecha, anestesia general para la reparación de la hernia inguinal y ni idea de la cirugía de extirpación de amígdalas
+D: ¿Ha recibido una transfusión de sangre?
+P: Nunca me han hecho una transfusión
+D: ¿todo fue bien durante la anestesia?
+P: Recuerdo que tuve náuseas y vómitos después de la reparación de la hernia inguinal.
+D: ¿eso es todo?
+P: ¿Perdón?
+D: ¿no hay otros problemas durante la anestesia?
+P: No entiendo muy bien lo que me pregunta.

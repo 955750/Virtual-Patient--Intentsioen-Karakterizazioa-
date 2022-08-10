@@ -1,0 +1,38 @@
+D: ¿Cuántos años tienes?
+P: Tengo 41 años
+D: ¿cuánto pesas?
+P: Peso 62 kilos
+D: ¿cuál es tu altura?
+P: 1 metro 65 centímetros
+D: ¿conoces tu índice de masa corporal?
+P: No, no tengo masa, pero sí hipertensión y diabetes no insulinodependiente
+D: ¿Cuáles son sus síntomas?
+P: Tengo dolores de estómago en el lado derecho, debajo de las costillas y más abajo y vómitos
+D: ¿durante cuánto tiempo?
+P: Llevo varios días con dolores en el estómago derecho, debajo de las costillas y más abajo
+D: ¿por qué?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Hay algo que pueda explicar su dolor?
+P: No. En absoluto
+D: ¿Consume alguna sustancia?
+P: ¿Perdón?
+D: ¿estás casado?
+P: casado
+D: ¿tiene antecedentes de problemas anestésicos?
+P: ¿Perdón?
+D: ¿Algún miembro de su familia ha tenido alguna vez una reacción a la anestesia?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Tiene usted alguna alergia?
+P: Sólo soy alérgico al kiwi
+D: ¿puedes abrir la boca?
+P: ¿Perdón?
+D: ¿tiene problemas con la mandíbula?
+P: Sólo eso
+D: ¿tiene miedo a la anestesia?
+P: En absoluto
+D: ¿Cuándo quieres operarte?
+P: No sé... Creo que en dos semanas. Puedes tenerlo en el archivo.
+D: ¿tiene alguna pregunta?
+P: todo está claro
+D: ¿conoces las posibles complicaciones?
+P: casi ineficaz con paracetamol

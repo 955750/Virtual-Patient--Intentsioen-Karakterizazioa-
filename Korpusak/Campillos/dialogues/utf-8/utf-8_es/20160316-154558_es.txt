@@ -1,0 +1,14 @@
+D: Buenos días, ¿qué es lo que le lleva a consultar
+P: Hola.
+D: el hombre le pregunta DE QUÉ SE QUEJA
+P: Tengo la presión arterial alta y el colesterol alto
+D: ¿trajiste alguna prueba?
+P: Me hice una prueba de lípidos en ayunas
+D: y ?
+P: Efectivamente me hice una prueba de lípidos en ayunas
+D: ¿pero otra vez?
+P: Sí, me hice una prueba de lípidos en ayunas
+D: eso es bueno, ¡siempre hay que hacer pruebas de lípidos en ayunas!
+P: Me hice una prueba de lípidos en ayunas
+D: perfecto, son 23 euros, ¡puedes irte a casa!
+P: Sí, exactamente, me hice una prueba de lípidos en ayunas

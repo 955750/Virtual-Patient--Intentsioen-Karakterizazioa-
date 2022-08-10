@@ -1,0 +1,118 @@
+D: quel est votre nom ?
+P: je suis Irène .
+D: bonjour , irène . je vais tout d' abord vous poser quelques questions personnelles . quel est votre poids habituel ?
+P: 62 kilos
+D: voilà qui est précis !
+P: 1 mètre 65 centimètres
+D: très bien . avez-vous des problèmes de santé particuliers ?
+P: de l' hypertension et du diabète non insulinodépendant
+D: hmmm . . . quel est votre âge , déjà ?
+P: j'ai 41 ans
+D: moui moui moui . y a-t-il des problèmes de santé particuliers chez vos parents ?
+P: de l' hypertension artérielle et du diabète non insulinodépendant
+D: chez votre père comme chez votre mère ?
+P: Pardon ?
+D: votre père a-t-il de l' hypertension ?
+P: Oui, en effet. de l' hypertension et du diabète non insulinodépendant
+D: votre mère également ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: hmmm . connaissez-vous la date d' aujourd'hui ?
+P: Pardon ?
+D: où nous trouvons nous actuellement ?
+P: À quoi faites-vous référence ? Pouvez-vous être plus précis ?
+D: je vois . votre mère a-t-elle des problèmes de santé ?
+P: de l' hypertension artérielle et du diabète non insulinodépendant
+D: avez-vous des frères et soeurs ?
+P: Pardon ?
+D: avez-vous des enfants ?
+P: j'ai 2 enfants
+D: quel âge ont-ils ?
+P: Je ne souhaite pas donner cette information.
+D: je respecte votre souhait . pour quelle raison ne souhaitez-vous pas me donner l' âge de vos enfants ?
+P: j'ai 2 enfants
+D: bien . ont-ils des problèmes de santé ?
+P: de l' hypertension et du diabète non insulinodépendant
+D: ah ? . . . avez-vous déjà été opérée ?
+P: j'ai eu une opération pour enlever les amygdales , une réparation des ligaments du genou droit et une cure de hernie inguinale
+D: sous anesthésie générale ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: avez-vous délà subi une anesthésie générale ?
+P: j'ai eu rachianesthésie pour la réparation des ligaments du genou droit , anesthésie générale pour la cure de hernie inguinale et aucune idée pour l' opération pour enlever les amygdales
+D: merci . vous n' avez pas de problème cardiaque ?
+P: De rien.
+D: n' ignorez pas ma question , madame . je ne sais pas à quel jeu vous jouez , mais j' ai besoin de ces informations pour votre opération chirurgicale . vous n' avez pas de problème cardiaque ?
+P: de la marche à pied occasionnelle
+D: c' est de votre activité physique que vous me parlez ?
+P: de la marche à pied occasionnelle
+D: je vois . combien de minutes machez-vous par jour environ ?
+P: bon ... c'est tout docteur ?
+D: non . désolé si cette consultation vous paraît un peu longue , mais il est nécessaire que nous ayons ces informations . prenez-vous des médicaments ?
+P: Pardon ?
+D: prenez-vous des médicaments ?
+P: du coversyl pour l' hypertension artérielle et un régime pour le diabète non insulinodépendant .
+D: fumez-vous ?
+P: En effet , je fume du tabac
+D: des cigarettes ?
+P: Oui , je fume du tabac
+D: combien par jour environ ?
+P: je fume 1 paquet par jour
+D: depuis combien de temps ?
+P: je fume depuis l'âge de 18 ans
+D: avez-vous déjà envisagé d' arrêter ?
+P: oui, vous avez raison, je dois arrêter
+D: je ne disais pas cela pour vous culpabiliser . qui est votre médecin traitant ?
+P: Attendez que je me rappelle ... le docteur Noyer, médecin généraliste
+D: vos enfants sont nés par voie basse ?
+P: j'ai 2 enfants
+D: c' est cela , oui . quel métier exercez-vous ?
+P: À quoi faites-vous référence ? Pouvez-vous me donner plus de détails ?
+D: quellle est votre profession ?
+P: assistante maternelle en crèche
+D: vos vaccins sont-ils à jour ?
+P: vous voyez, je ne peux pas vous dire, je ne m'en souviens pas
+D: nous vérifierons cela , ne vous inquiétez pas . je vais vous poser une question personnelle , n' y répondez que si vous le souhaitez . consommez-vous des drogues ?
+P: non, je n'ai pas de dépendances.
+D: buvez-vous de l' alcool ?
+P: Non je ne bois pas. Au pire un verre de vin par semaine.
+D: d' accord . prenez-vous une contraception ?
+P: ma grossesse a été normale .
+D: tant mieux . prenez-vous la pilule ?
+P: C'est vrai
+D: vous connaissez le nom de votre pilule ?
+P: du coversyl pour l' hypertension et un régime pour le diabète non insulinodépendant .
+D: bon . nous contacterons votre médecin traitant et votre psychiatre . avez-vous des allergies ?
+P: C'est docteur Noyer, médecin généraliste
+D: je sais . vous avez des allergies ?
+P: je suis seulement allergique au kiwi
+D: qu' avez-vous fait comme réaction ?
+P: je suis seulement allergique au kiwi
+D: bon . je ne suis pas policier vous savez . venons-en à ce qui vous amène ici . quelle opération devez-vous avoir ?
+P: j'ai eu une opération pour enlever les amygdales , une réparation des ligaments du genou droit et une cure de hernie inguinale
+D: oui , mais pour quelle raison êtes-vous hospitalisée ?
+P: je viens pour une consultation avant une opération pour enlever la vésicule biliaire, avec cholangiographie pendant l'intervention .
+D: quand ont commencé les symptômes ?
+P: j'ai des douleurs au ventre à droite, sous les côtes, et plus bas depuis plusieurs jours déjà
+D: avez-vous pris des traitements pour soulager les douleurs ?
+P: je prends du paracétamol
+D: est-ce efficace ?
+P: quasiment inefficace sous paracétamol
+D: sur une échelle graduée de zéro à dix , dix représentant la pire douleur imaginable et zéro aucune douleur , à combien évaluez-vous votre douleur ?
+P: Exactement douleurs au ventre à droite, sous les côtes, et plus bas
+D: ce n' est pas grave . avez-vous de la fièvre ?
+P: Non. Rien de tout ça.
+D: des frissons ?
+P: Non, pas particulièrement.
+D: des sueurs ?
+P: Non. Pas ces symptômes.
+D: des vomissements ou des nausées ?
+P: En effet
+D: y a-t-il une position qui améliore votre douleur ?
+P: Tout continue de la même façon
+D: bien . vous allez être oprérée ?
+P: bon ... c'est tout docteur ?
+D: ah , oui , pardon , une cholécystectomie , suis-je distrait .
+P: de la marche à pied occasionnelle
+D: oui , oui . bon , j' en ai fini , madame Irène . je vous laisse pour le moment , nous nous reverrons probablement demain pour l' opération . avez-vous des questions ?
+P: Entendu
+D: très bien . bonne soirée !
+P: Au revoir, docteur.

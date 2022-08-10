@@ -1,0 +1,74 @@
+D: ¿Cuántos años tienes?
+P: Tengo 62 años
+D: ¿tienes un perro?
+P: no, no tengo ninguno
+D: ¿tiene hijos?
+P: sí, tengo 3 hijos
+D: ¿cuáles son sus nombres de pila?
+P: ¿Perdón?
+D: ¿los nombres de sus hijos?
+P: sí, tengo 3 hijos
+D: ¿están sus hijos enfermos?
+P: sí, tengo 3 hijos
+D: ¿está usted enfermo?
+P: presión arterial alta
+D: ¿eres tú?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿es esa toda la enfermedad?
+P: presión arterial alta
+D: ¿por qué vienes hoy?
+P: Entonces, vengo por un dolor de pecho, tos y fiebre.
+D: ¿desde cuándo tienes tos?
+P: Tengo una tos seca desde anoche a las 23 horas
+D: ¿el dolor apareció al mismo tiempo?
+P: Tengo dolores en el pecho en el lado derecho desde anoche a las 20 horas
+D: ¿y la fiebre?
+P: Tengo fiebre desde ayer por la tarde
+D: ¿cuál es su temperatura?
+P: 38,9° a la derecha, 39,2° a la izquierda, más o menos
+D: ¿es usted fumador?
+P: Sí, exactamente, fumo
+D: ¿cuánto?
+P: Fumo 20 cigarrillos al día
+D: ¿desde cuándo?
+P: ¿Perdón?
+D: ¿durante cuánto tiempo?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Fumas?
+P: Exactamente, yo fumo
+D: ¿Cuánto tiempo llevas fumando?
+P: Llevo fumando desde los 20 años
+D: ¿alcohol?
+P: En efecto, bebo
+D: ¿Cuánto?
+P: Tomo 1 vaso de vino tinto por comida
+D: ¿Bebes por la noche?
+P: Sí, lo sé
+D: ¿Operaciones?
+P: Así que tuve una hernia inguinal derecha y una operación de apendicitis
+D: ¿accidentes?
+P: No
+D: ¿Ocupación?
+P: jubilado, pero soy un antiguo hortelano
+D: ¿alergias?
+P: Que yo sepa, no tengo ninguna alergia
+D: ¿actividades físicas?
+P: jardinería, tratamiento de los cultivos con productos fitosanitarios
+D: ¿deporte?
+P: jardinería, tratamiento de los cultivos con productos fitosanitarios
+D: ¿Haces ejercicio?
+P: jardinería, tratamiento de los cultivos con productos fitosanitarios
+D: ¿bailas?
+P: jardinería, tratamiento de los cultivos con productos fitosanitarios
+D: ¿tiene alguna
+P: ¿Perdón?
+D: ¿tiene problemas para respirar?
+P: Yo sí
+D: ¿Frecuencia respiratoria?
+P: Tengo dificultad para respirar y tos seca
+D: ¿dificultad para respirar?
+P: ya ves, sólo que esta vez
+D: ¿has tenido alguna vez estos síntomas?
+P: Tenía una presión arterial bien equilibrada con hipertensión
+D: ¿alguna vez has tosido así?
+P: ¿A qué se refiere? ¿Puede ser más específico?

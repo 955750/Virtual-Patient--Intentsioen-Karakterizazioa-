@@ -1,0 +1,102 @@
+D: bonjour Monsieur . rappelez-moi votre âge s'il vous plaît
+P: j'ai 62 ans
+D: combien pesez-vous ?
+P: je pèse 78 kilos
+D: et vous mesurez combien ?
+P: je mesure environ 1 mètre 74 centimètres
+D: vous connaissez votre indice de masse corporelle ?
+P: Non. Pas ces symptômes.
+D: vivez-vous en couple ?
+P: marié
+D: votre femme est en bonne santé ?
+P: En bonne santé.
+D: quelle profession exercez vous ?
+P: je suis retraité, mais je suis ancien maraîcher .
+D: vous vendiez des fruits et légumes ?
+P: J'en prends comme tout le monde, sans excès
+D: vous en vendiez ou vous en produisiez ?
+P: Pardon ?
+D: vous me dites maraîcher . vous étiez vendeur ou producteur ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: que signifie maraîcher ?
+P: Pardon ?
+D: depuis combien de temps fumez vous ?
+P: depuis l'âge de 20 ans
+D: combien ?
+P: je fume (20 cigarettes par jour depuis l'âge de 20 ans)
+D: un paquet , donc
+P: je fume (20 cigarettes par jour depuis l'âge de 20 ans)
+D: vous vous rendez-compte que ça fait plus de 300000 cigarettes ?
+P: À quoi faites-vous référence ? Pouvez-vous être plus précis ?
+D: est-ce que vous faites du sport régulièrement ?
+P: le jardinage, je traite les cultures avec des produits phytosanitaires
+D: des produits bio ?
+P: J'en prends habituellement, mais ni trop ni trop peu
+D: comment , vous consommez vos produits phytosanitaires ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: combien de temps marchez-vous tous les jours ?
+P: Pardon ?
+D: vous marchez beaucoup ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: pratiquez vous la marche à pied
+P: le jardinage, je traite les cultures avec des produits phytosanitaires
+D: combien de fruits et légumes mangez-vous par jour ?
+P: J'en consomme régulièrement, mais pas trop
+D: buvez-vous régulièrement ?
+P: de l' alcool
+D: ok . du Bordeaux ?
+P: est-ce que vous voulez dire : o k . du bordeaux ?
+D: oui
+P: vous voulez savoir autre chose docteur ?
+D: oui . qu' est-ce qui vous amène ?
+P: je viens pour une douleur à la poitrine, toux, et fièvre .
+D: depuis quand ?
+P: j'ai de la sueur depuis hier soir
+D: avez vous pris ou fait prendre votre température ?
+P: 38 degrés à droite
+D: à droite de quoi ?
+P: Pardon ?
+D: 38 degrés ce n' est pas une grosse fièvre
+P: j'ai de la fièvre
+D: comment est localisée votre douleur ?
+P: je ne sais pas comment vous décrire ça, c'est juste des douleurs de torse à droite
+D: si vous inspirez à fond , que se passe-t-il ?
+P: une douleur à la poitrine, toux, et fièvre .
+D: comment est votre toux ?
+P: de la toux sèche
+D: avez-vous pris quelque-chose ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: avez vous pris un médicament ?
+P: Non
+D: bon , ça n' a pas l' air trop grave . allongez-vous sur la table d' examen
+P: vous voyez, je ne peux pas vous dire, je ne m'en souviens pas
+D: déshabillez-vous
+P: Pardon ?
+D: enlevez votre veste , je vais vous ausculter
+P: OK
+D: allongez vous
+P: Pardon ?
+D: tombez la chemise
+P: Je ne comprends pas bien ce que vous demandez.
+D: inspirez à fond
+P: Pardon ?
+D: respirez bien fort
+P: j'ai des difficultés à respirer et de la toux sèche
+D: avez vous des antécédents cardiaques ?
+P: je ne sais pas si cela a un rapport, mais j'ai de l' hypertension
+D: en plus !
+P: Oui, tout à fait de l' hypertension artérielle
+D: et vous continuez à fumer ?
+P: je fume (20 cigarettes par jour depuis l'âge de 20 ans)
+D: vous l' avez déjà dit
+P: Je ne comprends pas bien ce que vous demandez.
+D: vous allez acheter un pot de miel de lavande bio avec lequel vous allez sucrer vos infusions
+P: J'en consomme régulièrement, mais pas trop
+D: que voulez-vous dire par "pas trop" ?
+P: Pardon ?
+D: combien ?
+P: Pardon ?
+D: ça n' a pas l' air trop grave , au revoir monsieur
+P: Je ne comprends pas bien ce que vous demandez.
+D: au revoir
+P: Au revoir, docteur.

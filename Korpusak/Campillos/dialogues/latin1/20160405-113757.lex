@@ -1,0 +1,12 @@
+D: bonjour
+P: Bonjour, docteur.
+D: comment allez-vous ?
+P: Très bien. Merci.
+D: comment vous appelez-vous ?
+P: je suis Alain .
+D: vous venez pourquoi ?
+P: Alors, je viens pour établir une licence de sport pour participer à une course à pied organisée par mon employeur .
+D: de combien de kilomètres ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: avez-vous des enfants ?
+P: oui, j'en ai 2 ... de 10 et 8 ans

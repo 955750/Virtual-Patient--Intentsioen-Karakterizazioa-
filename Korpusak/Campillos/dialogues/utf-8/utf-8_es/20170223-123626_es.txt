@@ -1,0 +1,30 @@
+D: Buenos días
+P: Hola, doctor.
+D: Voy a hacerle algunas preguntas para preparar la anestesia
+P: No hay problema
+D: ¿Cuál es su peso?
+P: 62 kilos
+D: ¿Cuánto mide usted?
+P: 1 metro 65 centímetros
+D: ¿a qué te dedicas?
+P: cuidador de niños en una guardería
+D: ¿tienes familia?
+P: Estoy casado y tengo dos hijos
+D: ¿haces alguna actividad física?
+P: caminar ocasionalmente
+D: ¿fumas?
+P: tabaco (1 paquete al día desde los 18 años)
+D: ¿y el alcohol?
+P: No. En absoluto
+D: ¿Cuál es su dieta?
+P: Estoy a dieta por la diabetes
+D: ah, ¿qué tratamiento tomas para la diabetes?
+P: Un antihipertensivo para la hipertensión y una dieta para la diabetes no insulinodependiente. Puede haber más información en mi expediente.
+D: ¿Tiene usted alguna alergia?
+P: Sólo soy alérgico al kiwi
+D: ¿tiene o ha tenido alguna otra enfermedad importante?
+P: hipertensión arterial y diabetes no insulinodependiente
+D: ¿alguna operación?
+P: Me han operado para quitarme las amígdalas, una reparación de ligamentos en la rodilla derecha y una reparación de hernia inguinal
+D: y en este momento, ¿tiene buena salud?
+P: hipertensión arterial y diabetes no insulinodependiente

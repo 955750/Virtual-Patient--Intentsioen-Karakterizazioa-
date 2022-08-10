@@ -1,0 +1,18 @@
+D: ¿Puede decirme su nombre?
+P: Soy Martin.
+D: ¿cuál es su nombre de pila?
+P: Martin
+D: ¿a qué se debe la consulta de hoy?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿por qué estás aquí hoy?
+P: Vengo por un dolor de pecho, tos y fiebre.
+D: ¿Qué le trae por aquí?
+P: ¿Perdón?
+D: ¿qué le lleva a consultar?
+P: Entonces, vengo por un dolor de pecho, tos y fiebre.
+D: ¿cuál es su peso?
+P: Peso 78 kilos
+D: ¿cuánto pesas?
+P: 78 kilos
+D: ¿cuál es su tratamiento actual?
+P: No estoy tomando ninguna medicación

@@ -1,0 +1,6 @@
+D: ¿De qué te quejas?
+P: Tengo fiebre y estoy cansado
+D: ¿eso es todo?
+P: ¿Perdón?
+D: ¿tiene dolor en alguna otra parte?
+P: No, nada de eso

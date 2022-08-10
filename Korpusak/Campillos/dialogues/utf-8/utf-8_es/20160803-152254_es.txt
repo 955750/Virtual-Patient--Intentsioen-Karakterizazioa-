@@ -1,0 +1,82 @@
+D: Buenos días señora, ¿cómo está?
+P: Hola. Estoy bien. Gracias.
+D: ¿Por qué me consultas?
+P: Estoy aquí para una consulta antes de una operación de vesícula, con colangiografía durante la operación.
+D: Voy a necesitar algo de información
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Cuál es su peso?
+P: Peso 62 kilos
+D: ¿Cuánto mide usted?
+P: 1 metro 65 centímetros
+D: ¿cuál es su trabajo?
+P: Soy cuidadora de niños en una guardería.
+D: ¿está bien pagado?
+P: ¿algo más que quiera saber doctor?
+D: ¿tiene hijos?
+P: Tengo 2 hijos
+D: ¿estás casado?
+P: ¿Perdón?
+D: ¿estás casado?
+P: casado
+D: ¿Tenían tus padres algún problema médico?
+P: Tengo dolores en el estómago a la derecha, debajo de las costillas, y más abajo y vómitos
+D: ¿y tus padres?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿tienes padres?
+P: ¿Perdón?
+D: ¿tu padre sigue vivo?
+P: Ni idea. Lo siento, doctor.
+D: ¿Conoces a tu padre?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Quién es tu padre?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿tu madre tiene problemas?
+P: ¿Perdón?
+D: ¿Su madre goza de buena salud?
+P: Con buena salud.
+D: ¿Y tu padre?
+P: ¿Perdón?
+D: ¿Su padre goza de buena salud?
+P: Felizmente, con buena salud.
+D: ¿Por qué?
+P: ¿Perdón?
+D: ¿Hay enfermedades hereditarias en su familia?
+P: No lo sé, lo siento doctor.
+D: Está bien.
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Tiene una dieta especial?
+P: Estoy a dieta por la diabetes
+D: ¿es usted diabético?
+P: Sí, hipertensión y diabetes no insulinodependiente
+D: ¿Tiene alguna enfermedad?
+P: hipertensión arterial y diabetes no insulinodependiente
+D: ¿algún otro?
+P: Sólo lo que te dije
+D: ¡vamos, puedes contarme!
+P: ¿Perdón?
+D: ¿Cuál es su dieta para la diabetes?
+P: Sí hipertensión y diabetes no insulinodependiente
+D: no decimos que sí
+P: ¿algo más?
+D: sí, ¿comes mucha carne?
+P: Suelo hacerlo, pero ni mucho ni poco
+D: ¿y las verduras?
+P: Las como como todo el mundo, no demasiado
+D: ¿alcohol?
+P: No me gusta el sabor del alcohol.
+D: ¿De verdad?
+P: Por supuesto
+D: ¿Cocaína?
+P: no, no tengo ninguna adicción.
+D: ¿incluso aspirina?
+P: un antihipertensivo para la hipertensión arterial y una dieta para la diabetes no insulinodependiente. Quizá haya más información en mi expediente.
+D: ¿Fumas?
+P: Sí, tabaco (1 paquete al día desde los 18 años)
+D: ¡eso no es muy bueno!
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Quieres dejar de fumar?
+P: Exactamente, el tabaco (1 paquete al día desde los 18 años)
+D: ¿Comes muchos dulces?
+D: olvida mi pregunta
+D: ¿Practicas algún deporte?
+D: ¿Estás aquí?

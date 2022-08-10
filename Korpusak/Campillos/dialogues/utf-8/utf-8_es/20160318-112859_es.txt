@@ -1,0 +1,52 @@
+D: Buenos días, Sr. Duchemin, ¿cómo está?
+P: Hola, doctor. Estoy bien. Estoy bien, gracias.
+D: ¿Qué te pasa?
+P: No entiendo muy bien lo que me pregunta.
+D: bueno, ¿qué es lo que padeces?
+P: bueno, varios problemas, tengo fiebre, sudor y dificultad para respirar
+D: sí, ya veo que has conseguido respirar, pero ¿cuánto tiempo llevas así?
+P: ¿A qué se refiere? ¿Puede darme más detalles?
+D: ¿Cuánto tiempo lleva enfermo?
+P: Tengo la tensión alta desde hace 10 años.
+D: ¿Desde cuándo tienes fiebre?
+P: Tengo fiebre desde ayer por la tarde
+D: ¿y dificultad para respirar?
+P: Tengo dificultad para respirar desde anoche
+D: ¿y la fiebre?
+P: Tengo fiebre desde anoche
+D: ok, ¿has perdido peso?
+P: No, esos síntomas no.
+D: ¿tusas?
+P: Sí
+D: ¿desde cuándo?
+P: Tengo una tos seca desde anoche a las 23 horas
+D: ¡eso es preciso!
+P: ¿Perdón?
+D: nada
+P: No entiendo muy bien lo que me pregunta.
+D: ¿escupes?
+P: Sí
+D: ¿Cómo se escupe?
+P: Sí, exactamente
+D: ¿De qué color es tu saliva?
+P: amarillo
+D: ¿tienes dolor en el pecho?
+P: exactamente
+D: ¿exactamente qué?
+P: ¿Perdón?
+D: Quiero decir, ¿exactamente qué?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Me oyes?
+P: Normalmente
+D: Bueno, no lo parece, pero no lo entenderás, ¿verdad?
+P: No hay problema
+D: ¿Está tomando alguna medicación?
+P: No, no especialmente
+D: Bueno, voy a echarte un vistazo rápido y luego te recetaré lo más adecuado para ti, ¿vale?
+P: Bien, vamos
+D: quitarse la ropa
+P: No entiendo muy bien lo que me pregunta.
+D: A mí tampoco me sorprende, vamos, adiós.
+P: ¿Perdón?
+D: Hasta pronto
+P: Adiós, doctor.

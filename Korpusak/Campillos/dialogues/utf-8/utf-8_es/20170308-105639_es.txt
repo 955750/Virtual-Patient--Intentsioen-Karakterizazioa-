@@ -1,0 +1,36 @@
+D: Buenos días
+P: buenos días
+D: ¿te vas a operar?
+P: una consulta antes de una operación para extirpar la vesícula biliar, con colangiografía durante la operación.
+D: ¿cuál es su peso?
+P: Peso 62 kilos
+D: ¿Y su altura?
+P: 1 metro 65 centímetros
+D: ¿te has operado alguna vez?
+P: Me han operado para quitarme las amígdalas, una reparación de ligamentos en la rodilla derecha y una reparación de hernia inguinal
+D: ¿Tiene usted alguna alergia?
+P: Sólo soy alérgico al kiwi
+D: ¿y algún historial médico?
+P: hipertensión y diabetes no insulinodependiente
+D: ¿cuáles son sus tratamientos?
+P: un antihipertensivo para la hipertensión arterial y una dieta para la diabetes no insulinodependiente. Puede haber más información en mi expediente.
+D: ¿Qué información?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Fumas?
+P: tabaco (1 paquete al día desde los 18 años)
+D: ¿Bebes?
+P: No, no especialmente
+D: deporte
+P: caminar ocasionalmente
+D: ¿Cuál es su actividad profesional?
+P: auxiliar de enfermería en una guardería
+D: ¿cuáles son sus síntomas?
+P: Tengo dolores de estómago a la derecha, debajo de las costillas, y más abajo y vómitos
+D: ¿y la fiebre?
+P: No. No estos síntomas.
+D: ¿Desde cuándo tienes dolor?
+P: Llevo varios días con dolores en el estómago en el lado derecho, debajo de las costillas y más abajo
+D: ¿y los vómitos?
+P: verás, no te puedo decir, no me acuerdo
+D: ¿conoces los riesgos de la anestesia?
+P: Tuve anestesia espinal para la reparación del ligamento de la rodilla derecha, anestesia general para la reparación de la hernia inguinal y ni idea de la operación para quitar las amígdalas

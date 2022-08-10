@@ -1,0 +1,68 @@
+D: bonjour
+P: Bonjour, docteur.
+D: comment allez vous
+P: Très bien. Merci.
+D: très bien ? qu' est ce qui vous amène alors à consulter ?
+P: Alors, je viens pour établir une licence de sport pour participer à une course à pied organisée par mon employeur .
+D: très bien . nous ne nous sommes pas vus depuis longtemps
+P: vous voulez savoir autre chose docteur ?
+D: c' est l' occasion de refaire le point d' une manière générale
+P: Je ne comprends pas bien ce que vous demandez.
+D: quel age avez vous maintenant ?
+P: j'ai 44 ans
+D: vous pratiquez souvent de l' activité physique
+P: du vélo et je fais de la natation occasionnellement
+D: sur votre lieu de travail ?
+P: informaticien
+D: vous pratiquez de l' activité physique sur votre lieu de travail ?
+P: du vélo et je fais de la natation occasionnellement
+D: avez vous des enfants
+P: oui, j'en ai 2 ... de 10 et 8 ans
+D: quelle est votre taille ?
+P: 1 mètre 77 centimètres
+D: pod
+P: Je ne comprends pas bien ce que vous demandez.
+D: poid
+P: Pardon ?
+D: poids
+P: je pèse 82 kilos
+D: vous fumez ?
+P: non, je ne fume pas
+D: il n' y a pas de problème de tension , diabète , cholestérol ?
+P: vous voyez, aucune idée
+D: quand avons nous fait le dernier controle de santé ?
+P: Je n'ai jamais eu de diabète .
+D: jamais d' hypertension ?
+P: vous voyez, pas à ma connaissance
+D: comment se compose votre alimentation ?
+P: mes habitudes alimentaires sont normales
+D: vous mangez souvent au fast food ?
+P: je ne suis aucun régime spécial
+D: vous mangez beaucoup de charcuterie ?
+P: vous voyez, j'en prends comme tout le monde, sans excès
+D: et de l' alcool ?
+P: non, je ne bois pas. Au pire un verre de vin par semaine.
+D: au pire ?
+P: Pardon ?
+D: vous n' avez pas d' antécedents médicaux notables ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: vous avez déjà été hospitalisé pour un quelconque problème de santé ?
+P: Je n'ai jamais eu de maladies importantes .
+D: pas d' allergie ?
+P: je n'ai pas d'allergie, mais je n'ai jamais fait de tests d'allergies
+D: vous ne prenez pas de médicaments ?
+P: Pas spécialement
+D: jamais été opéré ?
+P: Je n'ai jamais subi ce type d'opération .
+D: quand vous faites de l' activité , avez vous des symptomes particuliers ?
+P: vous voyez, je ne peux pas vous dire, je ne me rappelle pas
+D: avez vous des douleurs à l' effort ?
+P: Non, pas spécialement
+D: de l' essouflement ?
+P: Pardon ?
+D: etes vous essouflé à l' effort ?
+P: Non
+D: avez vous des palpitations ?
+P: Non, rien de tout ça
+D: très bien
+P: bon ... c'est tout docteur ?

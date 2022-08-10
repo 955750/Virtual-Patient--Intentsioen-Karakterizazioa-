@@ -1,0 +1,78 @@
+D: Hola, ¿cómo estás?
+P: Hola. Estoy muy bien. Gracias.
+D: ¿Qué le trae por aquí?
+P: Bueno, he venido por un dolor de pecho, tos y fiebre.
+D: ¿Desde cuándo tienes este dolor?
+P: Tengo dolores en el pecho en el lado derecho desde anoche a las 20 horas
+D: ¿y la tos?
+P: Tengo una tos seca desde anoche a las 23 horas
+D: ¿y la fiebre?
+P: Tengo fiebre desde ayer por la tarde
+D: ¿te has tomado la temperatura?
+P: 38,9° a la derecha, 39,2° a la izquierda
+D: ¿es decir?
+P: 38,9° a la derecha, 39,2° a la izquierda, más o menos
+D: ¿qué tipo de dolor?
+P: es difícil de describir, es sólo dolor
+D: ¿ha viajado recientemente?
+P: no, no he visitado ningún país recientemente
+D: Te voy a pesar
+P: 78 kilos
+D: ¿y su altura?
+P: Tengo alrededor de 174
+D: ¿cuál es su ocupación?
+P: jubilado, pero soy un antiguo hortelano
+D: ¿dónde?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿dónde has trabajado?
+P: Estoy jubilado, pero soy un antiguo hortelano.
+D: ¿Haces algún deporte?
+P: jardinería, tratamiento de los cultivos con productos fitosanitarios
+D: ¿tiene usted alguna alergia?
+P: No tengo ninguna alergia, pero nunca me he hecho una prueba de alergia
+D: ¿por qué?
+P: ¿Perdón?
+D: ¿por qué?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Por qué?
+P: ¿Perdón?
+D: ¿Bebes mucho alcohol?
+P: Tomo 1 vaso de vino tinto por comida
+D: ¿Vino francés?
+P: Sí, exactamente, bebo
+D: ¿bebes mucha agua?
+P: verás, lo bebo regularmente, pero no demasiado
+D: ¿bebes zumo de frutas?
+P: verás, suelo hacerlo, pero ni mucho ni poco
+D: ¿Comes a menudo chocolate?
+P: verás, lo como regularmente, pero no demasiado
+D: ¿tiene una enfermedad crónica?
+P: No, no hay patología crónica pero sí hipertensión arterial
+D: ¿algún antecedente familiar?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Tiene antecedentes de enfermedades crónicas en su familia?
+P: Ni idea, lo siento, doctor.
+D: ¿cáncer?
+P: En realidad no
+D: ¿te has hecho alguna vez un análisis de sangre?
+P: verás, no te puedo decir, no me acuerdo
+D: ¿te has operado alguna vez?
+P: Así que tuve una hernia inguinal derecha y una operación de apendicitis
+D: ¿Cuál es su color favorito?
+P: ¿Perdón?
+D: ¿llevas gafas?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Se toma la tensión regularmente?
+P: Sí, así es. La presión arterial alta
+D: ¿Tiene algún tratamiento para la presión arterial alta?
+P: Así que co-renitec para la presión arterial alta
+D: ¿Sigue bien su tratamiento?
+P: Así que 1 tableta al día
+D: ¿siempre?
+P: Entonces, 1 tableta al día
+D: ¿alguna vez lo olvidas?
+P: ¿Perdón?
+D: ¿alguna vez te olvidas de tu tableta?
+P: No entiendo muy bien lo que me pregunta.
+D: Adiós
+P: Adiós, doctor.

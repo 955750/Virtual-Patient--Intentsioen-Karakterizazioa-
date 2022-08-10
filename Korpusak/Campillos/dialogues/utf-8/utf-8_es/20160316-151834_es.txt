@@ -1,0 +1,172 @@
+D: Hola, ¿puede decirme su nombre?
+P: me llamo Irene.
+D: ¿cuál es su nombre de pila?
+P: Soy Irene .
+D: ¿puede darme su fecha de nacimiento?
+P: Lo siento, pero no quiero dar esa información.
+D: ¿qué edad tienes?
+P: Tengo 41 años
+D: ¿cuál es su trabajo?
+P: auxiliar de enfermería en una guardería
+D: ¿estás casado?
+P: casado
+D: ¿cuál es su situación familiar?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿tiene hijos?
+P: sí, tengo 2 hijos
+D: ¿qué edad tienen?
+P: ¿Perdón?
+D: ¿quién es su persona de apoyo?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿a quién hay que notificar?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿a quién alertar en caso de necesidad?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Cuánto mide usted?
+P: Mido aproximadamente 1 metro y 65 centímetros
+D: ¿Cuál es su peso?
+P: Peso 62 kilos
+D: ¿cuáles son sus hábitos alimenticios?
+P: Estoy a dieta por la diabetes
+D: ¿durante cuánto tiempo?
+P: ¿Perdón?
+D: ¿está usted medicado?
+P: coversyl para la hipertensión y una dieta para la diabetes no dependiente de la insulina.
+D: ¿Bebe usted alcohol?
+P: Bebo muy poco, cuando hay fiestas, eso es todo
+D: ¿fumas?
+P: Sí, fumo
+D: ¿Cuánto fumas?
+P: Exactamente, yo fumo
+D: ¿cuántos cigarrillos al día?
+P: Fumo 1 paquete al día
+D: ¿Es usted físicamente activo?
+P: caminar ocasionalmente
+D: cuéntame sobre tu sueño.
+P: ¿Perdón?
+D: ¿duermes normalmente?
+P: No hay problema
+D: ¿algún problema con los movimientos intestinales?
+P: No, estos síntomas no.
+D: ¿Orinas normalmente?
+P: Normalmente
+D: ¿Tomas drogas?
+P: No, no tomo drogas.
+D: ¿Tiene problemas para defecar?
+P: No, no especialmente.
+D: ¿Orinas normalmente?
+P: No tengo ningún problema
+D: ¿Cuántas veces al día?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Cuántas veces al día vas al baño?
+P: ¿Perdón?
+D: ¿a qué se debe la consulta de hoy?
+P: ¿Perdón?
+D: ¿Sabes por qué nos reunimos hoy?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿motivo de la consulta?
+P: No entiendo muy bien lo que me pregunta.
+D: Hablemos de sus antecedentes
+P: No entiendo muy bien lo que me pregunta.
+D: hablemos de su historia
+P: ¿Perdón?
+D: ¿tiene algún historial médico?
+P: hipertensión arterial y diabetes no insulinodependiente
+D: ¿cirugía?
+P: ¿Perdón?
+D: ¿Tiene antecedentes quirúrgicos?
+P: No, nunca me han operado
+D: ¿Cuál es su historial quirúrgico?
+P: Nunca he tenido esta operación
+D: ¿ha sido operado alguna vez?
+P: Bueno, me operaron para quitarme las amígdalas, me repararon los ligamentos de la rodilla derecha y me repararon una hernia inguinal
+D: ¿En qué años?
+P: Me operaron de amígdalas cuando era niño, me repararon los ligamentos de la rodilla derecha en 1996 y me repararon una hernia inguinal en 2006
+D: ¿algún problema con la anestesia?
+P: Tuve náuseas y vómitos después de la reparación de la hernia inguinal.
+D: ¿mucho?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿tuviste muchas náuseas?
+P: No, nada de eso
+D: ¿tuvo alguna enfermedad de niño?
+P: hipertensión arterial y diabetes no insulinodependiente
+D: ¿ha tenido algún accidente?
+P: No, no especialmente
+D: ¿Ha sido hospitalizado alguna vez?
+P: ¿Perdón?
+D: ¿has sido anestesiado alguna vez?
+P: Bueno, tuve anestesia espinal para la reparación del ligamento de la rodilla derecha, anestesia general para la reparación de la hernia inguinal y ni idea de la cirugía de extirpación de amígdalas
+D: ¿estás vacunado?
+P: verás, no me acuerdo
+D: ¿están sus vacunas al día?
+P: verás, no te puedo decir, no me acuerdo
+D: ¿hay alguna historia particular en su familia?
+P: No sé, lo siento, doctor.
+D: ¿Tiene alguna alergia en particular?
+P: Sólo soy alérgico al kiwi
+D: ¿alergia a los tratamientos?
+P: Sólo soy alérgico al kiwi
+D: ¿cuáles son los síntomas cuando se come un kiwi?
+P: verás, lo como regularmente, pero no demasiado
+D: ¿tiene alguna alergia en particular?
+P: Sólo soy alérgico al kiwi
+D: ¿tiene alguna alergia a algún tratamiento?
+P: Sólo soy alérgico al kiwi
+D: ¿cuáles son los síntomas cuando se come un kiwi?
+P: verás, lo como regularmente, pero no demasiado
+D: ¿Qué recuerdas?
+P: ¿Perdón?
+D: ¿qué sientes?
+P: Tengo dolores en el estómago en el lado derecho debajo de las costillas y abajo y vómitos
+D: ¿Especificar sus dolores?
+P: Sí, exactamente
+D: ¿Cómo de intensos son los dolores?
+P: Efectivamente, dolor en el vientre derecho bajo las costillas y en la parte inferior
+D: En una escala del 1 al 10, ¿qué intensidad tiene su dolor?
+P: Dolores exactos en el vientre derecho bajo las costillas y en la parte inferior
+D: ¿Está tomando alguna medicación?
+P: Así que tomo paracetamol
+D: ¿Sólo?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Cuál es su tratamiento?
+P: Así que tomo paracetamol
+D: ¿Por qué tomas paracetamol?
+P: Tomo paracetamol para mi trastorno actual
+D: ¿Sólo tomas paracetamol?
+P: Así que coversyl para la presión arterial alta y una dieta para la diabetes no dependiente de la insulina.
+D: ¿Por qué tomas coversyl?
+P: Tomo coversyl para la presión arterial alta
+D: ¿durante cuánto tiempo?
+P: ¿Perdón?
+D: ¿cuánto tiempo lleva tomando coversyl para la hipertensión?
+P: Así que coversyl para la presión arterial alta
+D: ¿Qué síntomas está experimentando?
+P: Sólo eso
+D: ¿cuáles son sus síntomas?
+P: Justo lo que te dije
+D: ¿qué sientes?
+P: Justo lo que te dije
+D: especifique sus síntomas
+P: Sólo lo que te dije
+D: ¿llevas gafas?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Tiene algún problema ocular?
+P: Sólo que
+D: ¿Tienes aparatos de ortodoncia?
+P: ¿Perdón?
+D: ¿Tiene audífonos?
+P: ¿Perdón?
+D: ¿Tiene algún problema con sus dientes?
+P: En realidad no
+D: ¿tiene algún problema con su mandíbula?
+P: Sólo que
+D: ¿tiene algún problema de corazón?
+P: No sé si está relacionado, pero tengo hipertensión arterial y diabetes no insulinodependiente
+D: ¿Tiene algún problema respiratorio?
+P: No, estos síntomas no.
+D: ¿Tiene algún problema gastrointestinal?
+P: En absoluto, no
+D: ¿tiene algún problema neurológico?
+P: Sólo lo que te dije
+D: ¿Tiene algún problema urinario?
+P: No, nada de eso

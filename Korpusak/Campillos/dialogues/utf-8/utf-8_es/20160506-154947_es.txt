@@ -1,0 +1,26 @@
+D: ¿Sabes cuál es tu peso?
+P: unos 82 kilos
+D: ¿y su altura?
+P: Mido alrededor de 1 metro 77 centímetros
+D: ¿Tiene su familia antecedentes de enfermedades cardíacas?
+P: No lo sé, lo siento doctor.
+D: ¿Está usted casado?
+P: divorciado
+D: ¿tiene hijos?
+P: Yo tengo dos. 10 y 8 años
+D: ¿es usted bastante activo?
+P: ¿Perdón?
+D: ¿Es usted sedentario?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Tiene un estilo de vida sedentario?
+P: ni idea
+D: ¿Haces algún deporte?
+P: ciclismo y nado ocasionalmente
+D: ¿Bebes mucho alcohol?
+P: No me gusta el sabor del alcohol.
+D: ¿Y fumas?
+P: Nunca he fumado
+D: ¿Tiene usted alguna alergia?
+P: No tengo ninguna alergia, pero nunca me he hecho una prueba de alergia
+D: ¿Se ha sometido a algún procedimiento recientemente?
+P: Nunca me he operado

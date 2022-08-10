@@ -1,0 +1,72 @@
+D: Buenos días, señor...
+P: Hola, doctor.
+D: ¿cuál es su nombre, por favor?
+P: me llamo Alain Courbet.
+D: Bien, señor Courbet, antes de empezar la consulta, voy a hacerle algunas preguntas.
+P: Eso funciona.
+D: Por cierto, no me he presentado, soy el doctor Ozenblat.
+P: No, no lo hiciste. En absoluto.
+D: sí, sí, te lo aseguro... bueno, ¿tienes algún problema de salud?
+P: Nunca he tenido ninguna enfermedad destacable.
+D: ¿hay algún problema de salud en su familia?
+P: No lo sé, lo siento doctor.
+D: no es grave... ¿tienes hijos?
+P: Yo tengo dos. 10 y 8 años
+D: ¿tienen buena salud?
+P: saludable.
+D: eso es bueno. es increíble lo MEUGNANT que son a esa edad ... pero divago. ¿estás tomando alguna medicación?
+P: probablemente
+D: um... ¿puede decirme qué son?
+P: ¿Perdón?
+D: ¿qué medicación está tomando?
+P: No he tomado ninguna medicación.
+D: ¿Cuántos años tienes?
+P: Tengo 44 años
+D: ¿Bebe usted alcohol?
+P: En absoluto
+D: Claro. ¿Fumas?
+P: no, no especialmente
+D: ¿tiene usted alguna alergia?
+P: No tengo ninguna alergia, pero nunca me he hecho una prueba de alergia
+D: ok . ¿cuál es tu altura?
+P: Mido aproximadamente 1 metro y 77 centímetros
+D: ¿y cuál es su peso?
+P: 82 kilos
+D: ¿te has operado alguna vez?
+P: no, no he tenido ninguna operación
+D: umm... ¿usas drogas?
+P: no, no tomo drogas.
+D: muy bien. um hmm, escuchemos: ¿qué te trae por aquí?
+P: para obtener una licencia deportiva, para participar en una carrera organizada por mi empresa.
+D: muy bien. ¿no se queja de ningún síntoma por el momento?
+P: Tengo la presión arterial alta
+D: hA: ¿pero no estás tomando ninguna medicación para eso?
+P: en realidad no
+D: ¿Qué quieres decir?
+P: ¿Perdón?
+D: umm. ¿desde cuándo tienes la tensión alta?
+P: verás, no me acuerdo
+D: Ya veo, tendrá que comprobarlo. ¿Quién es su médico de cabecera?
+P: No puedo decírtelo, no me acuerdo
+D: um ... er ... ¿has tenido alguna vez dolores en el pecho?
+P: verás, no te puedo decir, no me acuerdo
+D: Supongo que no, así que... ¿eres deportista?
+P: ciclismo y natación ocasional
+D: ¿dónde come más a menudo?
+P: No sigo ninguna dieta especial
+D: Claro. ¿A qué te dedicas?
+P: Soy informático.
+D: ¡un trabajo con futuro! (risa avergonzada)
+P: informático
+D: umm. bueno, te examinaré, y si tu examen es normal, te daré tu certificado.
+P: OK
+D: ¿alguna vez te quedas sin aliento cuando haces un esfuerzo?
+P: En absoluto
+D: Muy bien, vamos. Acuéstate por favor.
+P: ¿algo más que quiera saber, doctor?
+D: no, está bien.
+P: No entiendo muy bien lo que me pregunta.
+D: Erm... hey hey. He terminado, Sr. Courbet.
+P: ¿Perdón?
+D: Aquí tiene su certificado y una carta para su médico sobre esta presión alta. Adiós, Sr. Courbet.
+P: No especialmente

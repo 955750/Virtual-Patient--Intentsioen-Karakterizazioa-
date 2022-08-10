@@ -1,0 +1,46 @@
+D: Hola, ¿cómo estás?
+P: Hola doctor, estoy bien.
+D: ¿Por qué vienes a verme?
+P: para obtener una licencia deportiva, para participar en una carrera organizada por mi empresa.
+D: ¿ya corres?
+P: ciclismo y natación ocasional
+D: ¿pero no correr?
+P: ciclismo y natación ocasional
+D: ¿te has hecho alguna vez pruebas para estos deportes?
+P: ciclismo y natación ocasional
+D: ¿Qué trabajo haces?
+P: ¿A qué se refiere? ¿Puede ser más específico?
+D: ¿Cuál es su trabajo?
+P: Soy informático.
+D: ¿fumas?
+P: No, no especialmente
+D: ¿bebes?
+P: No. En absoluto
+D: ¿Cuál es su peso?
+P: Unos 82 kilos
+D: ¿Y su altura?
+P: Mido alrededor de 1 metro 77 centímetros
+D: ¿Cómo se come?
+P: No tengo ninguna dieta específica
+D: ¿Toma alguna medicación?
+P: No específicamente
+D: ¿te has operado alguna vez?
+P: Nunca me he operado
+D: ¿tienes alguna adicción?
+P: No, no especialmente
+D: ¿tiene hijos?
+P: Yo tengo dos. 10 y 8 años
+D: ¿vives con ellos?
+P: ¿Perdón?
+D: ¿estás casado?
+P: divorciado
+D: ¿vive usted solo?
+P: no puedo responder a esa pregunta [No hay información en el expediente] D: ¿duermes bien?
+D: ¿Duermes bien?
+P: Normalmente
+D: ¿No hay problemas de sueño?
+P: No. Nada de eso. Nada de eso.
+D: ¿Toma alguna medicación?
+P: No
+D: ¿tiene usted alguna alergia?
+P: Que yo sepa no tengo ninguna alergia

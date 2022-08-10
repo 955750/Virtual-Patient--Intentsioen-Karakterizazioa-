@@ -1,0 +1,68 @@
+D: Buenos días, señora.
+P: buenos días doctor
+D: ¿cómo te sientes hoy?
+P: Tengo dolor en el estómago en el lado derecho, debajo de las costillas y más abajo y estoy vomitando
+D: vale, ¿desde cuándo tienes estos dolores?
+P: Llevo varios días con dolores en el estómago en el lado derecho, debajo de las costillas y más abajo
+D: vale, ¿y desde cuándo vomitas?
+P: verás, no me acuerdo
+D: ok, ¿tienes algún otro dolor?
+P: sólo esto
+D: ¿crees que estos dolores pueden estar asociados al estilo de vida?
+P: Tengo dolores en el estómago en el lado derecho, debajo de las costillas, y más abajo, tengo dolores en arrebatos.
+D: Bien, ¿cuánto pesas?
+P: unos 62 kilos
+D: ¿cuál es tu altura?
+P: Mido 1 metro y 65 centímetros
+D: eso es muy bueno
+P: No entiendo muy bien lo que me pregunta.
+D: ¿cuál es su trabajo, señora?
+P: un asistente de guardería
+D: ¿estás casado?
+P: Estoy casado
+D: ¿tiene hijos?
+P: Tengo 2 hijos
+D: ¿has tenido alguna vez ese dolor en el pasado?
+P: quieres decir: ¿has tenido alguna vez ese dolor en el pasado?
+D: sí
+P: Tengo dolor en el vientre a la derecha, debajo de las costillas, y más abajo aunque sólo esta vez
+D: ¿tiene usted alguna alergia?
+P: Sólo soy alérgico al kiwi
+D: ¿tienes alguna adicción?
+P: Sí, fumo
+D: ¿cuánto tiempo llevas fumando?
+P: desde los 18 años
+D: ¿cuántos cigarrillos al día?
+P: tabaco (1 paquete al día desde los 18 años)
+D: ¿Haces algún deporte?
+P: caminar ocasionalmente
+D: ¿estás pensando en intentar dejar de fumar?
+P: sí, lo estoy, tengo que parar
+D: ¿has intentado alguna vez dejar de fumar?
+P: sí, tienes razón, debería parar
+D: ¿te has operado alguna vez?
+P: Me han operado para quitarme las amígdalas, me han reparado los ligamentos de la rodilla derecha y me han reparado una hernia inguinal
+D: ¿Cuándo te repararon la hernia?
+P: Me han reparado una hernia inguinal en 2006.
+D: ¿Cuándo te extirparon las amígdalas?
+P: Me operaron de amígdalas cuando era niño.
+D: ¿Cuándo le operaron de la rodilla?
+P: En 1996 me repararon los ligamentos de la rodilla derecha.
+D: En este momento, ¿experimentas el dolor que has mencionado antes?
+P: verás, no te puedo decir, no me acuerdo
+D: En este momento, ¿siente algún dolor?
+P: Tengo dolor en el vientre a la derecha, debajo de las costillas, y más abajo, tengo dolor por crisis.
+D: ¿tienes una dieta equilibrada?
+P: Estoy a dieta por la diabetes
+D: ¿así que eres diabético?
+P: Sí, bastante alta la presión arterial y la diabetes no dependiente de la insulina
+D: ¿desde cuándo es usted diabético?
+P: verás, no me acuerdo
+D: ¿Sigue algún tratamiento para la diabetes?
+P: un antihipertensivo para la hipertensión arterial y una dieta para la diabetes no insulinodependiente. Quizá haya más información en mi expediente.
+D: De acuerdo, lo investigaré, gracias,
+P: De nada.
+D: Que tenga un buen día
+P: ¿Perdón?
+D: adiós
+P: ¿quieres decir: adiós?

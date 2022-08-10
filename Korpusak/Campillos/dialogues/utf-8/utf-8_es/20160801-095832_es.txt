@@ -1,0 +1,48 @@
+D: Buenos días, siéntese por favor.
+P: No entiendo muy bien lo que me pregunta.
+D: ¿para qué consultas?
+P: Estoy aquí para una consulta antes de una operación de vesícula, con colangiografía durante la operación.
+D: Bien, voy a preguntarte algunos datos, ¿cuánto pesas?
+P: 62 kilos
+D: ¿conoces tu altura?
+P: Mido aproximadamente 1 metro y 65 centímetros
+D: ¿a qué te dedicas?
+P: un asistente de guardería
+D: ¿estás casado?
+P: Estoy casado
+D: ¿cuántos hijos tiene?
+P: Tengo 2 hijos
+D: ¿cuál es su horario de trabajo?
+P: Soy cuidadora de niños en una guardería.
+D: ¿cuántas comidas al día haces de media?
+P: Estoy haciendo una dieta para la diabetes
+D: ¿fumas?
+P: Exactamente, el tabaco (1 paquete al día desde los 18 años)
+D: ¿Bebe usted alcohol?
+P: No, no bebo.
+D: ¿Haces algún deporte?
+P: caminar ocasionalmente
+D: ¿Tiene usted alguna alergia?
+P: Sólo soy alérgico al kiwi
+D: ¿Se ha operado recientemente?
+P: Me operaron para extirparme las amígdalas, una reparación de ligamentos en la rodilla derecha y una reparación de hernia inguinal
+D: ¿Toma actualmente algún analgésico?
+P: Estoy tomando un analgésico. Puede haber más información en mi expediente.
+D: ¿Sabe el nombre del analgésico que está tomando?
+P: ¿Perdón?
+D: ¿sabes el nombre del analgésico que estás tomando?
+P: Estoy tomando un analgésico. Quizá haya más información en mi expediente.
+D: ¿tiene usted actualmente dolor?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Te duele algo en este momento?
+P: Tengo dolor en el estómago a la derecha, debajo de las costillas, y más abajo, en los ataques.
+D: ¿son frecuentes estos ataques?
+P: No puedo responder a esa pregunta... Pero no tengo ningún problema con él
+D: ¿son estos ataques agudos?
+P: Sí
+D: ¿a menudo?
+P: No puedo responder a esa pregunta... Pero no tengo ningún problema
+D: ¿cuántas veces al día tienes estos ataques?
+P: No puedo decirte... Pero no tengo ningún problema con él
+D: ¿Con qué frecuencia tiene estos dolores?
+P: No puedo decirte... Pero no tengo ninguna preocupación

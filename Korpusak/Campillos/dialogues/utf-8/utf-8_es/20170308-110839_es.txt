@@ -1,0 +1,34 @@
+D: Buenos días
+P: Buenos días
+D: ¿Qué le trae hoy por aquí?
+P: Estoy aquí para obtener una licencia deportiva, para participar en una carrera organizada por mi empresa.
+D: ¿qué distancia?
+P: ¿Perdón?
+D: ¿cuántos kilómetros tiene la carrera?
+P: ciclismo y nado ocasionalmente
+D: peso
+P: Peso 82 kilos
+D: altura
+P: Mido 1 metro 77 centímetros
+D: historial médico
+P: Nunca he tenido ninguna enfermedad grave.
+D: ¿y las operaciones?
+P: Nunca me he operado
+D: tratamiento
+P: En realidad no
+D: alergia
+P: No tengo ninguna alergia, que yo sepa
+D: ¿tiene algún dolor en particular
+P: No. Nada de eso.
+D: ¿Se ha hecho alguna vez un electrocardiograma?
+P: No tengo ni idea
+D: eCG
+P: verás, no me acuerdo
+D: cuál es su trabajo ,
+P: Soy informático.
+D: ¿has tenido alguna vez tensión
+P: verás, no te puedo decir, no me acuerdo
+D: presión arterial alta
+P: verás, no te puedo decir, no me acuerdo
+D: presión arterial
+P: verás, no me acuerdo

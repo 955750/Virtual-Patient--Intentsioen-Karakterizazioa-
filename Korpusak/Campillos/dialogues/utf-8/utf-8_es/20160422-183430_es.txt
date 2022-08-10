@@ -1,0 +1,118 @@
+D: ¿Cómo te llamas?
+P: Soy Irene.
+D: Hola, Irene. Primero voy a hacerte algunas preguntas personales. ¿Cuál es tu peso habitual?
+P: 62 kilos
+D: ¡eso es preciso!
+P: 1 metro 65 centímetros
+D: muy bien. ¿tiene algún problema de salud en particular?
+P: hipertensión arterial y diabetes no insulinodependiente
+D: hmmm ... ¿qué edad tienes?
+P: Tengo 41 años
+D: hmmm hmmm . ¿hay algún problema de salud particular en tus padres?
+P: hipertensión arterial y diabetes no insulinodependiente
+D: ¿tanto en tu padre como en tu madre?
+P: ¿Perdón?
+D: ¿Su padre tiene la tensión alta?
+P: Sí, efectivamente. La hipertensión arterial y la diabetes no insulinodependiente
+D: ¿También tu madre?
+P: No entiendo muy bien lo que me pregunta.
+D: hmmm. ¿sabes la fecha de hoy?
+P: ¿Perdón?
+D: ¿Dónde estamos ahora?
+P: ¿A qué se refiere? ¿Puede ser más específico?
+D: Ya veo. ¿Tu madre tiene algún problema de salud?
+P: hipertensión arterial y diabetes no insulinodependiente
+D: ¿tienes hermanos o hermanas?
+P: ¿Perdón?
+D: ¿tiene hijos?
+P: Tengo 2 hijos
+D: ¿qué edad tienen?
+P: No quiero dar esta información.
+D: Respeto su deseo. ¿Por qué no quiere darme la edad de sus hijos?
+P: Tengo 2 hijos
+D: bueno... ¿tienen algún problema de salud?
+P: hipertensión arterial y diabetes no insulinodependiente
+D: ¿ah? . . ¿has tenido alguna vez una operación?
+P: Me han operado para quitarme las amígdalas, me han reparado los ligamentos de la rodilla derecha y me han reparado una hernia inguinal
+D: ¿con anestesia general?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Le han puesto alguna vez una anestesia general?
+P: Tuve anestesia espinal para la reparación del ligamento de la rodilla derecha, anestesia general para la reparación de la hernia inguinal y ni idea de la operación para quitar las amígdalas
+D: Gracias. ¿No tienes problemas de corazón?
+P: De nada.
+D: no ignore mi pregunta, señora. no sé a qué juego está jugando, pero necesito esta información para su operación. ¿no tiene problemas de corazón?
+P: caminar ocasionalmente
+D: ¿se refiere a su actividad física?
+P: caminar ocasionalmente
+D: Ya veo... ¿cuántos minutos mastica al día aproximadamente?
+P: bueno... ¿es todo doctor?
+D: no... siento si esta consulta parece un poco larga, pero es necesario que tengamos esta información... ¿toma alguna medicación?
+P: ¿Perdón?
+D: ¿tomas alguna medicación?
+P: Coversyl para la hipertensión arterial y una dieta para la diabetes no dependiente de la insulina.
+D: ¿Fumas?
+P: De hecho lo hago, fumo tabaco
+D: ¿Cigarrillos?
+P: Sí, fumo tabaco
+D: ¿Cuánto cuesta al día?
+P: Fumo 1 paquete al día
+D: ¿Durante cuánto tiempo?
+P: Llevo fumando desde los 18 años
+D: ¿has pensado alguna vez en dejarlo?
+P: sí, tienes razón, debería parar
+D: No lo decía para hacerte sentir culpable. ¿Quién es tu médico de cabecera?
+P: Espera a que me acuerde... Dr. Noyer, médico de cabecera
+D: ¿sus hijos nacieron por vía vaginal?
+P: Tengo dos hijos
+D: así es, sí. ¿Cuál es su trabajo?
+P: ¿A qué se refiere? ¿Puede darme más detalles?
+D: ¿cuál es su profesión?
+P: auxiliar de enfermería en una guardería
+D: ¿están sus vacunas al día?
+P: verás, no puedo decirte, no puedo recordar
+D: lo comprobaremos, no te preocupes. voy a hacerte una pregunta personal, contesta sólo si lo deseas. ¿usas drogas?
+P: no, no tengo ninguna adicción.
+D: ¿Bebe usted alcohol?
+P: No, no bebo. Como máximo un vaso de vino a la semana.
+D: Sí. ¿Estás tomando algún anticonceptivo?
+P: mi embarazo fue normal .
+D: Bien. ¿Estás tomando la píldora?
+P: Yo soy
+D: ¿conoces el nombre de tu píldora?
+P: coversyl para la hipertensión y una dieta para la diabetes no dependiente de la insulina.
+D. Bien. Contactaremos con su médico de cabecera y su psiquiatra.
+P: Este es el Dr. Noyer, médico de cabecera
+D: Lo sé. ¿Tienes alguna alergia?
+P: Sólo soy alérgico al kiwi
+D: ¿qué hiciste como reacción?
+P: Sólo soy alérgico al kiwi
+D: bueno, no soy policía, ya sabes. vamos al punto que te trae aquí. ¿qué operación tuviste que hacer?
+P: Me han operado para quitarme las amígdalas, una reparación de ligamentos en la rodilla derecha y una reparación de hernia inguinal
+D: sí, pero ¿por qué estás en el hospital?
+P: Vengo a una consulta antes de una operación de vesícula, con colangiografía durante la operación.
+D: ¿Cuándo empezaron los síntomas?
+P: Llevo varios días con dolores en el estómago en el lado derecho, debajo de las costillas y más abajo
+D: ¿has tomado algún tratamiento para aliviar el dolor?
+P: Tomo paracetamol
+D: ¿es eficaz?
+P: casi ineficaz con paracetamol
+D: En una escala de cero a diez, siendo diez el peor dolor imaginable y cero la ausencia de dolor, ¿cómo calificaría su dolor?
+P: Dolor exacto en el estómago a la derecha, debajo de las costillas y más abajo
+D: No es grave. ¿Tienes fiebre?
+P: No. Nada de eso. Nada de eso.
+D: ¿Algún escalofrío?
+P: No, no especialmente.
+D: ¿algún tipo de sudor?
+P: No. No esos síntomas.
+D: ¿vómitos o náuseas?
+P: Sí
+D: ¿Hay alguna posición que mejore su dolor?
+P: Todo sigue igual
+D: bien. ¿te vas a operar?
+P: bueno... ¿es todo doctor?
+D: ah, sí, perdón, una colecistectomía, estoy distraído.
+P: caminar ocasionalmente
+D: sí, sí. bueno, ya he terminado, madame Irène. la dejo por el momento, probablemente nos volveremos a encontrar mañana para la operación. ¿tiene alguna pregunta?
+P: De acuerdo.
+D: Muy bien. ¡Que tengas una buena noche!
+P: Adiós, doctor.

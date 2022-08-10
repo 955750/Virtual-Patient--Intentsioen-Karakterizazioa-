@@ -1,0 +1,8 @@
+D: ¿Cómo te llamas?
+P: Soy Alain.
+D: ¿tienes palpitaciones?
+P: No, nada de eso
+D: ¿tiene algún dolor en el pecho
+P: en realidad no
+D: ¿tiene usted lipotimia?
+P: No, esos síntomas no.

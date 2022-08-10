@@ -1,0 +1,8 @@
+D: Buenos días
+P: Buenos días, doctor.
+D: ¿cómo estás?
+P: Estoy bien. P: Estoy bien, gracias.
+D: ¿cuál es su nombre?
+P: Soy Martin.
+D: Hola Martin
+P: Hola.

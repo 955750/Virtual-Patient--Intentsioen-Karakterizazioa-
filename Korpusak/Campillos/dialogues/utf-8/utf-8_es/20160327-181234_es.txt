@@ -1,0 +1,20 @@
+D: Hola señor, me llamo Sophie, ¿por qué nos consulta hoy?
+P: No entiendo muy bien lo que me pregunta.
+D: Buenos días, señor
+P: Buenos días.
+D: ¿Por qué has venido a verme hoy?
+P: Así que estoy aquí para confirmar la hipertensión esencial.
+D: ¿Cuántos años tienes?
+P: Tengo 44 años
+D: ¿cuál es tu altura?
+P: 1 metro 77 centímetros
+D: ¿cuál es su peso?
+P: 82 kilos
+D: ¿tiene hijos?
+P: sí, tengo 2... 10 y 8 años
+D: ¿fumas?
+P: Nunca he fumado
+D: ¿tiene usted diabetes?
+P: verás, no que yo sepa
+D: ¿toma alguna medicación?
+P: No especialmente

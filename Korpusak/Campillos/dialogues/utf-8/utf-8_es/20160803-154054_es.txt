@@ -1,0 +1,100 @@
+D: Buenos días, señora.
+P: Hola, doctor.
+D: ¿cuál es su nombre?
+P: me llamo Irene Claudel.
+D: buenos días Irène
+P: Hola.
+D: ¿por qué me consultas?
+P: una consulta antes de una operación para extirpar la vesícula biliar, con colangiografía durante la operación.
+D: ¿Cuál es su peso?
+P: unos 62 kilos
+D: ¿Cuánto mide usted?
+P: 1 metro 65 centímetros
+D: ¿cuál es su trabajo?
+P: cuidador de niños en una guardería
+D: ¿tiene hijos?
+P: Tengo 2 hijos
+D: ¿todavía está casado?
+P: Estoy casado
+D: ¿qué edad tiene?
+P: Tengo 41 años
+D: ¿y su esposa?
+P: casado
+D: ¿qué edad tiene su marido?
+P: Tengo 41 años
+D: ¿su marido fuma?
+P: ¿Perdón?
+D: ¿Su marido goza de buena salud?
+P: Con buena salud.
+D: ¿y sus hijos?
+P: Tengo 2 hijos
+D: ¿están sus hijos sanos?
+P: Tengo 2 hijos
+D: ¿Tus padres gozan de buena salud?
+P: Felizmente, con buena salud.
+D: ¿Tus abuelos gozan de buena salud?
+P: Felizmente con buena salud.
+D: ¿Tus bisabuelos gozan de buena salud?
+P: Felizmente, con buena salud.
+D: ¿Tus bisabuelos gozan de buena salud?
+P: Felizmente, con buena salud.
+D: ¿Tiene alguna dieta en particular?
+P: Estoy a dieta por la diabetes
+D: ¿alguna adicción?
+P: Exactamente, yo fumo
+D: ¿y el alcohol?
+P: No me gusta el sabor del alcohol.
+D: ¿Haces algún deporte?
+P: caminar ocasionalmente
+D: ¿y la natación?
+P: caminar ocasionalmente
+D: ¿Tiene usted alguna alergia?
+P: Sólo soy alérgico al kiwi
+D: ¿has estado alguna vez enfermo?
+P: hipertensión arterial y diabetes no insulinodependiente
+D: ¿y antes?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿está usted enfermo ahora?
+P: Tengo dolores en el estómago en el lado derecho, debajo de las costillas, y más abajo y vómitos
+D: ¿Qué quieres hacer para tratarte?
+P: Tomo un analgésico. Quizá haya más información en mi expediente.
+D: ¿Se ha sometido alguna vez a una operación quirúrgica?
+P: Me han operado para quitarme las amígdalas, me han reparado los ligamentos de la rodilla derecha y me han reparado una hernia inguinal
+D: ¿Y cómo te sientes en este momento?
+P: Sólo eso
+D: ¿está pensando en algún tratamiento en particular?
+P: Estoy tomando un analgésico. Puede haber más información en mi expediente.
+D: ¿Se le está controlando por alguna afección?
+P: hipertensión arterial y diabetes no insulinodependiente
+D: ¿durante cuánto tiempo?
+P: ¿A qué se refiere? ¿Puede ser más específico?
+D: ¿Desde cuándo tiene la presión arterial alta?
+P: Tengo la tensión alta desde hace un año.
+D: ¿y la diabetes?
+P: verás, no me acuerdo
+D: ¿toma medicación para su hipertensión?
+P: un antihipertensivo para la hipertensión arterial y una dieta para la diabetes no insulinodependiente. Puede haber más información en mi expediente.
+D: ¿Qué antihipertensivo?
+P: He estado tomando un antihipertensivo durante 1 año
+D: ¿tomas coversyl?
+P: verás, no te puedo decir, no me acuerdo
+D: ¿ha recibido anestesia durante sus operaciones anteriores?
+P: Tuve anestesia espinal para la reparación de los ligamentos de la rodilla derecha, anestesia general para la reparación de la hernia inguinal y ni idea de la cirugía de extirpación de amígdalas
+D: ¿me recuerdas por qué me consultas?
+P: Vengo a una consulta antes de una operación de extirpación de la vesícula biliar, con colangiografía durante la operación.
+D: ¿por qué le van a extirpar la vesícula?
+P: Sólo lo que te dije
+D: ¿por qué quieres operarte?
+P: Me han operado de las amígdalas, de los ligamentos de la rodilla derecha y de una hernia inguinal
+D: Gracias, eso es todo.
+P: De nada.
+D: ¿Quieres una receta?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿quieres un certificado para seguir tu operación?
+P: Me han operado para quitarme las amígdalas, me han reparado los ligamentos de la rodilla derecha y me han reparado una hernia inguinal
+D: ¿qué es la vida?
+P: ¿Perdón?
+D: no soy yo, puedes irte, adiós Irene.
+P: No entiendo muy bien lo que me pregunta.
+D: adiós
+P: Adiós, doctor.

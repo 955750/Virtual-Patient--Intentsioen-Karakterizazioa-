@@ -1,0 +1,18 @@
+D: Buenos días
+P: buenos días
+D: ¿Qué tienes?
+P: Vengo porque me han hecho una radiografía de tórax derecha, y vuelvo según lo solicitado menos de 3 horas después de la primera consulta de la mañana.
+D: ¿Ha intentado dejar de fumar?
+P: Fumo (20 cigarrillos al día desde los 20 años)
+D: ¿otras personas de tu familia fuman?
+P: Fumo (20 cigarrillos al día desde los 20 años)
+D: ¿llevas una dieta equilibrada?
+P: sin dieta
+D: ¿alérgico a algún medicamento?
+P: No tengo ninguna alergia, pero nunca me he hecho una prueba de alergia
+D: ¿ha tenido alguna otra enfermedad relacionada con los pulmones o los bronquios?
+P: No, no he tenido ninguna enfermedad relacionada con los pulmones, pero por lo demás la presión arterial alta
+D: bueno
+P: bueno... ¿es todo doctor?
+D: sí, adiós
+P: Adiós, doctor.

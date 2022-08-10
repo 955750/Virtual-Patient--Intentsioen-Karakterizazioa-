@@ -1,0 +1,26 @@
+D: connaissez vous votre poids ?
+P: environ 82 kilos
+D: et votre taille ?
+P: je mesure environ 1 mètre 77 centimètres
+D: avez vous dans votre famille des antécédents de maladie cardiaque ?
+P: Je n'en sais rien, je suis désolé docteur.
+D: etes vous marié ?
+P: divorcé
+D: avez vous des enfants ?
+P: j'en ai 2 . De 10 et 8 ans
+D: etes vous plutot actif ?
+P: Pardon ?
+D: etes vous sédentaire ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: avez vous un mode de vie sédentaire ?
+P: aucune idée
+D: pratiquez vous du sport ?
+P: du vélo et je fais de la natation occasionnellement
+D: buvez vous beaucoup d' alcool ?
+P: Je n'aime pas le goût de l'alcool.
+D: et fumez vous ?
+P: je n'ai jamais fumé
+D: etes vous sujet à des allergies ?
+P: je n'ai pas d'allergie, mais je n'ai jamais fait de tests d'allergies
+D: avez vous subit des interventions récemment ?
+P: je n'ai jamais été opérée

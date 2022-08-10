@@ -1,0 +1,62 @@
+D: bonjour monsieur
+P: Bonjour, docteur.
+D: quel est votre nom ?
+P: je m'appelle Alain .
+D: bonjour Alain
+P: Bonjour.
+D: bonjour
+P: Bonjour, docteur.
+D: bonjour Alain
+P: Bonjour.
+D: mon nom est Alexis
+P: je suis Alain .
+D: nom
+P: Pardon ?
+D: dzkdozq nom dzz
+P: Je ne comprends pas bien ce que vous demandez.
+D: blabla nom blabla
+P: Pardon ?
+D: votre nom est ?
+P: Alain
+D: quels sont vos symptomes ?
+P: j'ai la tension élevée
+D: depuis quand ?
+P: vous voyez, je ne peux pas vous dire, je ne me rappelle pas
+D: qui vous l' a dit ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: prenez vous des traitements ?
+P: Non
+D: aucun traitement ?
+P: Pas du tout, non
+D: quels est votre alimentation
+P: je n'ai aucun régime spécifique
+D: avez vous des addictions ?
+P: Pas spécialement
+D: faite vous du sport ?
+P: du vélo et je fais de la natation occasionnellement
+D: quel est votre poids ?
+P: je pèse 82 kilos
+D: quel est votre taille ?
+P: je mesure environ 1 mètre 77 centimètres
+D: avez vous des symptomes ?
+P: Uniquement ce que j'ai vous ai dit
+D: avez vous des symptomes ?
+P: Seulement ce que j'ai vous ai dit
+D: vous avez la tension élevée ?
+P: En effet
+D: avez vous des maux de tête ?
+P: Pas du tout, non
+D: avez vous mal au ventre ?
+P: Non, pas spécialement
+D: avez vous des allergies ?
+P: je n'ai pas d'allergie, mais je n'ai jamais fait de tests d'allergies
+D: prenez vous des traitements ?
+P: Pas vraiment
+D: avez vous eu des maladies auparavant ?
+P: Je n'ai jamais eu de maladies importantes .
+D: avez vous été opéré ?
+P: non, je n'ai eu aucune opération
+D: avez vous eu un electrocardiogramme ?
+P: vous voyez, je ne me souviens pas
+D: avez vous eu une échographie ?
+P: vous voyez, je ne me rappelle pas

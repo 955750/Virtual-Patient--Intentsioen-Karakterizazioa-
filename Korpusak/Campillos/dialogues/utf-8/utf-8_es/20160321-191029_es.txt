@@ -1,0 +1,62 @@
+D: Buenos días
+P: Hola.
+D: ¿Cómo estás?
+P: Muy bien. P: Muy bien, gracias.
+D: ¿Qué le trae hoy por aquí?
+P: Así que he venido a sacar una licencia deportiva para participar en una carrera organizada por mi empresa.
+D: ¿Quién es su empleador?
+P: ¿Perdón?
+D: ¿En qué trabaja?
+P: informático
+D: ¿durante cuánto tiempo?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿llevas mucho tiempo trabajando?
+P: Soy informático.
+D: ¿cuál es su peso?
+P: unos 82 kilos
+D: ¿cuál es tu altura?
+P: Mido alrededor de 1 metro 77 centímetros
+D: ¿cuál es tu altura?
+P: Mido 1 metro 77 centímetros
+D: ¿Está usted casado?
+P: divorciado
+D: ¿tiene hijos?
+P: sí, tengo 2... 10 y 8 años
+D: ¿vive usted solo?
+P: no especialmente
+D: ¿cuál es su patrón de alimentación?
+P: ¿Perdón?
+D: ¿cuál es su dieta?
+P: mis hábitos alimenticios son normales
+D: ¿es usted vegetariano?
+P: No tengo una dieta específica
+D: ¿bebes alcohol?
+P: Bebo muy poco, cuando hay fiestas, eso es todo
+D: ¿fumas?
+P: no, no fumo
+D: ¿haces algún deporte?
+P: ciclismo y natación ocasional
+D: ¿tiene alguna enfermedad?
+P: Nunca he tenido ninguna enfermedad importante.
+D: ¿Tiene usted alguna alergia?
+P: No tengo alergias, que yo sepa
+D: ¿Toma alguna medicación?
+P: No especialmente
+D: ¿Tiene una receta reciente?
+P: ¿Perdón?
+D: ¿tiene usted diabetes?
+P: sabes, no sé
+D: ¿tiene usted la presión arterial alta?
+P: ves, no sé
+D: ¿se ha operado alguna vez?
+P: no, no he tenido ninguna operación
+D: ¿tiene algún historial médico?
+P: Nunca he tenido ninguna enfermedad importante.
+D: ¿Tiene algún antecedente familiar?
+P: Ni idea, lo siento, doctor.
+D: ¿tiene algún síntoma?
+P: Tengo la presión arterial alta
+D: Te tomaré la presión arterial
+P: No entiendo muy bien lo que me pregunta.
+D: ¿te gustan las fresas?
+P: verás, suelo hacerlo, pero ni mucho ni poco

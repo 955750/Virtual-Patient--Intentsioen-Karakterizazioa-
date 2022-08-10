@@ -1,0 +1,22 @@
+D: Buenos días,
+P: Hola.
+D: no nos conocemos, es tu primera vez aquí,
+P: ¿Perdón?
+D: ¿Es la primera vez que votamos?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Es la primera vez que nos encontramos?
+P: ¿Perdón?
+D: ¿Has estado en la consulta antes?
+P: ¿Perdón?
+D: ¿tiene usted un médico?
+P: No, no especialmente
+D: ¿nunca estás enfermo?
+P: Nunca he tenido ninguna enfermedad importante.
+D: tienes suerte
+P: No entiendo muy bien lo que me pregunta.
+D: ¿has venido por?
+P: ¿Perdón?
+D: cuál es el motivo de su visita ,
+P: He venido a sacarme la licencia deportiva para participar en una carrera organizada por mi empresa.
+D: De acuerdo.
+P: entonces... ¿algo más?

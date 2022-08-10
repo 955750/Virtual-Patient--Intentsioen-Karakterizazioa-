@@ -1,0 +1,68 @@
+D: bonjour madame
+P: Bonjour, docteur.
+D: je vais vous poser quelques questions pour mieux vous connaitre , afin que la chirugie prévue prochainement se passe au mieux
+P: Pas de problème , docteur
+D: combien pesez-vous ?
+P: environ 62 kilos
+D: quelle est votre taille ?
+P: je mesure environ 1 mètre 65 centimètres
+D: quel métier exercer vous ?
+P: je suis assistante maternelle en crèche .
+D: avez-vous fait d' autres métiers avant celui la ?
+P: À quoi faites-vous référence ? Pouvez-vous me donner plus de précisions ?
+D: vous êtes assistante maternelle depuis combien de temps ?
+P: Pardon ?
+D: avez-vous des enfants ?
+P: oui, j'ai 2 enfants
+D: etes vous mariée ?
+P: je suis mariée
+D: est-ce que vous fumez ?
+P: Oui , je fume
+D: depuis quel âge ?
+P: alors j'ai 41 ans
+D: depuis quand fumez-vous ?
+P: je fume depuis l'âge de 18 ans
+D: combien de cigarette par jour environ ?
+P: je fume 1 paquet par jour
+D: prenez vous des drogues ?
+P: non, je n'ai pas de dépendances.
+D: quelle est votre consommation d' alcool ?
+P: je bois très rarement, quand il y a des fêtes , c'est tout
+D: avez vous des allergies alimentaires ?
+P: je suis seulement allergique au kiwi
+D: avez vous une alimentation équilibrée ?
+P: je suis un régime pour le diabète
+D: votre diabète est-il équilibré ?
+P: je ne sais pas si cela a un rapport mais j'ai de l' hypertension et du diabète non insulinodépendant
+D: prenez vous des traitements ?
+P: Alors, du coversyl pour l' hypertension artérielle et un régime pour le diabète non insulinodépendant .
+D: vous n' avez pas d' insuline ?
+P: Alors, du coversyl pour l' hypertension et un régime pour le diabète non insulinodépendant .
+D: avez vous déjà été hospitalisée ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: etes vous déjà venue à l' hôpital ?
+P: Pardon ?
+D: est ce que vous avez eu des maladies particulières
+P: de l' hypertension artérielle et du diabète non insulinodépendant
+D: dans votre enfance , avez-vous eu des maladies ?
+P: de l' hypertension et du diabète non insulinodépendant
+D: avez vous déjà été opérée ?
+P: Alors, j'ai eu une opération pour enlever les amygdales , une réparation des ligaments du genou droit et une cure de hernie inguinale
+D: et tout s' est bien passé ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: quelle maladie avez-vous eu ?
+P: de l' hypertension artérielle et du diabète non insulinodépendant
+D: comment vous sentez vous aujourd'hui ?
+P: j'ai des douleurs au ventre à droite sous les côtes et plus bas et des vomissements
+D: avez vous pris un médicament pour vous soulager ?
+P: Alors, je prends du paracétamol
+D: vous avez vomi combien de fois ?
+P: vous voyez, juste cette fois
+D: avez vous de la fière ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: fièvre ?
+P: Non, pas ces symptômes.
+D: des maux de tête ?
+P: Non, pas spécialement
+D: des diarrhées ?
+P: Non, rien de tout ça

@@ -1,0 +1,14 @@
+D: Buenos días
+P: Hola.
+D: ¿Por qué has venido?
+P: Bueno, he venido a sacar una licencia deportiva para participar en una carrera organizada por mi empresa.
+D: ¿no hay ningún problema en particular?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Tiene algún problema de salud?
+P: Nunca he tenido ninguna enfermedad importante.
+D: ¿considera que goza de buena salud?
+P: ¿Perdón?
+D: ¿te consideras saludable?
+P: ¿Perdón?
+D: bueno, te echaré un vistazo entonces
+P: No hay problema, doctor, vamos

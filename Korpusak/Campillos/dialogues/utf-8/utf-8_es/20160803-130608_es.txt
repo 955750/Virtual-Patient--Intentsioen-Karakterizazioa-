@@ -1,0 +1,16 @@
+D: Buenas noches
+P: Buenas tardes.
+D: ¿Cómo estás?
+P: Estoy bien. Gracias.
+D: ¿Por qué vienes?
+P: He venido porque me han hecho una radiografía de tórax derecho, y vuelvo como me han pedido menos de 3 horas después de la primera consulta de la mañana.
+D: Ya veo. Deme sus radiografías, por favor.
+P: Efectivamente, me hicieron una radiografía de tórax
+D: Sus radiografías son buenas, una pequeña sombra aquí, pero no es nada.
+P: Así es, me hicieron una radiografía de tórax
+D: tus radiografías están bien, ¿necesitas algo más?
+P: Sólo esto
+D: Bien. No le entretengo más entonces y le deseo una muy buena noche.
+P: No puedo decirte... Pero no tengo preocupaciones
+D: Buenas noches.
+P: Buenas tardes, doctor.

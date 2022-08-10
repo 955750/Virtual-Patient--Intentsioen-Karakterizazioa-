@@ -1,0 +1,10 @@
+D: ¿Fumas?
+P: Nunca he fumado
+D: ¿Bebe usted alcohol?
+P: No me gusta el sabor del alcohol.
+D: ¿Siente que le falta el aire durante el esfuerzo físico?
+P: En absoluto, no
+D: De acuerdo. Puedo darte tu certificado
+P: bueno... ¿es todo doctor?
+D: Sí. Adiós.
+P: Gracias, adiós.

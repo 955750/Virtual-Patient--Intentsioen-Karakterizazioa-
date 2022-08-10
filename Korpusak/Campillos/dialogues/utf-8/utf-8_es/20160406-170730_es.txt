@@ -1,0 +1,54 @@
+D: ¿Cuál es su peso?
+P: 62 kilos
+D: ¿fumas?
+P: Exactamente, yo fumo
+D: ¿cuántos cigarrillos al día?
+P: Fumo 1 paquete al día
+D: ¿Cuánto tiempo llevas fumando?
+P: Llevo fumando desde los 18 años
+D: ¿entonces son 20 años?
+P: ¿A qué se refiere? ¿Puede ser más específico?
+D: ¿Cuánto mide usted?
+P: Mido aproximadamente 1 metro y 65 centímetros
+D: ¿cuál es su profesión?
+P: Soy cuidadora de niños en una guardería.
+D: ¿cuál es su trabajo?
+P: cuidador de niños en una guardería
+D: ¿en qué trabaja?
+P: Soy cuidadora de niños en una guardería.
+D: ¿tiene hijos?
+P: sí, tengo 2 hijos
+D: ¿tienen alguna enfermedad?
+P: hipertensión y diabetes no insulinodependiente
+D: ¿sus hijos?
+P: sí, tengo 2 hijos
+D: ¿sufres?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿es usted alérgico a la penicilina?
+P: Sólo soy alérgico al kiwi
+D: ¿te has operado alguna vez?
+P: Entonces, me han operado de las amígdalas, me han reparado los ligamentos de la rodilla derecha y me han reparado una hernia inguinal
+D: ¿Cuál es su tratamiento habitual?
+P: Así que coversyl para la presión arterial alta y una dieta para la diabetes no dependiente de la insulina.
+D: ¿Haces algún deporte?
+P: caminar ocasionalmente
+D: ¿Se queja de algo en particular?
+P: ¿Perdón?
+D: ¿cuáles son sus síntomas?
+P: Tengo dolores en el estómago a la derecha debajo de las costillas y más abajo y vómitos
+D: ¿por qué me dices esto?
+P: ¿A qué se refiere? ¿Puede darme más detalles?
+D: ¿por qué vienes hoy?
+P: Así que vengo a una consulta antes de una operación para extirpar la vesícula biliar con colangiografía durante la operación.
+D: ¿Quién te ha enviado?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Qué especialista le ha enviado a verme?
+P: Es el doctor Noyer, médico de cabecera
+D: ¿por qué quiere quitarte la vesícula?
+P: Sí, absolutamente, una consulta antes de una operación para extirpar la vesícula biliar con colangiografía durante la operación.
+D: ¿Cuáles son sus quejas sobre la vesícula biliar?
+P: En absoluto, no
+D: ¿quieres operarte?
+P: Así es, sí, una consulta antes de una operación de vesícula con colangiografía durante la operación.
+D: ¿Quién será su cirujano?
+P: Para una consulta antes de una operación de vesícula con colangiografía durante la operación más bien, no un cirujano .

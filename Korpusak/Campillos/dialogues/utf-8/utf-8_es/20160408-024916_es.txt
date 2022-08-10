@@ -1,0 +1,26 @@
+D: co
+P: mme
+D: No, no tengo co pero por otro lado la presión arterial es alta
+P: ¿Perdón?
+D: ¿cuál es su nombre?
+P: Soy Martin.
+D: ¿por qué vienes?
+P: He venido por un dolor de pecho, tos y fiebre.
+D: ¿tiene esputo amarillo? s
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Tienes ceachats amarillos?
+P: ¿Perdón?
+D: ¿tiene esputo amarillo?
+P: amarillo
+D: ¿tiene dificultad para respirar?
+P: Sí, exactamente
+D: ¿tiene crujidos?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿tiene crujidos?
+P: ¿Perdón?
+D: lo tienes pero no lo sabes
+P: No entiendo muy bien lo que me pregunta.
+D: estás en problemas chico
+P: ¿Perdón?
+D: vas a morir, bésate
+P: No entiendo muy bien lo que me pregunta.

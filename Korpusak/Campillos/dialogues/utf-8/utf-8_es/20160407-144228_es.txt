@@ -1,0 +1,6 @@
+D: Buenos días
+P: Hola, doctor.
+D: ¿Cómo estás?
+P: Estoy bien, gracias.
+D: ¿Por qué has venido a verme?
+P: Bueno, he venido a sacar una licencia deportiva para participar en una carrera organizada por mi empresa.

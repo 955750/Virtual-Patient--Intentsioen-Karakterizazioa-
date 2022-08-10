@@ -1,0 +1,64 @@
+D: ¿Por qué vienes?
+P: Vengo a sacarme la licencia deportiva para participar en una carrera organizada por mi empresa.
+D: ¿Qué distancia de carrera?
+P: ciclismo y nado ocasionalmente
+D: ¿tiene algún historial médico?
+P: Nunca he tenido ninguna enfermedad importante.
+D: ¿significativo?
+P: ¿Perdón?
+D: ¿tiene usted diabetes?
+P: ¿Perdón?
+D: ¿diabetes?
+P: verás, no que yo sepa
+D: presión arterial alta ?
+P: ves, no sé
+D: ¿Adicciones?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿cuántos vasos de alcohol bebes al día?
+P: No me gusta el sabor del alcohol.
+D: ¿Fumas?
+P: no, no fumo
+D: ¿cuál es su trabajo?
+P: informático
+D: ¿estás casado?
+P: divorciado
+D: ¿cuánto pesas?
+P: Peso 82 kilos
+D: ¿cuál es tu altura?
+P: 1 metro 77 centímetros
+D: ¿ha tenido alguna vez dolores en el pecho?
+P: verás, no te puedo decir, no me acuerdo
+D: ¿eres alérgico?
+P: No tengo ninguna alergia, pero nunca me he hecho una prueba de alergia
+D: ¿es usted alérgico a la penicilina?
+P: No tengo alergia, pero nunca me he hecho una prueba de alergia
+D: ¿Cómo te va en el trabajo?
+P: Estoy bien. Gracias.
+D: ¿Qué medicación está tomando?
+P: No estoy tomando nada
+D: ¿Nadas mucho?
+P: Exactamente, ciclismo y natación ocasional
+D: ¿Se ha operado alguna vez?
+P: no, no he tenido ninguna operación
+D: ¿tiene usted colesterol?
+P: ya sabes, ni idea
+D: ¿te duele la cabeza?
+P: en absoluto, no
+D: ¿tiene alguna molestia?
+P: no, nada de eso
+D: ¿te has caído alguna vez?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿te has caído alguna vez?
+P: verás, no que yo sepa
+D: ¿te duelen las piernas?
+P: En realidad no
+D: ¿cuáles son sus síntomas?
+P: en este momento tengo la presión arterial alta
+D: ¿tiene usted la presión arterial alta?
+P: sabes, no sé
+D: ¿cuál es su presión arterial?
+P: No lo he medido
+D: ¿Suele latir rápido su corazón?
+P: No, estos síntomas no.
+D: ¿tienes taquicardia?
+P: ¿Perdón?

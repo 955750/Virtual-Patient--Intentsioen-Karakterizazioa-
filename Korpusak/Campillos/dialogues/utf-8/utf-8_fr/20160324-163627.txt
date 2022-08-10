@@ -1,0 +1,38 @@
+D: bonjour
+P: Bonjour, docteur.
+D: comment ça va aujourd'hui ?
+P: Ça va bien. Merci.
+D: quoi de neuf ?
+P: Pardon ?
+D: les efants ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: les enfants ?
+P: oui, j'ai 3 enfants
+D: quel âge ?
+P: Je ne souhaite pas donner cette information.
+D: vous avez des photos ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: comment se passe le traitement ?
+P: Pardon ?
+D: pourquoi venez-vous me voir ?
+P: Alors, je viens parce que j'ai effectué une radio thoracique droite, et je reviens comme demandé moins de 3 heures après la première consultation le matin .
+D: quels sont les résultats de la radio ?
+P: Je vous lis ce qu'on ma donné : « foyer de condensation alvéolaire ». Vous pouvez avoir ça dans le dossier.
+D: ok
+P: alors ... encore autre chose ?
+D: ok
+P: bon ... c'est tout docteur ?
+D: je vois
+P: vous voulez savoir autre chose docteur ?
+D: avez-vous mal à la poitrine ?
+P: Pas du tout, non
+D: la toux ?
+P: Non, pas particulièrement.
+D: fièvre ?
+P: En effet
+D: depuis quand ?
+P: vous voyez, je ne peux pas vous dire, je ne me rappelle pas
+D: quel température avez-vous ?
+P: Je n'ai pas mesuré ma fièvre
+D: je vais vous prescrire du paracétamol
+P: Ça marche , allons-y

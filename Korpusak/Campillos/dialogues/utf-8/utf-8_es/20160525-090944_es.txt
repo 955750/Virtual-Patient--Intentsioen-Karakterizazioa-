@@ -1,0 +1,38 @@
+D: ¿Cuántos años tienes?
+P: Tengo 41 años
+D: ¿cuál es su peso?
+P: unos 62 kilos
+D: ¿cuál es tu altura?
+P: Mido 1 metro y 65 centímetros
+D: ¿trabajas?
+P: un asistente de guardería
+D: ¿estás casado?
+P: casado
+D: ¿tiene hijos?
+P: Tengo 2 hijos
+D: ¿qué edad tienen sus hijos?
+P: No quiero dar esta información.
+D: ¿es usted físicamente activo?
+P: caminar ocasionalmente
+D: ¿Estás a dieta?
+P: Estoy a dieta por la diabetes
+D: ¿qué forma de diabetes tiene?
+P: No sé si esto está relacionado, pero tengo hipertensión arterial y diabetes no insulinodependiente
+D: ¿se ha sometido a alguna otra cirugía
+P: Sólo eso
+D: ¿tiene usted alguna alergia?
+P: Sólo soy alérgico al kiwi
+D: ¿fumas?
+P: Sí que fumo tabaco
+D: cuántos cigarrillos al día fumas
+P: Fumo 1 paquete al día
+D: durante cuánto tiempo
+P: Fumo desde los 18 años
+D: ¿toma alguna medicación para su diabetes?
+P: una dieta para la diabetes no dependiente de la insulina
+D: qué tipo de operación tendrá
+P: Así es, una consulta antes de una operación para extirpar la vesícula, con colangiografía durante la operación.
+D: quién es su cirujano
+P: No entiendo muy bien lo que me pregunta.
+D: quién le operará
+P: Me han operado para quitarme las amígdalas, me han reparado los ligamentos de la rodilla derecha y me han reparado una hernia inguinal

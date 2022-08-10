@@ -1,0 +1,68 @@
+D: bonjour Madame
+P: Bonjour docteur
+D: comment vous sentez vous aujourd'hui ?
+P: j'ai des douleurs au ventre à droite, sous les côtes, et plus bas et des vomissements
+D: d' accord , depuis quand avez-vous ces douleurs ?
+P: j'ai des douleurs au ventre à droite, sous les côtes, et plus bas depuis plusieurs jours déjà
+D: d' accord , et depuis quand avez vous des vomissements ?
+P: vous voyez, je ne me rappelle pas
+D: d' accord , avez-vous d' autres douleurs ?
+P: Seulement ça
+D: pensez-vous que ces douleurs puissent être associées à des mode de vie ?
+P: j'ai des douleurs au ventre à droite, sous les côtes, et plus bas , j'ai des douleurs par crise .
+D: d' accord , combien pesez-vous ?
+P: environ 62 kilos
+D: quelle est votre taille ?
+P: je fais 1 mètre 65 centimètres
+D: c' est très bien
+P: Je ne comprends pas bien ce que vous demandez.
+D: quelle est votre métier madame ,
+P: assistante maternelle en crèche
+D: vous êtes mariée ?
+P: je suis mariée
+D: avez-vous des enfants ?
+P: j'ai 2 enfants
+D: avez-vous déjà eu de telles douleurs dans le passév ?
+P: voulez-vous dire : avez-vous déjà eu de telles douleurs dans le passé ?
+D: oui
+P: j'ai des douleurs au ventre à droite, sous les côtes, et plus bas par contre seulement cette fois
+D: avez-vous des allergies ?
+P: je suis seulement allergique au kiwi
+D: avez-vous certaines addictions ?
+P: Oui , je fume
+D: depuis combien de temps fumez vous ?
+P: depuis l'âge de 18 ans
+D: combien de cigarettes par jour ?
+P: du tabac (1 paquet par jour depuis l'âge de 18 ans)
+D: faites-vous du sport ?
+P: de la marche à pied occasionnelle
+D: pensez-vous essayer d' arrêter de fumer ?
+P: oui, c'est vrai, je dois arrêter
+D: avez-vous déjà essayé d' arrêter de fumer ?
+P: oui, vous avez raison, je devrais arrêter
+D: avez-vous déjà subi des opérations chirurgicales ?
+P: j'ai eu une opération pour enlever les amygdales , une réparation des ligaments du genou droit et une cure de hernie inguinale
+D: quand avez-vous fait cette cure de hernie ?
+P: j'ai eu une cure de hernie inguinale en 2006 .
+D: quand avez-vous fait retiré vos amygdales ?
+P: j'ai eu une opération pour enlever les amygdales dans mon enfance .
+D: quand avez-vous fait cette opération du genou ?
+P: j'ai eu une réparation des ligaments du genou droit en 1996 .
+D: actuellement , ressentez-vous les douleurs évoquées tout à l' heure ?
+P: vous voyez, je ne peux pas vous dire, je ne m'en souviens pas
+D: actuellement , ressentez-vous des douleurs ?
+P: j'ai des douleurs au ventre à droite, sous les côtes, et plus bas , j'ai des douleurs par crise .
+D: avez-vous une alimentation équilibrée ?
+P: je suis un régime pour le diabète
+D: vous êtes diabétique donc ?
+P: Oui, tout à fait de l' hypertension et du diabète non insulinodépendant
+D: depuis quand êtes vous diabétique ?
+P: vous voyez, je ne m'en souviens pas
+D: suivez-vous un traitement pour le diabète ?
+P: un antihypertenseur pour l' hypertension artérielle et un régime pour le diabète non insulinodépendant . Peut-être qu'il y a plus d'informations dans mon dossier.
+D: d' accord je vais regarder , merci ,
+P: De rien.
+D: bonne fin de journée
+P: Pardon ?
+D: aurevoir
+P: est-ce que vous voulez dire : au revoir ?

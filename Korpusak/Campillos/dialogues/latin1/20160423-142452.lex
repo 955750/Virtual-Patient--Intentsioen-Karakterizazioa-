@@ -1,0 +1,60 @@
+D: monsieur bonjour
+P: Bonjour docteur.
+D: je vais vous poser quelques questions , merci d' y répondre le plus sincèrement possible
+P: Je vous en prie.
+D: tout d' abord je vais vous demande votre nom ?
+P: je m'appelle Alain .
+D: parfait , que faites vous dans la vie Alain ?
+P: je suis informaticien .
+D: depuis combien de temps ?
+P: Pardon ?
+D: depuis combien de temps êtes vous informaticien ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: d' accord , passons . etes vous marié ?
+P: divorcé
+D: avez vous des enfants ?
+P: j'en ai 2 . De 10 et 8 ans
+D: avez vous des animaux ?
+P: non, je n'ai aucun animal
+D: avez vous des allergies ?
+P: je n'ai pas d'allergie, mais je n'ai jamais fait de tests d'allergies
+D: d' accord , puis-je connaitre votre poids ?
+P: environ 82 kilos
+D: ainsi que votre taille ?
+P: je mesure environ 1 mètre 77 centimètres
+D: parfait , concernant votre alimentation , comment la jugiez vous ?
+P: je n'ai aucun régime spécifique
+D: donc vous mangez de tout ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: etes vous quelqu' un de sportif ?
+P: Pardon ?
+D: faites vous du sport ?
+P: du vélo et je fais de la natation occasionnellement
+D: a quel fréquence faites vous du vélo ?
+P: Exactement du vélo et je fais de la natation occasionnellement
+D: vous faites beaucoup de vélo ?
+P: En effet du vélo et je fais de la natation occasionnellement
+D: dans votre entourage , est-ce qu' il existe différents problèmes de santé ?
+P: Je n'ai jamais eu de maladies notables .
+D: d' accord , quelles sont les raisons de votre consultation ?
+P: je viens pour établir une licence de sport, pour participer à une course à pied organisée par mon employeur .
+D: avez vous déja participé à une course à pied ?
+P: du vélo et je fais de la natation occasionnellement
+D: consommez vous des drogues ?
+P: non, je n'ai pas de dépendances.
+D: avez vous un penchant pour l' alcool ?
+P: Je n'aime pas le goût de l'alcool.
+D: donc vous ne buvez jamais ?
+P: Je bois très rarement, quand il y a des fêtes, c'est tout.
+D: avez vous déja eu des problémes cardiaques ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: avez vous des problèmes cardiaques ?
+P: Non, pas spécialement
+D: avez vous déja subi des opérations ?
+P: je n'ai jamais été opérée
+D: vous n' avez pas mal quelques part ?
+P: Non. Pas ces symptômes.
+D: vous ne souffrez pas d' asthme ?
+P: aucune idée
+D: prenez vous des medicaments ?
+P: Non. Pas du tout

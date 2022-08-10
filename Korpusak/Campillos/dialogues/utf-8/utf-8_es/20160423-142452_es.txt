@@ -1,0 +1,60 @@
+D: Buenos días, señor
+P: Buenos días, doctor.
+D: Voy a hacerle algunas preguntas, por favor, contéstelas con la mayor sinceridad posible
+P: Por favor.
+D: en primer lugar te voy a preguntar tu nombre.
+P: me llamo Alain.
+D: Perfecto, ¿qué haces en la vida Alain?
+P: Soy informático.
+D: ¿Cuánto tiempo lleva siendo informático?
+P: ¿Perdón?
+D: ¿cuánto tiempo lleva siendo informático?
+P: No entiendo muy bien lo que me pregunta.
+D: Vale, sigamos. ¿Estás casado?
+P: divorciado
+D: ¿tiene hijos?
+P: Yo tengo dos. 10 y 8 años
+D: ¿tiene usted alguna mascota?
+P: no, no tengo mascotas
+D: ¿tiene usted alguna alergia?
+P: No tengo ninguna alergia, pero nunca me he hecho una prueba de alergia
+D: Vale, ¿puedo saber tu peso?
+P: unos 82 kilos
+D: ¿y su altura?
+P: Mido aproximadamente 1 metro y 77 centímetros
+D: Genial, ¿y tu dieta, cómo la calificarías?
+P: No tengo ninguna dieta específica
+D: ¿así que te lo comes todo?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Es usted una persona deportista?
+P: ¿Perdón?
+D: ¿Haces algún deporte?
+P: ciclismo y nado ocasionalmente
+D: ¿Con qué frecuencia practica el ciclismo?
+P: Exactamente ciclismo y nado ocasionalmente
+D: ¿Va mucho en bicicleta?
+P: Efectivamente, voy en bicicleta y nado de vez en cuando
+D: ¿Hay problemas de salud en su entorno?
+P: Nunca he tenido ninguna enfermedad destacable.
+D: Bien, ¿cuáles son los motivos de su consulta?
+P: Vengo a establecer una licencia deportiva, para participar en una carrera organizada por mi empresa.
+D: ¿Ha participado alguna vez en una carrera?
+P: ciclismo y natación ocasional
+D: ¿Consumes drogas?
+P: no, no tengo ninguna adicción.
+D: ¿Tiene usted afición por el alcohol?
+P: No me gusta el sabor del alcohol.
+D: ¿Así que nunca bebes?
+P: Bebo muy poco, cuando hay fiestas, eso es todo.
+D: ¿Ha tenido alguna vez problemas de corazón?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Tiene algún problema de corazón?
+P: No, no especialmente
+D: ¿Se ha operado alguna vez?
+P: Nunca me he operado
+D: ¿No tienes dolor en ningún sitio?
+P: No, no lo he hecho. No estos síntomas.
+D: ¿usted no sufre de asma?
+P: ni idea
+D: ¿toma alguna medicación?
+P: No. En absoluto

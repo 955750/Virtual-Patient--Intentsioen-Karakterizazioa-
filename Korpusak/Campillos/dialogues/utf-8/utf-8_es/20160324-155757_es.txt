@@ -1,0 +1,18 @@
+D: Hola, ¿a qué operación se somete?
+P: Así es, una consulta antes de una operación para extirpar la vesícula biliar con colangiografía durante la operación.
+D: ¿Se ha operado alguna vez?
+P: Me operaron para quitarme las amígdalas, me repararon los ligamentos de la rodilla derecha y me repararon una hernia inguinal
+D: ¿Tiene usted alguna alergia?
+P: Sólo soy alérgico al kiwi
+D: ¿Bebe usted alcohol?
+P: Bebo muy poco, cuando hay fiestas, eso es todo
+D: ¿Tiene alguna prueba reciente?
+P: verás, no me acuerdo
+D: ¿has hecho un ECG?
+P: verás, no te puedo decir, no me acuerdo
+D: ¿fuma regularmente?
+P: sí, exactamente, yo fumo
+D: ¿con qué frecuencia?
+P: Fumo 1 paquete al día
+D: ¿durante cuánto tiempo?
+P: Fumo desde los 18 años

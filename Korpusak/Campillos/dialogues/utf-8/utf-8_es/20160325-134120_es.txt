@@ -1,0 +1,60 @@
+D: Buenos días, señora.
+P: Hola, doctor.
+D: ¿qué le hizo consultar?
+P: ¿Perdón?
+D: ¿para qué consultas?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿ha tenido alguna enfermedad?
+P: hipertensión arterial y diabetes no insulinodependiente
+D: ¿Se ha sometido a alguna operación quirúrgica?
+P: Me han operado de amígdalas, me han reparado los ligamentos de la rodilla derecha y me han reparado una hernia inguinal
+D: ¿Está tomando alguna medicación?
+P: Así que coversyl para la presión arterial alta y una dieta para la diabetes no dependiente de la insulina.
+D: ¿Fumas?
+P: Sí, lo sé
+D: ¿Cuánto fumas?
+P: Fumo 1 paquete al día
+D: ¿cuánto tiempo llevas fumando?
+P: Llevo fumando desde los 18 años
+D: ¿bebes alcohol?
+P: Bebo muy poco, cuando hay fiestas, eso es todo
+D: ¿Tomas drogas?
+P: ¿Perdón?
+D: ¿Tienes alguna adicción?
+P: Sí, fumo
+D: ¿tomas drogas?
+P: No, no tengo ninguna adicción.
+D: ¿Tiene usted alguna alergia?
+P: Sólo soy alérgico al kiwi
+D: ¿qué reacciones tienes después de comer kiwi?
+P: verás, lo como regularmente, pero no demasiado
+D: ¿comes kiwi?
+P: verás, suelo tomar un poco, pero ni mucho ni poco
+D: ¿es usted alérgico al kiwi?
+P: Sólo soy alérgico al kiwi
+D: ¿cuáles son sus síntomas?
+P: Tengo dolores de estómago en el lado derecho debajo de las costillas y abajo y vómitos
+D: ¿desde cuándo tienes estos síntomas?
+P: Llevo varios días con dolores de estómago en el lado derecho bajo las costillas y en la parte inferior
+D: ¿Cuánto mide usted?
+P: Mido aproximadamente 1 metro y 65 centímetros
+D: ¿Cuánto pesas?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Cuánto pesas?
+P: unos 62 kilos
+D: ¿cuál es su trabajo?
+P: Soy asistente de guardería.
+D: ¿estás casado?
+P: casado
+D: ¿eres fiel?
+P: ¿Perdón?
+D: ¿tiene varias parejas sexuales?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿tiene hijos?
+P: sí, tengo 2 hijos
+D: ¿son tus hijos unos imbéciles?
+P: sí, tengo 2 hijos
+D: ¿Sus hijos son varones?
+P: sí, tengo 2 hijos
+D: ¿chicos?
+P: sí, tengo 2 hijos

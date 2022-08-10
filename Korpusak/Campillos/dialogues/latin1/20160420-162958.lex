@@ -1,0 +1,24 @@
+D: bonjour . je suis le médecin qui va s' occuper de vous . pour commencer , j' aurais besoin de quelques informations vous concernant . quel est votre poids ?
+P: 62 kilos
+D: quel est votre taille ?
+P: 1 mètre 65 centimètres
+D: quel métier exercez-vous ?
+P: je suis assistante maternelle en crèche .
+D: avez-vous des enfants ?
+P: j'ai 2 enfants
+D: avez-vous des addictions ?
+P: En effet , je fume
+D: pratiquez-vous une activité physique ?
+P: de la marche à pied occasionnelle
+D: avez-vous des allergies ?
+P: je suis seulement allergique au kiwi
+D: avez vous déjà eu des maladies graves ?
+P: de l' hypertension et du diabète non insulinodépendant
+D: etes vous suivie pour ces maladies ?
+P: de l' hypertension artérielle et du diabète non insulinodépendant
+D: avez-vous des traitements ?
+P: du coversyl pour l' hypertension et un régime pour le diabète non insulinodépendant .
+D: quel régime suivez-vous ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: avez vous eu des opérations ?
+P: j'ai eu une opération pour enlever les amygdales , une réparation des ligaments du genou droit et une cure de hernie inguinale

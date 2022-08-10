@@ -1,0 +1,2 @@
+cat fitxIzena | xclip -selection c
+

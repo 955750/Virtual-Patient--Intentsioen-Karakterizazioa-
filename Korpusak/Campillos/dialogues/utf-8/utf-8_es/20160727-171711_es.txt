@@ -1,0 +1,56 @@
+D: Buenos días, para empezar voy a comprobar la información que tenemos sobre usted, ¿está de acuerdo?
+P: OK
+D: ¿cuál es su nombre?
+P: me llamo Irene Claudel.
+D: ¿Irene es tu nombre y Claudel tu apellido?
+P: Irene Claudel
+D: ¿cuál es su altura exacta?
+P: Mido aproximadamente 1 metro y 65 centímetros
+D: ¿y su peso?
+P: 62 kilos
+D: muy bien.
+P: ¿algo más?
+D: Veo que no hemos rellenado tus actividades físicas. ¿Cuáles son?
+P: caminar ocasionalmente
+D: ¿con una diferencia de altitud?
+P: ¿Perdón?
+D: ¿Pasas principalmente por la calle?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Pasas principalmente por la calle?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Qué distancia suele recorrer a pie?
+P: ¿Perdón?
+D: Muy bien.
+P: ¿algo más que quiera saber doctor?
+D: ¿cuál es su dieta?
+P: Estoy a dieta por la diabetes
+D: ¿qué tipo de diabetes?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿así que tienes diabetes desde que naciste?
+P: Sí hipertensión y diabetes no insulinodependiente
+D: ¿te has operado alguna vez?
+P: Me han operado para quitarme las amígdalas, me han reparado los ligamentos de la rodilla derecha y me han reparado una hernia inguinal
+D: ¿A qué anestesista consultó en esos momentos?
+P: Dr. Noyer, médico de cabecera
+D: un médico generalista no puede realizar la anestesia.
+P: Espera a que me acuerde... Dr. Noyer, médico de cabecera
+D: ¿cuál es la operación que va a realizar en los próximos días?
+P: No sé... En dos semanas, creo. Puede haber más información en mi expediente.
+D: ¿Te duele algo?
+P: Tengo dolor en el estómago en el lado derecho, debajo de las costillas, y más abajo, en arrebatos.
+D: Suena a apendicitis.
+P: en realidad no
+D: ¿qué te parece?
+P: ¿Perdón?
+D: ¿tiene usted alguna alergia?
+P: Sólo soy alérgico al kiwi
+D: ¿la piel o la fruta?
+P: Lo como regularmente, pero no demasiado
+D: ¿Alergia en la piel?
+P: Sólo soy alérgico al kiwi
+D: ¿alérgico a la piel del kiwi?
+P: Sólo soy alérgico al kiwi
+D: ¿Usa lentes de contacto?
+P: No. En absoluto
+D: ¿y las gafas?
+P: No.

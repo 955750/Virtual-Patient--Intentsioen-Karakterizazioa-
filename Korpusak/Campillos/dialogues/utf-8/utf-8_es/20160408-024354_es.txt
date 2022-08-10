@@ -1,0 +1,40 @@
+D: Buenos días
+P: Buenos días.
+D: ¿Qué pasa?
+P: Entonces, estoy aquí para confirmar la presencia de hipertensión esencial.
+D: ¿Con qué frecuencia haces deporte?
+P: 30 minutos de paseo, 3 veces a la semana y bicicleta y natación, no regularmente
+D: ¿qué haces el fin de semana?
+P: 30 minutos de paseo, 3 veces a la semana y bicicleta y natación, no regularmente
+D: ¿Y durante la semana?
+P: ¿Perdón?
+D: ¿qué haces durante la semana?
+P: 30 minutos de caminata, 3 veces por semana y bicicleta y natación, no regularmente
+D: ¿nunca descansas?
+P: No entiendo muy bien lo que me pregunta.
+D: ir al bistró mi hombre
+P: No entiendo muy bien lo que me pregunta.
+D: ¿ha tenido algún dolor en el pecho
+P: No, nada de eso
+D: ¿cuál es su presión arterial?
+P: No lo he medido
+D: ¿Y yo qué?
+P: ¿Perdón?
+D: ¿tienes esposa?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿tienes esposa?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Está usted casado?
+P: Estoy divorciado
+D: ¿tienes novia?
+P: ¿Perdón?
+D: ¿qué edad tienes? *
+P: No entiendo muy bien lo que me pregunta.
+D: ¿qué edad tienes?
+P: así que tengo 44 años
+D: ¿eres martin?
+P: ¿Perdón?
+D: ¿cuál es su nombre?
+P: Soy Alain.
+D: alain P ?
+P: No entiendo muy bien lo que me pregunta.

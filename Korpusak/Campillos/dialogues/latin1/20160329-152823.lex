@@ -1,0 +1,22 @@
+D: avez-vous vu un autre médecin que moi ?
+P: je ne me souviens pas
+D: suis-je le premier médecin que vous voyez ?
+P: je ne peux pas vous dire, je ne me souviens pas
+D: qu' est-ce qui vous amène ?
+P: Alors, je viens pour confirmer la présence d'hypertension artérielle essentielle .
+D: comment savez-vous que c' est une hypertension artérielle essentielle ?
+P: vous voyez, aucune idée
+D: pourquoi confirmer ?
+P: Pardon ?
+D: pourquoi voulez-vous confirmer la présence d' un hypertension artérielle essentielle ?
+P: vous voyez, je ne sais pas
+D: qui vous a dit que vous aviez une hypertension artérielle essentielle ?
+P: vous voyez, pas à ma connaissance
+D: avez-vous déjà fait des tests ?
+P: on m'a fait un bilan lipidique à jeun
+D: quels en étaient les résultats ?
+P: Je vous lis ce qu'on ma donné : « LDL 2.0g/l ». Vous devez avoir ça dans le dossier.
+D: avez-vous mesuré votre tension artérielle ?
+P: Je n'ai pas pris ma tension dernièrement
+D: êtes-vous fatigué ?
+P: Non, pas ces symptômes.

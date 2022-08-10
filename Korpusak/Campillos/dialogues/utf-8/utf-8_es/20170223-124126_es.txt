@@ -1,0 +1,28 @@
+D: Buenos días
+P: Hola, doctor.
+D: Estoy escuchando
+P: No entiendo muy bien lo que me pregunta.
+D: ¿cuál es su problema?
+P: Estoy aquí para obtener una licencia deportiva, para participar en una carrera organizada por mi empresa.
+D: Bien, empezaré con algunas preguntas antes de examinarte
+P: ¿algo más que quiera saber doctor?
+D: ¿cuánto pesas?
+P: Peso 82 kilos
+D: ¿cuál es tu altura?
+P: 1 metro 77 centímetros
+D: además de correr, ¿haces algún otro deporte?
+P: ciclismo y natación ocasional
+D: ah, ¿entonces tal vez haces triatlones a veces?
+P: ¿Perdón?
+D: ¿vive usted solo?
+P: No puedo responder a esta pregunta [No hay información en el expediente] D: ¿tiene una actividad profesional?
+D: ¿tiene una actividad profesional?
+P: Soy informático.
+D: ¿ha tenido alguna enfermedad recientemente?
+P: Nunca he tenido ninguna enfermedad destacable.
+D: ¿alguna alergia?
+P: No tengo ninguna alergia, que yo sepa
+D: ¿Así que ahora te sientes saludable?
+P: Afortunadamente, nunca he tenido ninguna enfermedad grave.
+D: gracias
+P: De nada.

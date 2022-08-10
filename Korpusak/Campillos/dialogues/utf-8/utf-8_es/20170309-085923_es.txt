@@ -1,0 +1,64 @@
+D: Hola, ¿por qué vienes a verme?
+P: Hola doctor, una consulta antes de una operación para extirpar la vesícula biliar, con colangiografía durante la operación.
+D: ¿cuál es su peso?
+P: Peso 62 kilos
+D: ¿y su altura?
+P: Mido aproximadamente 1 metro y 65 centímetros
+D: ¿Por qué te operan?
+P: Tengo dolores en el estómago en el lado derecho, debajo de las costillas y más abajo y vomito
+D: ¿llevas mucho tiempo enfermo?
+P: ¿A qué se refiere? ¿Puede darme más detalles?
+D: ¿cuándo hay que operarse?
+P: No sé... Creo que en dos semanas. Puede haber más información en mi expediente.
+D: ¿Se ha operado antes?
+P: Me han operado para quitarme las amígdalas, me han reparado los ligamentos de la rodilla derecha y me han reparado una hernia inguinal
+D: ¿Te han anestesiado?
+P: Tuve anestesia espinal para la reparación del ligamento de la rodilla derecha, anestesia general para la reparación de la hernia inguinal y ni idea de la operación para quitar las amígdalas
+D: ¿cómo se las arregló con estas anestesias?
+P: Recuerdo que tuve náuseas y vómitos después de la operación de hernia inguinal.
+D.: ¿Entonces durante la anestesia general?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Practica algún deporte?
+P: caminar ocasionalmente
+D: ¿tiene hijos?
+P: Tengo 2 hijos
+D: ¿Qué edad tienen?
+P: No puedo responder a su pregunta [No hay información en el expediente] D: ¿fuma usted?
+D: ¿fumas?
+P: tabaco (1 paquete al día desde los 18 años)
+D: ¿has parado alguna vez?
+P: tabaco (1 paquete al día desde los 18 años)
+D: ¿Bebes?
+P: No, no especialmente
+D: ¿a qué se dedica?
+P: auxiliar de enfermería en una guardería
+D: ¿así que ves a muchos niños?
+P: Tengo 2 hijos
+D: ¿tiene alguna alergia alimentaria?
+P: Sólo soy alérgico al kiwi
+D: ¿toma alguna medicación en particular?
+P: Tomo un analgésico. Quizá haya más información en mi expediente.
+D: ¿durante mucho tiempo?
+P: Tomo un analgésico durante 5 días hasta la fecha de la operación
+D: ¿ningún otro tratamiento?
+P: Un antihipertensivo para la hipertensión y una dieta para la diabetes no insulinodependiente. Quizá haya más información en mi expediente.
+D: ¿Cómo se trata la diabetes?
+P: verás, no me acuerdo
+D: ¿estás a dieta?
+P: verás, no me acuerdo
+D: ¿te preocupa la cirugía?
+P: No tuve problemas después de la operación de extirpación de amígdalas y náuseas y vómitos después de la reparación de la hernia inguinal.
+D: ¿Por qué hay que extirpar la vesícula biliar?
+P: ¿Perdón?
+D: ¿Por qué necesita ser operado?
+P: sólo lo que te dije
+D: ¿no piensas dejar de fumar?
+P: tabaco (1 paquete al día desde los 18 años)
+D: ¿Cómo se sentía antes de la operación?
+P: Me han operado para quitarme las amígdalas, una reparación de ligamentos en la rodilla derecha y una reparación de hernia inguinal
+D: ¿Estás cansado?
+P: No, no especialmente.
+D: ¿Tienes fiebre?
+P: No, no especialmente. No estos síntomas.
+D: ¿y algún otro síntoma?
+P: Sólo que

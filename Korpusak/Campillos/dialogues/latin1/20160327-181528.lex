@@ -1,0 +1,76 @@
+D: bonjour monsieur
+P: Bonjour.
+D: pourquoi venez-vous me voir aujourd'hui ?
+P: Alors, je viens pour une douleur à la poitrine, toux et fièvre .
+D: quel est votre age ?
+P: j'ai 62 ans
+D: et votre taille ?
+P: je mesure environ 174
+D: et votre poids ?
+P: 78 kilos
+D: depuis quand avez vous mal à la poitrine ?
+P: j'ai des douleurs de poitrine à droite depuis hier soir à 20 heures
+D: quelle est l' intensité des douleurs ?
+P: j'ai des douleurs de poitrine à droite depuis hier soir à 20 heures
+D: avez vous déjà eu des douleurs comme celle là ?
+P: je n'ai jamais eu ces symptômes dans le passé.
+D: êtes vous suivi par un cardiologue ?
+P: Pas vraiment
+D: êtes vous suivi par d' autres spécialités ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: êtes vous suivi par des médecins spécialistes ?
+P: Non
+D: fumez vous ?
+P: Oui, exactement , je fume
+D: depuis combien de temps ?
+P: je fume depuis l'âge de 20 ans
+D: et combien de cigarette par jour ?
+P: je fume 20 cigarettes par jour
+D: est-ce que vous êtes diabétique ?
+P: Pas spécialement
+D: avez vous du cholestérol ?
+P: Pas du tout, non
+D: faites vous du sport ?
+P: le jardinage, traite les cultures avec des produits phytosanitaires
+D: avez vous des allergies ?
+P: à ma connaissance, je n'ai aucune allergie
+D: prenez vous des traitements ?
+P: Alors, du co-renitec pour l' hypertension
+D: votre tension est à combien ?
+P: Je n'ai pas mesuré ma tension
+D: avez vous déjà eu des maladieS ?
+P: de l' hypertension artérielle
+D: avez vous déjà été opéré ?
+P: Alors, j'ai eu une hernie inguinale droite et une opération de l'appendicite
+D: des antécédents familiaux ?
+P: Aucune idée, je suis désolé, docteur.
+D: êtes vous marié ?
+P: marié
+D: avez vous des enfants ?
+P: oui, j'ai 3 enfants
+D: comment vous sentez vous aujourd'hui ?
+P: alors, plusieurs problèmes, j'ai de la fièvre , de la sueur et des difficultés à respirer
+D: êtes vous essouflé ?
+P: Oui
+D: êtes vous essouflés lorsque vous êtes asso ?
+P: Pardon ?
+D: êtes vous essouffles lorsque vous êtes assi ?
+P: En effet
+D: comment est votre toux ?
+P: sèche
+D: avez vous des crachats ?
+P: Oui, exactement
+D: avez vous des crachats jaunes ?
+P: jaunes
+D: avez vous des sueurs ?
+P: Exactement
+D: et des frissons ?
+P: En effet
+D: est-ce que vous avez pris votre température ?
+P: 38,9° à droite, 39,2° à gauche
+D: quel était votre profession ?
+P: je suis retraité, mais je suis ancien maraîcher .
+D: vos vaccins sont-ils à jour ?
+P: Oui, exactement les vaccins sont à jour, mais j'ai été malade après la vaccination contre la grippe à 65 ans
+D: quel age avez vous ?
+P: j'ai 62 ans

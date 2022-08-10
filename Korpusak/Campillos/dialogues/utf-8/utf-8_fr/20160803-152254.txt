@@ -1,0 +1,82 @@
+D: bonjour madame , comment allez-vous ?
+P: Bonjour. Ça va bien. Merci.
+D: pourquoi me consultez-vous ?
+P: je viens pour une consultation avant une opération pour enlever la vésicule biliaire, avec cholangiographie pendant l'intervention .
+D: je vais avoir besoin de plusieurs informations
+P: Je ne comprends pas bien ce que vous demandez.
+D: quel est votre poids ?
+P: je pèse 62 kilos
+D: votre taille ?
+P: 1 mètre 65 centimètres
+D: votre métier ?
+P: je suis assistante maternelle en crèche .
+D: est-ce que c' est bien rémunéré ?
+P: vous voulez savoir autre chose docteur ?
+D: avez-vous des enfants ?
+P: j'ai 2 enfants
+D: êtes vous mariées ?
+P: Pardon ?
+D: êtes vous mariée ?
+P: mariée
+D: vos parents ont-ils eu des problèmes médicaux ?
+P: j'ai des douleurs au ventre à droite, sous les côtes, et plus bas et des vomissements
+D: et vos parents ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: avez-vous des parents ?
+P: Pardon ?
+D: votre père est-il encore en vie ?
+P: Aucune idée. Je suis désolé docteur.
+D: connaissez-vous votre père ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: qui est votre père ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: votre mère a-t-elle des problèmes ?
+P: Pardon ?
+D: votre mère est-elle en bonne santé ?
+P: En bonne santé.
+D: et votre père ?
+P: Pardon ?
+D: votre père est-il en bonne santé ?
+P: Heureusement, en bonne santé.
+D: pourquoi ?
+P: Pardon ?
+D: y-a-t-il des maladies héréditaires dans votre famille ?
+P: Je n'en sais rien, je suis désolé docteur.
+D: ce n' est pas grave
+P: Je ne comprends pas bien ce que vous demandez.
+D: avez vous une alimentation particulière ?
+P: je suis un régime pour le diabète
+D: êtes vous diabétique ?
+P: Oui de l' hypertension et du diabète non insulinodépendant
+D: avez vous une pathologie ?
+P: de l' hypertension artérielle et du diabète non insulinodépendant
+D: une autre ?
+P: Seulement ce que j'ai vous ai dit
+D: allez , vous pouvez me le dire !
+P: Pardon ?
+D: en quoi consiste votre régime pour le diabète ?
+P: Ouais de l' hypertension et du diabète non insulinodépendant
+D: on dit pas ouais
+P: encore autre chose ?
+D: oui , mangez-vous beaucoup de viande ?
+P: J'en prends habituellement, mais ni trop ni trop peu
+D: et des légumes ?
+P: J'en prends comme tout le monde, sans excès
+D: de l' alcool ?
+P: Je n'aime pas le goût de l'alcool.
+D: vraiment ?
+P: Tout à fait
+D: cocaïne ?
+P: non, je n'ai pas de dépendances.
+D: même au cachet d' aspirine ?
+P: un antihypertenseur pour l' hypertension artérielle , et un régime pour le diabète non insulinodépendant . Peut-être il y a plus d'informations dans mon dossier.
+D: vous fumez ?
+P: En effet , tabac (1 paquet par jour depuis l'âge de 18 ans)
+D: ce n' est pas très bien !
+P: Je ne comprends pas bien ce que vous demandez.
+D: voulez-vous arrêter de fumer ?
+P: Exactement , tabac (1 paquet par jour depuis l'âge de 18 ans)
+D: consommez vous beaucoup de sucreries ?
+D: oubliez ma question
+D: pratiquez vous un sport ?
+D: êtes vous là ?

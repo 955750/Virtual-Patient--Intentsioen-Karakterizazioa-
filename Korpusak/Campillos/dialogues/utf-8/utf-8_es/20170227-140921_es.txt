@@ -1,0 +1,40 @@
+D: ¿Cuántos años tienes?
+P: Tengo 41 años
+D: ¿cuánto pesas?
+P: 62 kilos
+D: ¿haces algún deporte?
+P: caminar ocasionalmente
+D: ¿fuma o bebe?
+P: tabaco (1 paquete al día desde los 18 años)
+D: ¿comes muchos embutidos o dulces?
+P: Las tomo como todo el mundo, sin excesos
+D: ¿Ha sido operado alguna vez con anestesia?
+P: Tuve anestesia espinal para la reparación de los ligamentos de la rodilla derecha, anestesia general para la reparación de la hernia inguinal y ni idea de la operación para extirpar las amígdalas
+D: ¿hubo alguna complicación antes o después de alguna de estas operaciones?
+P: Recuerdo que no tuve problemas después de la operación de amígdalas y náuseas y vómitos después de la operación de hernia inguinal.
+D: ¿Cómo te sientes?
+P: ¿quieres decir: cómo te sientes?
+D: sí
+P: Tengo dolor en el estómago a la derecha, debajo de las costillas, y más abajo y vómitos
+D: ¿durante cuánto tiempo?
+P: Hace varios días que tengo dolores en el estómago derecho, debajo de las costillas y más abajo
+D: ¿cuándo empezaron los vómitos?
+P: verás, no te puedo decir, no me acuerdo
+D: ¿tiene hijos?
+P: Tengo 2 hijos
+D: ¿qué edad tienen?
+P: No puedo responderte [Esta información no está en el expediente] D: ¿tu padre o tu madre lo son?
+D: ¿Su padre o su madre tuvieron operaciones similares a las suyas?
+P: Me han operado para quitarme las amígdalas, una reparación de ligamentos en la rodilla derecha y una reparación de hernia inguinal
+D: ¿y tus padres?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Conoce algún antecedente familiar de sus síntomas?
+P: Justo lo que te dije
+D: Comprobaré tus costillas
+P: Sólo que
+D: deberías ver a un gastroenterólogo
+P: ¿Perdón?
+D: pedir cita con un especialista del aparato digestivo
+P: Dr. Noyer, médico de cabecera
+D: Te haré una receta de analgésicos
+P: Me parece bien todo eso

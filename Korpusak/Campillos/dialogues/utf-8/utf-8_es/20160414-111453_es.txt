@@ -1,0 +1,10 @@
+D: Buenos días
+P: Hola.
+D: ¿Cómo estás?
+P: Muy bien, gracias.
+D: ¿por qué vienes?
+P: No entiendo muy bien lo que me pregunta.
+D: heho
+P: ¿Perdón?
+D: ¿por qué vienes?
+D: ¿por qué vienes?

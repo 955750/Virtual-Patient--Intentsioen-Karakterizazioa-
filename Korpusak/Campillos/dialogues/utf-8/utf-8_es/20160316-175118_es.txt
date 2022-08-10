@@ -1,0 +1,20 @@
+D: ¿Cuál es su tratamiento actual?
+P: Así que co-renitec para la presión arterial alta
+D: ¿Desde cuándo toma usted el co-renitec?
+P: Así que he estado tomando co-renitec durante 10 años
+D: ¿Te duele algo?
+P: No, estos síntomas no.
+D: ¿Qué sientes?
+P: En este momento tengo fiebre y fatiga
+D: ¿cuál es su temperatura?
+P: No me he tomado la temperatura
+D: ¿cuánto tiempo has estado cansado?
+P: verás, no te puedo decir, no me acuerdo
+D: ¿Estás tosiendo?
+P: No, nada de eso
+D: ¿fumas?
+P: Así es, lo hago
+D: ¿Cuántos cigarrillos?
+P: Fumo 20 cigarrillos al día
+D: ¿Cuántos paquetes?
+P: Fumo 20 cigarrillos al día

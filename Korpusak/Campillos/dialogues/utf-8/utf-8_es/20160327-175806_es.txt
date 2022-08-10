@@ -1,0 +1,68 @@
+D: Buenos días, señora.
+P: Hola, doctor.
+D: Voy a hacerte unas preguntas para conocerte mejor, para que la intervención quirúrgica prevista para un futuro próximo salga lo mejor posible
+P: No hay problema, doctor
+D: ¿Cuánto pesas?
+P: unos 62 kilos
+D: ¿Cuánto mide usted?
+P: Mido aproximadamente 1 metro y 65 centímetros
+D: ¿a qué se dedica?
+P: Soy cuidadora de niños en una guardería.
+D: ¿has hecho algún otro trabajo antes de éste?
+P: ¿A qué se refiere? ¿Puede darme más detalles?
+D: ¿Desde cuándo es usted cuidador de niños?
+P: ¿Perdón?
+D: ¿tiene hijos?
+P: sí, tengo 2 hijos
+D: ¿estás casado?
+P: Estoy casado
+D: ¿fumas?
+P: sí, lo sé
+D: ¿qué edad tienes?
+P: así que tengo 41 años
+D: ¿cuánto tiempo llevas fumando?
+P: Llevo fumando desde los 18 años
+D: ¿cuántos cigarrillos al día?
+P: Fumo 1 paquete al día
+D: ¿tomas drogas?
+P: no, no tengo ninguna adicción.
+D: ¿Cuánto alcohol bebes?
+P: Bebo muy poco, cuando hay fiestas, eso es todo
+D: ¿Tiene alguna alergia alimentaria?
+P: Sólo soy alérgico al kiwi
+D: ¿Tienes una dieta equilibrada?
+P: Estoy haciendo una dieta para la diabetes
+D: ¿está su diabetes equilibrada?
+P: No sé si esto está relacionado, pero tengo hipertensión arterial y diabetes no insulinodependiente
+D: ¿Está tomando alguna medicación?
+P: Así que coversyl para la presión arterial alta y una dieta para la diabetes no insulino dependiente.
+D: ¿No tienes insulina?
+P: Así que coversyl para la presión arterial alta y una dieta para la diabetes no dependiente de la insulina.
+D: ¿Ha sido hospitalizado alguna vez?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Has estado alguna vez en un hospital?
+P: ¿Perdón?
+D: ¿ha tenido alguna enfermedad en particular?
+P: hipertensión arterial y diabetes no insulinodependiente
+D: ¿tuvo alguna enfermedad de niño?
+P: hipertensión arterial y diabetes no insulinodependiente
+D: ¿Se ha operado alguna vez?
+P: Me operaron para quitarme las amígdalas, me repararon los ligamentos de la rodilla derecha y me repararon una hernia inguinal
+D: ¿Y todo fue bien?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Qué enfermedad tenía?
+P: hipertensión arterial y diabetes no insulinodependiente
+D: ¿Cómo te sientes hoy?
+P: Tengo dolores de estómago en el lado derecho debajo de las costillas y abajo y vómitos
+D: ¿ha tomado alguna medicación para aliviar esto?
+P: Así que tomo paracetamol
+D: ¿cuántas veces has vomitado?
+P: ya sabes, sólo por esta vez
+D: ¿tienes orgullo?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿fiebre?
+P: No, esos síntomas no.
+D: ¿algún dolor de cabeza?
+P: No, no especialmente
+D: ¿Alguna diarrea?
+P: No, nada de eso

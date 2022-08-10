@@ -1,0 +1,172 @@
+D: bonjour , pouvez vous me donner votre nom ?
+P: je m'appelle Irène .
+D: quel est votre prénom ?
+P: je suis Irène .
+D: pouvez-vous me donner votre date de naissance ?
+P: Je m'excuse, mais je ne souhaite pas donner cette information.
+D: quel est votre âge ?
+P: j'ai 41 ans
+D: vous travaillez dans quel domaine ?
+P: assistante maternelle en crèche
+D: etes vous mariée ?
+P: mariée
+D: quel est votre situation familiale ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: avez vous des enfants ?
+P: oui, j'ai 2 enfants
+D: quels âges ont ils ?
+P: Pardon ?
+D: qui est votre personne de confiance ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: quelle est la personne à prévenir ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: qui alerter en cas de besoin ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: vous mesurez combien ?
+P: je mesure environ 1 mètre 65 centimètres
+D: quel est votre poids ?
+P: je pèse 62 kilos
+D: quelles sont vos habitudes alimentaires ?
+P: je suis un régime pour le diabète
+D: depuis combien de temps ?
+P: Pardon ?
+D: etes vous sous traitement ?
+P: du coversyl pour l' hypertension et un régime pour le diabète non insulinodépendant . et actuellement, je prends du paracétamol
+D: consommer vous de l' alcool ?
+P: je bois très rarement, quand il y a des fêtes , c'est tout
+D: fumer vous ?
+P: Oui , je fume
+D: quelle est votre consommation de tabac ?
+P: Exactement , je fume
+D: combien de cigarettes par jour ?
+P: je fume 1 paquet par jour
+D: faites vous de l' activité physique ?
+P: de la marche à pied occasionnelle
+D: parlez moi de votre sommeil ?
+P: Pardon ?
+D: dormez vous normalement ?
+P: Sans problème
+D: des problèmes pour aller à la selle ?
+P: Non, pas ces symptômes.
+D: urinez vous normalement ?
+P: Normalement
+D: prenez vous des drogues ?
+P: non, je ne me drogue pas.
+D: avez vous des problèmes pour aller à la selle ?
+P: Non, pas particulièrement.
+D: urinez vous normalement ?
+P: Je n'ai aucun problème
+D: combien de fois par jour ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: combien de fois par jour allez vous au toilettes ?
+P: Pardon ?
+D: pourquoi consultez vous aujourd'hui ?
+P: Pardon ?
+D: savez vous pourquoi nous nous rencontrons ce jour ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: motif de la consultation ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: parlons de vos antécédants
+P: Je ne comprends pas bien ce que vous demandez.
+D: parlons de vos antécédents
+P: Pardon ?
+D: avez vous des antécédents médicaux ?
+P: de l' hypertension artérielle et du diabète non insulinodépendant
+D: chirurgicaux ?
+P: Pardon ?
+D: avez vous des antécédents chirurgicaux ?
+P: Non, je n'ai jamais été opéré de ça
+D: quels sont vos antécédents chirurgicaux ?
+P: Je n'ai jamais été opéré de ça
+D: avez vous déjà été opérée ?
+P: Alors, j'ai eu une opération pour enlever les amygdales , une réparation des ligaments du genou droit et une cure de hernie inguinale
+D: en quelles années ?
+P: Alors, j'ai eu une opération pour enlever les amygdales dans mon enfance , une réparation des ligaments du genou droit en 1996 et une cure de hernie inguinale en 2006
+D: des problèmes avec l' anesthésie ?
+P: j'ai eu des nausées et des vomissements après cure de hernie inguinale .
+D: beaucoup ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: avez vous eu beaucoup de nausées ?
+P: Non, rien de tout ça
+D: avez vous eu des maladies dans l' enfance
+P: de l' hypertension et du diabète non insulinodépendant
+D: avez eu des accidents ?
+P: Non, pas spécialement
+D: avez vous déjà été hospitalisée ?
+P: Pardon ?
+D: avez vous déjà été anesthésiée ?
+P: Alors, j'ai eu rachianesthésie pour la réparation des ligaments du genou droit , anesthésie générale pour la cure de hernie inguinale et aucune idée pour l' opération pour enlever les amygdales
+D: etes vous vaccinée ?
+P: vous voyez, je ne me rappelle pas
+D: vos vaccins sont ils à jours ?
+P: vous voyez, je ne peux pas vous dire, je ne me souviens pas
+D: y a t il s des antécédants particuliers dans votre famille ?
+P: Je n'en sais rien, je suis désolé, docteur.
+D: faites vous des allergies particulières ?
+P: je suis seulement allergique au kiwi
+D: des allergies aux traitements ?
+P: je suis seulement allergique au kiwi
+D: quels sont les symptômes quand vous manger un kiwi ?
+P: vous voyez, j'en consomme régulièrement, mais pas trop
+D: faites vous des allergies particulières ?
+P: je suis seulement allergique au kiwi
+D: avez vous des allergies à des traitements ?
+P: je suis seulement allergique au kiwi
+D: quels sont les symptômes quand vous mangez un kiwi ?
+P: vous voyez, j'en consomme régulièrement, mais pas trop
+D: que recentez vous ?
+P: Pardon ?
+D: que ressentez vous ?
+P: j'ai des douleurs au ventre à droite sous les côtes et plus bas et des vomissements
+D: précisez vos douleurs ?
+P: Oui, exactement
+D: quelle intensité pour vos douleurs ?
+P: En effet douleurs au ventre à droite sous les côtes et plus bas
+D: sur une échelle de 1 à 10 quelle est l' intensité de vos douleurs ?
+P: Exactement douleurs au ventre à droite sous les côtes et plus bas
+D: prenez vous des médicaments ?
+P: Alors, je prends du paracétamol
+D: uniquement ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: quel est votre traitement ?
+P: Alors, je prends du paracétamol
+D: pourquoi prenez vous du paracétamol ?
+P: je prends du paracétamol pour mon trouble actuel
+D: vous ne prenez que du paracétamol ?
+P: Alors, du coversyl pour l' hypertension artérielle et un régime pour le diabète non insulinodépendant .
+D: pourquoi prenez vous du coversyl ?
+P: je prends du coversyl pour l' hypertension
+D: depuis combien de temps ?
+P: Pardon ?
+D: depuis combien de temps prenez vous du coversyl pour l' hypertension ?
+P: Alors, du coversyl pour l' hypertension artérielle
+D: quels symptomes ressentez vous ?
+P: Juste ça
+D: quels sont vos symptômes ?
+P: Seulement ce que j'ai vous ai dit
+D: que ressentez vous ?
+P: Juste ce que j'ai vous ai dit
+D: précisez vos symptômes
+P: Uniquement ce que j'ai vous ai dit
+D: portez vous des lunettes ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: avez vous des problèmes de vue ?
+P: Seulement ça
+D: avez vous un appareil dentaire ?
+P: Pardon ?
+D: avez vous des prothèse auditives ?
+P: Pardon ?
+D: avez vous des problèmes aux dents ?
+P: Pas vraiment
+D: avez vous des problèmes à la machoire ?
+P: Seulement ça
+D: avez vous des problèmes cardiques ?
+P: je ne sais pas si ça a un lien mais j'ai de l' hypertension et du diabète non insulinodépendant
+D: avez vous des problèmes respiratoires ?
+P: Non, pas ces symptômes.
+D: avez vous des problèmes gastro-intestinaux ?
+P: Pas du tout, non
+D: avez vous des problèmes neurologiques ?
+P: Seulement ce que j'ai vous ai dit
+D: avez vous des problèmes urinaires ?
+P: Non, rien de tout ça

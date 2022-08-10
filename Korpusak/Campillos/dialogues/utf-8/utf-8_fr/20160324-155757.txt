@@ -1,0 +1,18 @@
+D: bonjour , quelle opération allez vous subir ?
+P: C'est ça oui, une consultation avant une opération pour enlever la vésicule biliaire avec cholangiographie pendant l'intervention .
+D: avez-vous déjà subit une opération ?
+P: Alors, j'ai eu une opération pour enlever les amygdales , une réparation des ligaments du genou droit et une cure de hernie inguinale
+D: avez vous des allergies ?
+P: je suis seulement allergique au kiwi
+D: consommez vous de l' alcool ?
+P: je bois très rarement, quand il y a des fêtes , c'est tout
+D: avez vous des analyses récentes ?
+P: vous voyez, je ne me souviens pas
+D: avez fait un ECG ?
+P: vous voyez, je ne peux pas vous dire, je ne me rappelle pas
+D: fumez vous régulierement ?
+P: Oui, exactement , je fume
+D: a quelle fréquence ?
+P: je fume 1 paquet par jour
+D: depuis combien de temps ?
+P: je fume depuis l'âge de 18 ans

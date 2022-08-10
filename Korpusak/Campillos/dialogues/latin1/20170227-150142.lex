@@ -1,0 +1,54 @@
+D: bonjour
+P: Bonjour docteur
+D: quelle est la raison de votre visite ?
+P: une consultation avant une opération pour enlever la vésicule biliaire, avec cholangiographie pendant l'intervention .
+D: est-ce votre première opération ?
+P: j'ai eu une opération pour enlever les amygdales , une réparation des ligaments du genou droit et une cure de hernie inguinale
+D: quels sont vos antécédant médicaux
+P: Pardon ?
+D: avez vous votre dossier médical ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: avez vous eu des complications
+P: quasiment inefficace sous antalgique
+D: avez vous eu des complications lors de vos précédentes opérations ?
+P: j'ai eu aucun problème après opération pour enlever les amygdales et des nausées et des vomissements après cure de hernie inguinale .
+D: avez vous des alergies ?
+P: voulez-vous dire : avez vous des allergies ?
+D: avez vous des allergies ?
+P: je suis seulement allergique au kiwi
+D: que faites vous dans la vie ?
+P: je suis assistante maternelle en crèche .
+D: faites vous beaucoup d' activité physique ?
+P: de la marche à pied occasionnelle
+D: quelle est votre taille , poid et age ?
+P: est-ce que vous voulez dire : quelle est votre taille , poids et age ?
+D: quelle est votre taille , poids et age ?
+P: je pèse 62 kilos
+D: quelle est votre taille et poids ?
+P: environ 62 kilos
+D: combien mesurez vous ?
+P: je fais 1 mètre 65 centimètres
+D: avez vous voyagé à l' étranger récement ?
+P: Non. Je n'ai visité aucun pays récemment.
+D: êtes vous vacciné ?
+P: vous voyez, je ne peux pas vous dire, je ne me rappelle pas
+D: vos vaccin sont ils à jour ?
+P: vous voyez, je ne peux pas vous dire, je ne m'en souviens pas
+D: avez vous un carnet de famille
+P: Je ne comprends pas bien ce que vous demandez.
+D: avez vous fait l' usage d' une drogue récement ?
+P: non, je n'ai pas de dépendances.
+D: quand remonte votre dernière maladie ?
+P: À quoi faites-vous référence ? Pouvez-vous être plus précis ?
+D: à quand remonte votre dernière maladie ?
+P: À quoi faites-vous référence ? Pouvez-vous me donner plus de détails ?
+D: avez vous été malade récement ?
+P: À quoi faites-vous référence ? Pouvez-vous me donner plus de précisions ?
+D: avez vous des douleurs ?
+P: vous voyez, je ne m'en souviens pas
+D: à quand remonte votre dernière consultation
+P: Je ne peux pas vous répondre [Cette information ne figure pas dans le dossier]
+D: quel traitement suivez vous ?
+P: je prends un antalgique . Peut-être qu'il y a plus d'informations dans mon dossier.
+D: merci
+P: Avec plaisir.

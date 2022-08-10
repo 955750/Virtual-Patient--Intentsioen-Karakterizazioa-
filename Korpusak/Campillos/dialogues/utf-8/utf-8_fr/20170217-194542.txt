@@ -1,0 +1,18 @@
+D: bonjour
+P: Bonjour
+D: qu' avez-vous ?
+P: Je viens parce que j'ai effectué une radio poitrine droite, et je reviens comme demandé moins de 3 heures après la première consultation le matin .
+D: avez vous tenté d' arrêter de fumer ?
+P: je fume (20 cigarettes par jour depuis l'âge de 20 ans)
+D: d' autres personnes fument dans votre famille ?
+P: je fume (20 cigarettes par jour depuis l'âge de 20 ans)
+D: est-ce que vous mangez équilibré ?
+P: pas de régime
+D: allergique à un médicament ?
+P: je n'ai pas d'allergie, mais je n'ai jamais fait de tests d'allergies
+D: vous avez eu d' autres maladies en rapport avec les poumons ou les bronches ?
+P: Non, je n'ai pas eu de maladies en rapport avec les poumons , mais sinon de l' hypertension
+D: bien
+P: bon ... c'est tout docteur ?
+D: oui , au revoir
+P: Au revoir, docteur.

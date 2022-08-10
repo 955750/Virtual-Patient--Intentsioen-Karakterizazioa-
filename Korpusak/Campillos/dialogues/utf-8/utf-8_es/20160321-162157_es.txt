@@ -1,0 +1,44 @@
+D: ¿Tiene antecedentes quirúrgicos?
+P: No, nunca me he sometido a este tipo de operaciones.
+D: ¿Fumas?
+P: Sí, exactamente, fumo
+D: ¿cuántos cigarrillos?
+P: Fumo 1 paquete al día
+D: ¿bebes alcohol?
+P: Bebo muy poco, cuando hay fiestas, eso es todo
+D: ¿haces algún deporte?
+P: caminar ocasionalmente
+D: ¿mucho?
+P: ¿Perdón?
+D: gfdglmgsfd
+P: No entiendo muy bien lo que me pregunta.
+D: ¿Se ha operado alguna vez?
+P: Me operaron para quitarme las amígdalas, me repararon los ligamentos de la rodilla derecha y me repararon una hernia inguinal
+D: ¿Cuándo se llevaron a cabo estas operaciones?
+P: Me operaron de amígdalas cuando era niño, me repararon los ligamentos de la rodilla derecha en 1996 y me repararon una hernia inguinal en 2006
+D: ¿Está tomando alguna medicación?
+P: coversyl para la hipertensión y una dieta para la diabetes no dependiente de la insulina.
+D: ¿Tiene usted alguna alergia?
+P: Sólo soy alérgico al kiwi
+D: ¿tienes alguna historia?
+P: No entiendo muy bien lo que me pregunta.
+D: ¿tiene algún historial médico?
+P: hipertensión arterial y diabetes no insulinodependiente
+D: ¿Tiene antecedentes familiares?
+P: No sé, lo siento, doctor.
+D: ¿qué vas a hacer esta noche?
+P: hipertensión y diabetes no insulinodependiente
+D: ¿cuál es su nombre?
+P: me llamo Irene.
+D: ¿Cuántos años tienes?
+P: Tengo 41 años
+D: ¿Cuánto pesas?
+P: unos 62 kilos
+D: ¿cuál es tu altura?
+P: Mido 1,65 metros
+D: ¿tienes dolor en alguna parte?
+P: exactamente
+D: ¿tienes hermanos y hermanas?
+P: ¿Perdón?
+D: ¿tienes hermanos o hermanas?
+P: ¿Perdón?

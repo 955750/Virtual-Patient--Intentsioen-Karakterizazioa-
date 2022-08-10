@@ -1,0 +1,82 @@
+D: bonjour , quet ce qui vous amène
+P: est-ce que vous voulez dire : bonjour , que ce qui vous amène ?
+D: oui
+P: une douleur à la poitrine, toux, et fièvre .
+D: et encore ?
+P: Pardon ?
+D: pas d' autre problème ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: qu' est ce qui ne va pas ?
+P: je viens pour une douleur à la torse, toux, et fièvre .
+D: depuis quand la douleur ?
+P: j'ai des douleurs de poitrine à droite depuis hier soir à 20 heures
+D: depuis quand la toux
+P: j'ai de la toux sèche depuis hier soir à 23 heures
+D: et la fièvre ?
+P: vous voyez, je ne peux pas vous dire, je ne m'en souviens pas
+D: vous avez quelle température ?
+P: 38 degrés à droite
+D: c' est la première fois que vous avez ces symptomes ?
+P: vous voyez, je ne me rappelle pas
+D: quel âge avez vous
+P: j'ai 62 ans
+D: votre taille ?
+P: je fais 1 mètre 74 centimètres
+D: votre poids ?
+P: 78 kilos
+D: vous travaillez ?
+P: retraité, mais je suis ancien maraîcher
+D: vous faites du sport régulièrement ?
+P: le jardinage, je traite les cultures avec des produits phytosanitaires
+D: quels produits phytosanitaires ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: vous avez jardiné hier ?
+P: Oui , le jardinage, je traite les cultures avec des produits phytosanitaires
+D: vous avez des problèmes de santé ?
+P: de l' hypertension
+D: combien ?
+P: C'est bien ça, oui de l' hypertension artérielle
+D: vous prenez un traitement pour l' hypertension ?
+P: un anti-hypertenseur pour l' hypertension artérielle . Peut-être qu'il y a plus d'informations dans mon dossier.
+D: vous fumez ?
+P: je fume (20 cigarettes par jour depuis l'âge de 20 ans)
+D: seulement du tabac ?
+P: je fume (20 cigarettes par jour depuis l'âge de 20 ans)
+D: pas de cannabis ?
+P: non, je ne me drogue pas.
+D: tant mieux
+P: est-ce que vous voulez dire : étant mieux ?
+D: vous buvez de l' alcool ?
+P: de l' alcool
+D: c' est bien !
+P: bon ... c'est tout docteur ?
+D: vous avez eu des maladies de coeur ?
+P: je ne sais pas si ça a un lien, mais j'ai de l' hypertension
+D: et autre chose ?
+P: Seulement ça
+D: et des opérations ?
+P: j'ai eu une cure de hernie inguinale droite et une opération de l'appendicite
+D: quand ça ?
+P: j'ai eu une cure de hernie inguinale droite à l'âge de 51 ans et une opération de l'appendicite dans mon enfance
+D: vous avez souvent des douleurs à la poitrine ?
+P: vous voyez, juste cette fois
+D: la toux vous empêche de dormir ?
+P: Je n'ai aucun souci par rapport à ça
+D: très bien !
+P: encore autre chose ?
+D: vous avez quelque chose à ajouter ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: voulez vous me dire autre chose ?
+P: Pardon ?
+D: est ce la douleur à la poitrine est forte ?
+P: c'est difficile à décrire, c'est juste des douleurs de torse à droite
+D: est ce que la douleur gêne vos mouvements ?
+P: Non, pas spécialement
+D: est ce que la toux vous gêne pour manger ?
+P: j'ai de la toux sèche
+D: bien , ça me suffira , merci
+P: À quoi faites-vous référence ? Pouvez-vous me donner plus de détails ?
+D: c' est bien !
+P: vous voulez savoir autre chose docteur ?
+D: merci
+P: Avec plaisir.

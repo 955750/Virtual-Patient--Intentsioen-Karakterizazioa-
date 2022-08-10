@@ -1,0 +1,60 @@
+D: bonjour
+P: Bonjour docteur
+D: comment vous appelez-vous ?
+P: je m'appelle Alain Courbet .
+D: quel est votre date de naissance ?
+P: Je m'excuse, mais je préfère ne pas répondre.
+D: quel age avez vous ?
+P: j'ai 44 ans
+D: combien pesez vous ?
+P: environ 82 kilos
+D: avez vous de la famille ?
+P: divorcé et sinon j'en ai 2 . De 10 et 8 ans
+D: vous avez deux enfants ?
+P: j'en ai 2 . De 10 et 8 ans
+D: d' accord .
+P: encore autre chose ?
+D: oui , êtes vous en activité ?
+P: encore autre chose ?
+D: je veux , dire , travaillez vous ?
+P: informaticien
+D: d' accord .
+P: bon ... c'est tout docteur ?
+D: quel est la raison de votre visite aujourd'hui ?
+P: confirmer la présence d'hypertension artérielle essentielle .
+D: etes vous déjà suivi pour une hypertension ?
+P: voulez-vous dire : êtes vous déjà suivi pour une hypertension ?
+D: oui , c' est ce que je vous demande .
+P: oui, tout à fait, confirmer la présence d'hypertension artérielle essentielle .
+D: avez vous un antécédent d' hypertension ?
+P: Je n'ai jamais eu des maladies graves.
+D: avez vous de l' hypertension ?
+P: la tension élevée
+D: avez vous des allergies connues ?
+P: je n'ai aucune allergie, mais je n'ai jamais fait un bilan d'allergies
+D: avez vous été opéré récemment ?
+P: je n'ai jamais été opérée
+D: suivez-vous un régime particulier ?
+P: pas trop grasse ou salée, avec des fruits et des légumes et un régime pour l'hypertension
+D: ah , très bien .
+P: Pardon ?
+D: prenez vous un traitement médicamenteux ?
+P: Pas vraiment
+D: pas de cachets pour l' hypertension ?
+P: Je ne comprends pas bien ce que vous demandez.
+D: vous ne prenez aucun médicament pour la tension ?
+P: Non, pas spécialement
+D: quelle est votre consommation d' alcool ?
+P: Pas du tout
+D: fumez-vous ?
+P: Non
+D: souffrez vous de maux de tête ?
+P: est-ce que vous voulez dire : souffrez vous de maux de thête ?
+D: oui , avez vous des céphalées ?
+P: Non. Rien de tout ça.
+D: ressentez vous d' autres symptomes ?
+P: j'ai la tension élevée et le cholestérol haut
+D: faites vous du sport ?
+P: 30 min de marche, 3 fois par semaine et du vélo et piscine, pas regulièrement
+D: hum .
+P: Je ne comprends pas bien ce que vous demandez.
