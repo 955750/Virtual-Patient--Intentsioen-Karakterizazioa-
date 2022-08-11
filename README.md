@@ -1,6 +1,6 @@
 # "Chatbot"-a frogatzeko argibideak
 
-![](https://www.linkedin.com/pulse/connecting-rasa-whatsapp-messenger-tharun-reddy-mamillapally-)
+![](https://media-exp1.licdn.com/dms/image/C5612AQE9FIrcwSMWWA/article-cover_image-shrink_720_1280/0/1594701109094?e=1665619200&v=beta&t=uJYzraIdp4ZKUQfMpD6xjqAEUII2xCVrMGrMVKQNKfs)
 
 ##  1. Beharrezko Erreminten Instalazioa
 
