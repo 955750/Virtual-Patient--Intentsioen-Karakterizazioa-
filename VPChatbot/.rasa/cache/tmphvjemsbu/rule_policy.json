@@ -1,0 +1,30 @@
+{
+  "lookup": {
+    "rules": {
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"cerrar_tema\"}}]": "respuesta_cerrar_tema",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"cerrar_tema\"}}, {\"prev_action\": {\"action_name\": \"respuesta_cerrar_tema\"}, \"user\": {\"intent\": \"cerrar_tema\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"preguntar_raz\\u00f3n_venir\"}}]": "respuesta_preguntar_razón_venir",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"preguntar_raz\\u00f3n_venir\"}}, {\"prev_action\": {\"action_name\": \"respuesta_preguntar_raz\\u00f3n_venir\"}, \"user\": {\"intent\": \"preguntar_raz\\u00f3n_venir\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"despedida\"}}]": "respuesta_despedida",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"despedida\"}}, {\"prev_action\": {\"action_name\": \"respuesta_despedida\"}, \"user\": {\"intent\": \"despedida\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"saludo\"}}]": "respuesta_saludo",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"saludo\"}}, {\"prev_action\": {\"action_name\": \"respuesta_saludo\"}, \"user\": {\"intent\": \"saludo\"}}]": "action_listen"
+    },
+    "rule_only_slots": [],
+    "rule_only_loops": [],
+    "rules_for_loop_unhappy_path": {},
+    "rules_not_in_stories": [
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"preguntar_raz\\u00f3n_venir\"}}, {\"prev_action\": {\"action_name\": \"respuesta_preguntar_raz\\u00f3n_venir\"}, \"user\": {\"intent\": \"preguntar_raz\\u00f3n_venir\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"saludo\"}}, {\"prev_action\": {\"action_name\": \"respuesta_saludo\"}, \"user\": {\"intent\": \"saludo\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"cerrar_tema\"}}, {\"prev_action\": {\"action_name\": \"respuesta_cerrar_tema\"}, \"user\": {\"intent\": \"cerrar_tema\"}}]",
+      "predicting default action with intent back",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"saludo\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"preguntar_raz\\u00f3n_venir\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"despedida\"}}, {\"prev_action\": {\"action_name\": \"respuesta_despedida\"}, \"user\": {\"intent\": \"despedida\"}}]",
+      "predicting default action with intent restart",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"despedida\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"cerrar_tema\"}}]",
+      "predicting default action with intent session_start"
+    ]
+  }
+}

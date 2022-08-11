@@ -1,0 +1,120 @@
+version: "3.1"
+
+rules:
+
+  ## "intent" especiales
+  - rule: responder a "intent" '2+intent'
+    steps:
+      - intent: 2+intent
+      - action: utter_2+intent
+
+  - rule: responder a "intent" 'sin_contexto'
+    steps:
+      - intent: sin_contexto
+      - action: utter_sin_contexto
+
+
+  ## Flujo conversación
+  - rule: responder a "intent" 'saludo'
+    steps:
+      - intent: saludo
+      - action: utter_saludo
+
+  - rule: responder a "intent" 'preguntar_razón_venir'
+    steps:
+      - intent: preguntar_razón_venir
+      - action: utter_preguntar_razón_venir
+
+  - rule: responder a "intent" 'cerrar_tema'
+    steps:
+      - intent: cerrar_tema
+      - action: utter_cerrar_tema
+
+  - rule: responder a "intent" 'despedida'
+    steps:
+      - intent: despedida
+      - action: utter_despedida
+
+
+  ## Preguntas sobre dolor
+  - rule: responder a "intent" 'preguntar_antigüedad_dolor'
+    steps:
+      - intent: preguntar_antigüedad_dolor
+      - action: utter_preguntar_antigüedad_dolor
+
+  - rule: responder a "intent" 'preguntar_zona_dolor'
+    steps:
+      - intent: preguntar_zona_dolor
+      - action: utter_preguntar_zona_dolor
+
+  - rule: responder a "intent" 'preguntar_frecuencia_dolor'
+    steps:
+      - intent: preguntar_frecuencia_dolor
+      - action: utter_preguntar_frecuencia_dolor
+
+  - rule: responder a "intent" 'preguntar_tipo_dolor'
+    steps:
+      - intent: preguntar_tipo_dolor
+      - action: utter_preguntar_tipo_dolor
+
+  - rule: responder a "intent" 'preguntar_dolor_alguna_vez'
+    steps:
+      - intent: preguntar_dolor_alguna_vez
+      - action: utter_preguntar_dolor_alguna_vez
+
+  - rule: responder a "intent" 'preguntar_dolor_sí_no'
+    steps:
+      - intent: preguntar_dolor_sí_no
+      - action: utter_preguntar_dolor_sí_no
+
+  - rule: responder a "intent" 'preguntar_síntomas_sensaciones'
+    steps:
+      - intent: preguntar_síntomas_sensaciones
+      - action: utter_preguntar_síntomas_sensaciones
+
+  - rule: responder a "intent" 'preguntar_detalles_suceso'
+    steps:
+      - intent: preguntar_detalles_suceso
+      - action: utter_preguntar_detalles_suceso
+
+
+  ## Preguntas personales
+  - rule: responder a "intent" 'preguntas_personales_general'
+    steps:
+      - intent: preguntas_personales_general
+      - action: utter_preguntas_personales_general
+
+  - rule: responder a "intent" 'preguntar_edad'
+    steps:
+      - intent: preguntar_edad
+      - action: utter_preguntar_edad
+
+  - rule: responder a "intent" 'preguntar_operación'
+    steps:
+      - intent: preguntar_operación
+      - action: utter_preguntar_operación
+
+  - rule: responder a "intent" 'preguntar_sobre_consumibles'
+    steps:
+      - intent: preguntar_sobre_consumibles
+      - action: utter_preguntar_sobre_consumibles
+
+  - rule: responder a "intent" 'preguntar_tratamientos_medicamentos'
+    steps:
+      - intent: preguntar_tratamientos_medicamentos
+      - action: utter_preguntar_tratamientos_medicamentos
+
+  - rule: responder a "intent" 'preguntar_enfermedad'
+    steps:
+      - intent: preguntar_enfermedad
+      - action: utter_preguntar_enfermedad
+
+  - rule: responder a "intent" 'preguntar_hábito_inusual'
+    steps:
+      - intent: preguntar_hábito_inusual
+      - action: utter_preguntar_hábito_inusual
+
+  - rule: responder a "intent" 'preguntar_si_alguna_consulta_previa
+    steps:
+      - intent: preguntar_si_alguna_consulta_previa
+      - action: utter_preguntar_si_alguna_consulta_previa

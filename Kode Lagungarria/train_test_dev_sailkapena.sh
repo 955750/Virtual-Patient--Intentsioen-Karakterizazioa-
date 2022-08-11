@@ -99,5 +99,4 @@ do
   else
     echo "aurkitua: "$aurkitua "(TRUE); katalogoa: $kat"
   fi
-#done < sailkatutakoEsaldiak.txt
 done < ../Korpusak/LabForSims/sailkatutakoEsaldiak.txt

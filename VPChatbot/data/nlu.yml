@@ -1,0 +1,124 @@
+version: "3.1"
+
+nlu:
+
+## "intent" especiales
+- intent: 2+intent
+  examples: |
+    - 
+
+- intent: sin_contexto
+  examples: |
+    - y ayer?
+    - ¿empezó anoche?
+    - ¿a qué edad?
+    - ¿acabas de comer?
+    - ¿durante cuánto tiempo?
+
+
+## Flujo conversación
+- intent: saludo
+  examples: |
+    - hola señora. ¿es usted la señora?
+
+- intent: preguntar_razón_venir
+  examples: |
+    - 
+
+- intent: cerrar_tema
+  examples: |
+    - de acuerdo.
+
+- intent: despedida
+  examples: |
+    - 
+
+
+## Preguntas sobre dolor
+- intent: preguntar_antigüedad_dolor
+  examples: |
+    - 
+
+- intent: preguntar_zona_dolor
+  examples: |
+    - y has venido porque te duele el estómago. así que dime cuándo empezó.
+    - sólo a la derecha?
+    - ¿puede decirme aproximadamente dónde le duele el estómago?
+    - ¿dónde duele?
+
+- intent: preguntar_frecuencia_dolor
+  examples: |
+    - 
+
+- intent: preguntar_tipo_dolor
+  examples: |
+    - ¿Y el dolor, si tuvieras que calificarlo en una escala...?
+    - era menos fuerte?
+    - ¿puede calificar su dolor de 0 a 10?
+
+- intent: preguntar_dolor_alguna_vez
+  examples: |
+    -
+
+- intent: preguntar_dolor_sí_no
+  examples: |
+    - ¿Así que todavía te duele en este momento?
+
+- intent: preguntar_síntomas_sensaciones
+  examples: |
+    - ¿tiene fiebre?
+    - ¿El dolor le impedía comer?
+    - ¿y nadie tuvo fiebre en tu casa?
+    - ¿has vomitado?
+    - ¿hay otros enfermos a su alrededor con los mismos síntomas?
+    - ¿tiene usted fiebre?
+
+- intent: preguntar_detalles_suceso
+  examples: |
+    - ¿cuándo fue eso?
+
+
+## Preguntas personales
+- intent: preguntas_personales_general
+  examples: |
+    - ¿tiene hijos?
+    - ¿le sigue otro especialista?
+    - ¿tiene algún historial médico?
+    - ¿A qué te dedicas?
+
+- intent: preguntar_edad
+  examples: |
+    - ¿Cuántos años tienes?
+    - ¿qué edad tienen?
+    - ¿Cuántos años tiene usted?
+    - ¿Qué edad tienes?
+
+- intent: preguntar_operación
+  examples: |
+    - 
+
+- intent: preguntar_sobre_consumibles
+  examples: |
+    - 
+
+- intent: preguntar_tratamientos_medicamentos
+  examples: |
+    - ¿Intentaste tomar algo para aliviar el dolor?
+    - cierto. ¿toma tratamientos todos los días? ¿medicamentos?
+    - ¿Ni siquiera la píldora?
+    - cesárea o ?
+
+- intent: preguntar_enfermedad
+  examples: |
+    - ¿no hay diabetes?
+    - ¿hipertensión?
+    - ok. ¿tienes alguna patología como presión arterial, diabetes?
+    - y en su familia, ¿hay problemas de salud?
+
+- intent: preguntar_hábito_inusual
+  examples: |
+    - 
+
+- intent: preguntar_si_alguna_consulta_previa
+  examples: |
+    -

@@ -1,4 +1,0 @@
-[HECHO] doctor.txt --> doctor_fr.txt
-[HECHO] 2700-TraduccionesAlCastellanoDoctorDeepL --> doctor_es.txt
-
-BORRAR "emaitza2.txt"

@@ -1,4 +1,9 @@
-[FALTAN ENLACES BIBLIO (repo github) + IMÁGENES] - Pasar docu. a LATEX 
+- [IMÁGENES + HACER REPO PÚBLICO]
+
+- Mirar estas carpetas:
+  |--> /Korpusak/LabForSims [HECHO]
+  |--> /Intent-en Sailkapena [HECHO]
+  |--> /Bestelako Dokumentu Lagungarriak [HECHO]
 
 [HECHO] - Probar que cada script funciona con la estructura de estar carpetas
 

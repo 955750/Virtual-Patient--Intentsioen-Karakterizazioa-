@@ -10,5 +10,3 @@ intents:
   - preg. cerradas
   - cerrar conversación
   - ...
-
-*(no es definitivo)

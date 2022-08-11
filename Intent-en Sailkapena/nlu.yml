@@ -1,0 +1,379 @@
+##############################
+#                            #
+#     Entitate Posibleak     #
+#        (laburpena)         #
+#       ["entity"-ak]        #
+#                            #
+##############################
+
+- Flujo conversación
+  + saludo []
+  + preguntar_razón_venir []
+  + cerrar_tema []
+  + despedida [] 
+  
+- Preguntas dolor
+  + preguntar_antigüedad_dolor []
+  + preguntar_zona_dolor []
+  + preguntar_frecuencia_dolor []
+  + preguntar_tipo_dolor []
+  + preguntar_dolor_alguna_vez []
+  + preguntar_dolor_sí_no []
+  + preguntar_síntomas_sensaciones []
+  + preguntar_detalles_suceso []
+  
+- Preguntas personales
+  + preguntas_personales []
+  + edad []
+  + preguntar_operación []
+  + preguntar_sobre_consumibles []
+  + preguntar_tratamientos_medicamentos []
+  + preguntar_enfermedad []
+  + preguntar_hábito_inusual []
+  + preguntar_si_alguna_consulta_previa []
+  
+
+##############################
+#                            #
+#    "nlu.yml" Fitxategia    #
+#                            #
+##############################
+
+version: "3.1"
+
+nlu:
+
+**BENETAN HAUEK EZ DIRA FITXATEGIAN AGERTUKO
+
+- intent: 2+intent ##(seguraski esaldiak bi n zatitan banatu beharko dira, non n esaldiko "intent" kopurua baita)
+  examples: |
+    - MTF0001 +++ hola . entonces . ¿por qué vienes a urgencias? (saludo + preguntar_razón_venir)
+    - MTF0003 +++ Buenos dias. Entonces. ¿Por qué vienes a la sala de emergencias? (saludo + preguntar_razón_venir)
+    - MTF0005 +++ hola . entonces . ¿por qué vienes al hospital? (saludo + preguntar_razón_venir)
+    - HDM0016 +++ y es un dolor continuo, ¿dónde? (preguntar_frecuencia_dolor + preguntar_zona_dolor)
+    - HDM0037 +++ ok. ok. ¿es un dolor fijo o se irradia? bien, ¿afecta a otros lugares? (preguntar_tipo_dolor + preguntar_zona_dolor)
+    - MTF0040 +++ buenos días señora. ¿podría contarme un poco lo que está pasando? ¿por qué está aquí? (saludo + preguntar_razón_venir)
+    - HDM0067 +++ ¿y tienes problemas con tus intestinos en este momento? ¿más de lo habitual? (preguntar_dolor_sí_no + preguntar_frecuencia_dolor)
+    - ATD0076 +++ cierto. y ¿alguna vez tuviste la piel amarilla? o la conjuntiva de los ojos? ¿alguna vez lo notaste? (preguntar_dolor_alguna_vez + preguntar_dolor_alguna_vez)
+    - ATD0103 +++ después de eso, entre todo lo que miramos en internet, todo y cualquier cosa, realmente no te aconsejo. es más un fenómeno de ansiedad que otra cosa, creo. entonces, ok. ¿tienes alguna alergia en particular? (cerrar_tema + preguntar_enfermedad)
+    - HDM0130 +++ ¿Tuvo dolor en alguna otra parte? ¿El dolor fue en un sentido o en otro? (preguntar_zona_dolor + preguntar_tipo_dolor)
+    - HDM0136 +++ derecho. ¿has vomitado? (cerrar_tema + preguntar_síntomas)
+    - ATD0142 +++ derecho. ¿has tenido alguna vez el mismo dolor? ¿has estado enfermo y te ha hecho lo mismo? (preguntar_dolor_alguna_vez + preguntar_síntomas)
+    - MTF0178 +++ hola señora. ¿qué le pasa?
+    - TRT0190 +++ De acuerdo. y entonces, aparte de la doliprana, ¿hay alguna posición que te alivie? o algún movimiento que empeore el dolor? (preguntar_síntomas + cerrar_tema)
+    - MTF0196 +++ buenos días. ¿para qué estás aquí?
+    - MTF0256 +++ buenos días. ¿qué te pasa? ¿qué te trae hoy a urgencias? (saludo + preguntar_razón_venir)
+    - ...
+
+- intent: testuingururik_ez ##(dolor, tomar medicamentos, ...)
+  examples: |
+    - HDM0028 +++ en general, ¿después de comer?
+    - HDM0031 +++ y ayer?
+    - HDM0043 +++ es decir, ¿cuándo empezó?
+    - UNK0112 +++ para ocasiones?
+    - HDM0127 +++ ¿empezó anoche? (preguntar_antigüedad_dolor / preguntar_tratamientos_medicamentos)
+    - ATD0148 +++ derecho. ¿y luego se quedó?
+    - ATD0172 +++ ¿a qué edad? (preguntar_antigüedad_dolor / preguntar_tratamientos_medicamentos)
+    - HDM0208 +++ ¿cuánto tiempo después de comer ocurrió? [DUDA --> nueva "entity"?!?! (sobre comer igual)]
+    - HDM0253 +++ y en términos de tránsito?
+    - HDM0262 +++ ¿acabas de comer? [DUDA --> nueva "entity"?!?! (sobre comer igual)]
+    - HDM0271 +++ ¿es su apetito normal últimamente? [DUDA --> nueva "entity"?!?! (sobre comer igual)]
+    - HDM0310 +++ ¿durante cuánto tiempo? (preguntar_antigüedad_dolor / preguntar_tratamientos_medicamentos)
+    - PSN0543 +++ orígenes? (preguntar_antigüedad_dolor / preguntas_personales)
+    - PSN0549 +++ y en casa, ¿cómo es?
+    - ...
+
+**BENETAN HAUEK EZ DIRA FITXATEGIAN AGERTUKO
+
+
+##############################
+#                            #
+#     Flujo conversación     #
+#                            #
+##############################
+
+##entities: 
+- intent: saludo
+  examples: |
+    - [**] MTF0001 +++ hola . entonces . ¿por qué vienes a urgencias? (saludo + preguntar_razón_venir)
+    - [**] MTF0003 +++ Buenos dias. Entonces. ¿Por qué vienes a la sala de emergencias?
+    - [**] MTF0005 +++ hola . entonces . ¿por qué vienes al hospital?
+    - [**] MTF0040 +++ buenos días señora. ¿podría contarme un poco lo que está pasando? ¿por qué está aquí?    
+    - PSN0118 +++ hola señora. ¿es usted la señora?
+    - [**] MTF0178 +++ hola señora. ¿qué le pasa?
+    - [**] MTF0196 +++ buenos días. ¿para qué estás aquí?
+    - [**] MTF0256 +++ buenos días. ¿qué te pasa? ¿qué te trae hoy a urgencias?
+    - PSN0301 +++ buenos días señora. ¿cómo se llama?
+
+##entities: 
+- intent: preguntar_razón_venir
+  examples: |
+    - [**] MTF0001 +++ hola . entonces . ¿por qué vienes a urgencias?
+    - [**] MTF0003 +++ Buenos dias. Entonces. ¿Por qué vienes a la sala de emergencias?
+    - [**] MTF0005 +++ hola . entonces . ¿por qué vienes al hospital?
+    - MTF0007 +++ ¿Por qué viene al hospital?
+    - [**] MTF0040 +++ buenos días señora. ¿podría contarme un poco lo que está pasando? ¿por qué está aquí?
+    - MTF0178 +++ hola señora. ¿qué le pasa?
+    - [**] MTF0196 +++ buenos días. ¿para qué estás aquí?
+    - [**] MTF0256 +++ buenos días. ¿qué te pasa? ¿qué te trae hoy a urgencias?
+    - MTF0307 +++ de acuerdo. y explícame por qué estás aquí.
+    - HDM0316 +++ ¿y por qué sólo vienes ahora?
+    - HDM0319 +++ ella siempre está ahí. ¿y es porque sigue ahí que has venido?
+    - MTF0438 +++ ¿Por qué viene a urgencias?
+    - MTF0564 +++ ¿Por qué vienes a urgencias?
+    - MTF0567 +++ ¿Por qué estás aquí?
+
+##entities:
+- intent: cerrar_tema
+  examples: |
+    - UNK0082 +++ de acuerdo.
+    - UNK0097 +++ por el momento estoy tratando de ver.
+    - UNK0100 +++ Sólo estoy haciendo mis preguntas y luego voy a examinarte.
+    - [**] ATD0103 +++ después de eso, entre todo lo que miramos en internet, todo y cualquier cosa, realmente no te aconsejo. es más un fenómeno de ansiedad que otra cosa, creo. entonces, ok. ¿tienes alguna alergia en particular?
+    - UNK0115 +++ Vale. Entonces, voy a comprobarlo.
+    - [**] HDM0136 +++ derecho. ¿has vomitado?
+    - UNK0175 +++ ok.
+    - [**] TRT0190 +++ De acuerdo. y entonces, aparte de la doliprana, ¿hay alguna posición que te alivie? o algún movimiento que empeore el dolor?
+    - UNK0193 +++ bien. ahora vamos a examinarte un poco, y ....
+    - UNK0403 +++ de acuerdo.
+
+##entities:
+- intent: despedida
+  examples: |
+    - a
+ 
+
+#############################
+#                           #
+#      Preguntas dolor      #
+#                           #
+#############################
+
+##entities:
+- intent: preguntar_antigüedad_dolor
+  examples: |
+    - HDM0010 +++ Bien, ¿desde cuándo?
+    - HDM0124 +++ y has venido porque te duele el estómago. así que dime cuándo empezó.
+    - HDM0184 +++ Bien. ¿Cuánto tiempo llevas con dolor?
+    - HDM0199 +++ ¿Desde cuándo tiene dolores de estómago?
+    - HDM0259 +++ Vale. ¿Cuánto tiempo lleva esto?
+    - HDM0444 +++ ¿cuánto tiempo lleva con dolor?
+    
+##entities:
+- intent: preguntar_zona_dolor
+  examples: |
+    - HDM0013 +++ ok. ¿y te duele de dónde?
+    - [**] HDM0016 +++ y es un dolor continuo, ¿dónde?
+    - [**] HDM0037 +++ ok. ok. ¿es un dolor fijo o se irradia? bien, ¿afecta a otros lugares?
+    - HDM0046 +++ ¿te duele algo en particular?
+    - ATD0094 +++ ok. ¿pero nada en la parte superior del abdomen? ¿todavía tienes la vesícula biliar? (duda por "vesícula biliar")
+    - [**] HDM0130 +++ ¿Tuvo dolor en alguna otra parte? ¿El dolor fue en un sentido o en otro?
+    - HDM0133 +++ sólo a la derecha?
+    - HDM0181 +++ ¿puede decirme aproximadamente dónde le duele el estómago?
+    - HDM0202 +++ Sí. ¿Y dónde está eso?
+    - HDM0220 +++ ok. ¿y hay algún otro lugar donde le duela?
+    - HDM0295 +++ de acuerdo. así que si pudieras mostrarme el dolor.
+    - HDM0331 +++ de acuerdo. ¿y se irradió a alguna parte? ¿sentiste el dolor en otra parte? ¿o estaba realmente muy localizado?
+    - HDM0441 +++ ¿dónde duele?
+    - HDM0462 +++ ¿el dolor va a otra parte del abdomen, a la espalda, a la izquierda o a la mandíbula?
+    - HDM0465 +++ ¿el dolor va al hombro?
+
+##entities:
+- intent: preguntar_frecuencia_dolor
+  examples: |
+    - [**] HDM0016 +++ y es un dolor continuo, ¿dónde?
+    - [**] HDM0067 +++ ¿y tienes problemas con tus intestinos en este momento? ¿más de lo habitual?
+    - ATD0073 +++ y pasaba de vez en cuando?
+    - HDM0447 +++ ¿el dolor está siempre presente?
+
+##entities:
+- intent: preguntar_tipo_dolor
+  examples: |
+    - [**] HDM0037 +++ ok. ok. ¿es un dolor fijo o se irradia? bien, ¿afecta a otros lugares?
+    - [**] HDM0130 +++ ¿Tuvo dolor en alguna otra parte? ¿El dolor fue en un sentido o en otro?
+    - HDM0205 +++ ¿y esto te pasó de golpe?
+    - HDM0214 +++ y ahí, el dolor, ¿fue largo? ¿no pasó?
+    - HDM0289 +++ ¿Y el dolor, si tuvieras que calificarlo en una escala...?
+    - HDM0298 +++ ¿y qué tipo de dolor era?
+    - HDM0322 +++ inicialmente, el dolor, apareció de repente?
+    - HDM0325 +++ y fue muy doloroso?
+    - HDM0361 +++ OK. ¿Es una meseta de dolor continuo? o hay momentos en los que duele más, es más intenso?
+    - ATD0373 +++ era menos fuerte?
+    - ATD0376 +++ y se fue solo? (NO DEL TODO SEGURO)
+    - ATD0379 +++ rápidamente? (NO DEL TODO SEGURO)
+    - HDM0453 +++ ¿tiene una sensación dolorosa de hambre?
+    - HDM0456 +++ ¿se siente como un calambre doloroso?
+    - HDM0459 +++ ¿es más bien una llaga?
+    - HDM0468 +++ ¿el dolor es puntuado por las comidas?
+    - TRT0471 +++ ¿se alivia el dolor con ciertas posiciones?
+    - HDM0474 +++ ¿el dolor es más fuerte cuando se respira profundamente?
+    - HDM0483 +++ ¿puede calificar su dolor de 0 a 10?
+    
+##entities:
+- intent: preguntar_dolor_alguna_vez
+  examples: |
+    - ATD0025 +++ bien, de acuerdo. ¿has tenido un dolor así antes, o alguna vez?
+    - ATD0049 +++ cierto. y ¿has tenido alguna vez un dolor así? ¿sabes?
+    - ATD0070 +++ y este dolor, ¿lo has experimentado antes?
+    - [**] ATD0076 +++ cierto. y ¿alguna vez tuviste la piel amarilla? o la conjuntiva de los ojos? ¿alguna vez lo notaste?
+    - [**] ATD0142 +++ derecho. ¿has tenido alguna vez el mismo dolor? ¿has estado enfermo y te ha hecho lo mismo?
+    - ATD0211 +++ ¿Has tenido alguna vez un dolor así?
+    - ATD0450 +++ ¿has tenido alguna vez este tipo de dolor?
+
+##entities:
+- intent: preguntar_dolor_sí_no
+  examples: |
+    - HDM0052 +++ cierto. ¿y ahora te duele otra vez?
+    - [**] HDM0067 +++ ¿y tienes problemas con tus intestinos en este momento? ¿más de lo habitual?
+    - [**] ATD0076 +++ cierto. y ¿alguna vez tuviste la piel amarilla? o la conjuntiva de los ojos? ¿alguna vez lo notaste?
+    - HDM0283 +++ ¿Así que todavía te duele en este momento?
+    - HDM0286 +++ se ha ido un poco?
+    - ATD0370 +++ cierto. ¿nunca has tenido dolor en ese lugar?
+   
+##entities:
+- intent: preguntar_síntomas_sensaciones
+  examples: |
+    - HDM0061 +++ ok. ¿tienes ganas de vomitar?
+    - HDM0064 +++ ok. ¿tienes fiebre o no?
+    - [**] HDM0136 +++ derecho. ¿has vomitado?
+    - [**] ATD0142 +++ derecho. ¿has tenido alguna vez el mismo dolor? ¿has estado enfermo y te ha hecho lo mismo?
+    - HDM0151 +++ ¿tiene fiebre?
+    - HDM0154 +++ ¿El dolor le impedía comer?
+    - [**] TRT0190 +++ De acuerdo. y entonces, aparte de la doliprana, ¿hay alguna posición que te alivie? o algún movimiento que empeore el dolor?
+    - HDM0244 +++ y volviendo al dolor: ¿también tuvo vómitos asociados?
+    - HDM0247 +++ ¿sí? ¿no vomitaste, si no?
+    - HDM0250 +++ con escalofríos, o?
+    - HDM0265 +++ OK. ¿Hubo otros signos con esto? ¿Vomitó, o?
+    - HDM0268 +++ cierto. ¿diarrea? ¿cosas así?
+    - HDM0292 +++ ¿Le impidió dormir anoche?
+    - HDM0334 +++ de acuerdo. ¿se incrementaba cuando inspirabas muy fuerte? ¿te cortaba la respiración?
+    - TRT0337 +++ e inclinarse hacia adelante por ejemplo, ¿te alivia? ¿hay alguna posición que te alivie?
+    - HDM0343 +++ Bien. ¿Tuvo náuseas? ¿Vómitos?
+    - HDM0346 +++ ¿Tuvo fiebre? ¿Se tomó la temperatura?
+    - ATD0349 +++ y ¿alguien te dijo o notó que estabas un poco amarillo o te miraste? ¿te viste normal?
+    - HDM0352 +++ ¿has estado sudando? ¿cosas así?
+    - ATD0355 +++ ¿y nadie tuvo fiebre en tu casa?
+    - HDM0364 +++ ¿Cómo te sientes ahora?
+    - ATD0400 +++ ¿Están todos los miembros de la familia sanos?
+    - HDM0486 +++ ¿has vomitado?
+    - ATD0489 +++ ¿hay otros enfermos a su alrededor con los mismos síntomas?
+    - HDM0492 +++ ¿tiene usted náuseas?
+    - HDM0495 +++ ¿vas al baño normalmente?
+    - HDM0498 +++ ¿tiene gas?
+    - ATD0501 +++ ¿Cuándo fue su última menstruación?
+    - HDM0504 +++ ¿tiene una hemorragia o flujo ginecológico anormal?
+    - HDM0507 +++ ¿tienes ardor al orinar?
+    - HDM0510 +++ ¿ha tenido algún desmayo o ha perdido el conocimiento?
+    - HDM0513 +++ ¿Tienes palpitaciones?
+    - HDM0516 +++ ¿siente algún problema respiratorio?
+    - HDM0522 +++ ¿ha notado que su orina es muy oscura?
+    - HDM0525 +++ ¿ha notado que sus heces están descoloridas?
+    - HDM0528 +++ ¿Te has tomado la temperatura?
+    - HDM0531 +++ ¿tiene usted fiebre?
+    
+##entities:
+- intent: preguntar_detalles_suceso
+  examples: |
+    - ATD0145 +++ ¿cuándo fue eso?
+    - HDM0313 +++ cierto. ¿Así que eso fue anoche?
+    - HDM0328 +++ OK. ¿Y dónde se encontraba?
+    - HDM0367 +++ ¿en el mismo lugar?
+    
+    
+##############################
+#                            #
+#    Preguntas personales    #
+#                            #
+##############################
+
+##entities:
+- intent: preguntas_personales
+  examples: |
+    - PSN0226 +++ ¿tiene hijos?
+    - PSN0229 +++ ok. ¿y trabajas?
+    - ATD0280 +++ ¿las entregas fueron bien? (NO DEL TODO SEGURO)
+    - MDV0391 +++ ¿tiene usted un médico?
+    - MDV0394 +++ ¿le sigue otro especialista?
+    - PSN0408 +++ ¿Dónde vives?
+    - PSN0411 +++ ¿Cuál es su ocupación?
+    - PSN0414 +++ ¿tiene hijos y cuántos embarazos ha tenido?
+    - ATD0420 +++ ¿tiene algún historial médico?
+    - MDV0519 +++ ¿Ha viajado recientemente?
+    - PSN0540 +++ ¿Cuál es su nombre y apellido?
+    - PSN0546 +++ ah, ¿cómo vives?
+    - PSN0552 +++ ¿A qué te dedicas?
+    
+##entities:
+- intent: edad
+  examples: |
+    - PSN0121 +++ ¿Cuántos años tienes?
+    - PSN0223 +++ ok. ¿y cuántos años tienes?
+    - ATD0277 +++ ¿qué edad tienen?
+    - PSN0304 +++ ¿Cuántos años tiene usted?
+    - PSN0555 +++ ¿su edad?
+    - PSN0558 +++ ¿Qué edad tienes?
+    
+##entities:    
+- intent: preguntar_operación
+  examples: |
+    - ATD0091 +++ y aparte de las muelas del juicio, ¿ha tenido alguna otra operación?
+    - ATD0232 +++ y ¿se ha operado alguna vez o?
+    - ATD0235 +++ ok. y si no, ¿ha habido alguna otra operación o algo?
+    - ATD0435 +++ ¿Se ha operado alguna vez?
+
+##entities:
+- intent: preguntar_sobre_consumibles
+  examples: |
+    - MDV0106 +++ y ¿fuma?
+    - MDV0109 +++ ¿bebe de vez en cuando?
+    - ...
+    
+##entities:
+- intent: preguntar_tratamientos_medicamentos
+  examples: |
+    - TRT0019 +++ de acuerdo. ¿y ya habías tomado tratamientos antes?
+    - TRT0022 +++ de acuerdo. ¿no tomas aspirina o?
+    - TRT0055 +++ ok. ¿tomaste analgésicos o no?
+    - TRT0139 +++ ¿Intentaste tomar algo para aliviar el dolor?
+    - TRT0157 +++ cierto. ¿toma tratamientos todos los días? ¿medicamentos?
+    - TRT0160 +++ ¿Ni siquiera la píldora?
+    - ATD0166 +++ cesárea o ?
+    - HDM0187 +++ OK. ¿después de comer? ¿a una hora determinada?
+    - TRT0217 +++ ¿cuándo tomaste el doliprane?
+    - TRT0241 +++ ok. ¿tomas algún tratamiento especial? para tu alergia o para cualquier otra cosa?
+    - HDM0340 +++ y allí, fue justo después de una comida... habías tomado medicación, algo, o...
+    - HDM0358 +++ y así después, tomaste una medicina, y entonces no se infectó, viniste. ¿es eso?
+    - TRT0385 +++ de acuerdo. ¿sin medicación?
+    - TRT0397 +++ ok. ¿toma medicación a diario?
+    - TRT0426 +++ ¿tomas alguna medicación?
+    - TRT0477 +++ ¿has tomado algo para aliviar el dolor?
+    - TRT0480 +++ Aparte de los dos comprimidos de paracetamol, ¿ha tomado algún otro medicamento recientemente?
+
+##entities:
+- intent: preguntar_enfermedad
+  examples: |
+    - ATD0034 +++ y ¿se le está siguiendo por alguna enfermedad en particular?
+    - ATD0079 +++ de acuerdo. por lo demás quería volver a hablar contigo: ¿tienes algún antecedente particular? ¿alguna enfermedad?
+    - ATD0085 +++ ¿no hay diabetes?
+    - ATD0088 +++ ¿hipertensión?
+    - [**] ATD0103 +++ después de eso, entre todo lo que miramos en internet, todo y cualquier cosa, realmente no te aconsejo. es más un fenómeno de ansiedad que otra cosa, creo. entonces, ok. ¿tienes alguna alergia en particular?
+    - ATD0163 +++ ok. ¿tienes alguna patología como presión arterial, diabetes?
+    - ATD0169 +++ y en su familia, ¿hay problemas de salud?
+    - ATD0238 +++ y ¿ha tenido alguna enfermedad en particular? ¿diabetes?
+    - ATD0274 +++ ¿tiene algún antecedente particular? ¿algún problema de salud? ¿ha hecho esto antes?
+    - ATD0382 +++ bien. ¿tiene alguna enfermedad?
+    - ATD0388 +++ ¿Sin diabetes? ¿Sin colesterol? ¿Sin presión arterial?
+    - ATD0417 +++ ¿tiene algún problema de salud, por ejemplo, problemas digestivos?
+    - ATD0423 +++ ¿tiene su familia algún problema de salud?
+    - ATD0429 +++ ¿tiene alguna alergia conocida?
+    
+##entities:
+- intent: preguntar_hábito_inusual
+  examples: |
+    - HDM0058 +++ ok. ¿has comido algo especial, no como de costumbre?
+ 
+##entities:
+- intent: preguntar_si_alguna_consulta_previa
+  examples: |
+    - ATD0534 +++ ¿Consultó a un médico antes de acudir a urgencias?
+    - ATD0537 +++ ¿se hizo alguna prueba antes de acudir a urgencias?

@@ -1,0 +1,111 @@
+version: "3.1"
+
+intents:
+
+  ## "intent" especiales
+  - 2+intent
+  - sin_contexto
+
+  ## Flujo conversación
+  - saludo
+  - preguntar_razón_venir
+  - cerrar_tema
+  - despedida
+
+  ## Preguntas sobre dolor
+  - preguntar_antigüedad_dolor
+  - preguntar_zona_dolor
+  - preguntar_frecuencia_dolor
+  - preguntar_tipo_dolor
+  - preguntar_dolor_alguna_vez
+  - preguntar_dolor_sí_no
+  - preguntar_síntomas_sensaciones
+  - preguntar_detalles_suceso
+
+  ## Preguntas personales
+  - preguntas_personales_general
+  - preguntar_edad
+  - preguntar_operación
+  - preguntar_sobre_consumibles
+  - preguntar_tratamientos_medicamentos
+  - preguntar_enfermedad
+  - preguntar_hábito_inusual
+  - preguntar_si_alguna_consulta_previa
+
+responses:
+  ## "intent" especiales
+  utter_2+intent:
+    - text: "INTENT: 2+intent"
+
+  utter_sin_contexto:
+    - text: "INTENT: sin_contexto"
+
+
+  ## Flujo conversación
+  utter_saludo:
+    - text: "INTENT: saludo"
+
+  utter_preguntar_razón_venir:
+    - text: "INTENT: preguntar_razón_venir"
+
+  utter_cerrar_tema:
+    - text: "INTENT: cerrar_tema"
+
+  utter_despedida:
+    - text: "INTENT: despedida"
+
+
+  ## Preguntas sobre dolor
+  utter_preguntar_antigüedad_dolor:
+    - text: "INTENT: preguntar_antigüedad_dolor"
+
+  utter_preguntar_zona_dolor:
+    - text: "INTENT: preguntar_zona_dolor"
+
+  utter_preguntar_frecuencia_dolor:
+    - text: "INTENT: preguntar_frecuencia_dolor"
+
+  utter_preguntar_tipo_dolor:
+    - text: "INTENT: preguntar_tipo_dolor"
+
+  utter_preguntar_dolor_alguna_vez:
+    - text: "INTENT: preguntar_dolor_alguna_vez"
+
+  utter_preguntar_dolor_sí_no:
+    - text: "INTENT: preguntar_dolor_sí_no"
+
+  utter_preguntar_síntomas_sensaciones:
+    - text: "INTENT: preguntar_síntomas_sensaciones"
+
+  utter_preguntar_detalles_suceso:
+    - text: "INTENT: preguntar_detalles_suceso"
+
+
+  ## Preguntas personales
+  utter_preguntas_personales_general:
+    - text: "INTENT: preguntas_personales_general"
+
+  utter_preguntar_edad:
+    - text: "INTENT: preguntar_edad"
+
+  utter_preguntar_operación:
+    - text: "INTENT: preguntar_operación"
+
+  utter_preguntar_sobre_consumibles:
+    - text: "INTENT: preguntar_sobre_consumibles"
+
+  utter_preguntar_tratamientos_medicamentos:
+    - text: "INTENT: preguntar_tratamientos_medicamentos"
+
+  utter_preguntar_enfermedad:
+    - text: "INTENT: preguntar_enfermedad"
+
+  utter_preguntar_hábito_inusual:
+    - text: "INTENT: preguntar_hábito_inusual"
+
+  utter_preguntar_si_alguna_consulta_previa:
+    - text: "INTENT: preguntar_si_alguna_consulta_previa"
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
